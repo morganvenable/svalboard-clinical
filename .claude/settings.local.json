@@ -1,0 +1,24 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(pip show:*)",
+      "Bash(pip install:*)",
+      "Bash(python build.py)",
+      "Bash(start:*)",
+      "Bash(for f:*)",
+      "Bash(do sed:*)",
+      "Bash(sed -i 's/<div class=\"\"stats-row\"\">/<div class=\"\"stats-row\"\" markdown=\"\"1\"\">/g' \"$f\")",
+      "Bash(done)",
+      "Bash(curl -s http://localhost:8765/html/index.html)",
+      "WebSearch",
+      "WebFetch(domain:svalboard.substack.com)",
+      "WebFetch(domain:svalboard.com)",
+      "Bash(perl -pi -e 's/\\(\\\\d\\)--\\(\\\\d\\)/$1-$2/g' carpal-tunnel.md)",
+      "Bash(do perl:*)",
+      "Bash(xargs grep:*)",
+      "Bash(cd:*)",
+      "Bash(gh repo:*)",
+      "Bash(gh api:*)"
+    ]
+  }
+}

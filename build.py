@@ -12,7 +12,7 @@ from pathlib import Path
 BASE_DIR = Path(__file__).parent
 MD_DIR = BASE_DIR / "markdown"
 HTML_DIR = BASE_DIR / "docs"
-CSS_REL = "../assets/css/clinical.css"
+CSS_REL = "assets/css/clinical.css"
 
 HTML_DIR.mkdir(exist_ok=True)
 
@@ -132,6 +132,16 @@ def build_file(md_path):
     out_path.write_text(html, encoding="utf-8")
     print(f"  Built: {out_path.name}")
 
+def copy_assets():
+    """Copy assets into docs/ so GitHub Pages can serve them."""
+    import shutil
+    src = BASE_DIR / "assets"
+    dst = HTML_DIR / "assets"
+    if dst.exists():
+        shutil.rmtree(dst)
+    shutil.copytree(src, dst)
+    print("  Copied assets/")
+
 def main():
     md_files = sorted(MD_DIR.glob("*.md"))
     if not md_files:
@@ -141,6 +151,7 @@ def main():
     print(f"Building {len(md_files)} pages...")
     for f in md_files:
         build_file(f)
+    copy_assets()
     print("Done!")
 
 if __name__ == "__main__":
