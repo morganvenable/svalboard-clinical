@@ -1,0 +1,449 @@
+---
+title: Ehlers-Danlos Syndrome
+hero_title: Replace Muscular Stabilization with Structural Support
+hero_subtitle: For hypermobility conditions, Svalboard replaces active stabilization (muscle-driven) with passive stabilization (device-supported) — a critical shift.
+---
+
+<div class="section problem" markdown="1">
+
+## The Clinical Problem
+
+Ehlers-Danlos Syndrome and related hypermobility spectrum disorders are defined by deficient or dysfunctional connective tissue. In the hands and upper extremities, this produces a cascade of mechanical consequences that compound during sustained, repetitive tasks like typing.
+
+**Ligamentous laxity and joint instability.** The collateral ligaments, volar plates, and joint capsules that passively constrain digit joints are structurally insufficient. MCP, PIP, and DIP joints may hyperextend, deviate laterally, or sublux under loads that a normal hand absorbs without effort. The wrist itself may be unstable, with excessive carpal translation and reduced passive constraint from the scapholunate and lunotriquetral ligaments.
+
+**Compensatory muscle co-contraction.** When passive structures cannot stabilize a joint, the nervous system compensates by activating muscles on both sides of the joint simultaneously. This co-contraction strategy works -- but at enormous metabolic and fatigue cost. Flexors and extensors fire together not to produce movement, but simply to prevent collapse. Every keystroke is preceded by a stabilization phase that a healthy hand performs passively via ligaments.
+
+**Chronic fatigue and pain from overuse.** The muscles recruited for co-contraction were not designed for sustained isometric holds. They fatigue rapidly, develop trigger points, and generate chronic myofascial pain. The tendons crossing these joints experience increased friction and loading from the constant baseline tension. Patients report hand fatigue disproportionate to the apparent effort of typing.
+
+**Common clinical findings in hypermobile typists:**
+
+- Wrist instability with pain on loading, especially in extension
+- MCP hyperextension during finger press, requiring active correction
+- PIP swan-neck or hyperextension postures under load
+- Chronic tendon irritation at the wrist and digit flexor sheaths
+- Rapid fatigue of intrinsic and extrinsic hand muscles
+- Compensatory proximal tension -- forearm, shoulder, and cervical guarding
+
+<div class="diagram-container">
+
+<svg viewBox="0 0 700 400" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Diagram comparing normal joint alignment with hypermobile MCP hyperextension, showing loose ligaments and compensatory muscle co-contraction">
+
+<!-- Background -->
+<rect width="700" height="400" fill="#1a1a2e" rx="8"/>
+
+<!-- Title -->
+<text x="350" y="30" text-anchor="middle" fill="#e0e0e0" font-family="monospace" font-size="14" font-weight="bold">Normal Joint Alignment vs Hypermobile MCP Hyperextension</text>
+
+<!-- Divider -->
+<line x1="350" y1="45" x2="350" y2="385" stroke="#444" stroke-width="1" stroke-dasharray="6,4"/>
+
+<!-- LEFT PANEL: Normal -->
+<text x="175" y="60" text-anchor="middle" fill="#8ecae6" font-family="monospace" font-size="13" font-weight="bold">Normal Alignment</text>
+
+<!-- Metacarpal bone -->
+<rect x="80" y="120" width="120" height="28" rx="12" fill="#e8d5a3" stroke="#bfa76a" stroke-width="1.5"/>
+<text x="140" y="139" text-anchor="middle" fill="#5a4a2a" font-family="monospace" font-size="9">Metacarpal</text>
+
+<!-- MCP Joint (normal) -->
+<ellipse cx="200" cy="134" rx="10" ry="16" fill="#c4b07a" stroke="#8a7a4a" stroke-width="1"/>
+
+<!-- Proximal phalanx (straight) -->
+<rect x="200" y="120" width="100" height="28" rx="12" fill="#e8d5a3" stroke="#bfa76a" stroke-width="1.5"/>
+<text x="250" y="139" text-anchor="middle" fill="#5a4a2a" font-family="monospace" font-size="9">Prox. Phalanx</text>
+
+<!-- Normal ligaments (taut, green) -->
+<line x1="193" y1="112" x2="210" y2="112" stroke="#4caf50" stroke-width="3" stroke-linecap="round"/>
+<line x1="193" y1="156" x2="210" y2="156" stroke="#4caf50" stroke-width="3" stroke-linecap="round"/>
+<text x="200" y="105" text-anchor="middle" fill="#4caf50" font-family="monospace" font-size="8">Taut ligament</text>
+<text x="200" y="172" text-anchor="middle" fill="#4caf50" font-family="monospace" font-size="8">Volar plate (taut)</text>
+
+<!-- Minimal muscle arrows (normal) -->
+<line x1="140" y1="95" x2="140" y2="110" stroke="#5b9bd5" stroke-width="1.5" marker-end="url(#arrowBlue)"/>
+<line x1="260" y1="95" x2="260" y2="110" stroke="#5b9bd5" stroke-width="1.5" marker-end="url(#arrowBlue)"/>
+<text x="200" y="88" text-anchor="middle" fill="#5b9bd5" font-family="monospace" font-size="8">Minimal muscle effort</text>
+
+<!-- Normal alignment indicator -->
+<line x1="80" y1="200" x2="300" y2="200" stroke="#4caf50" stroke-width="1" stroke-dasharray="3,3"/>
+<text x="190" y="215" text-anchor="middle" fill="#4caf50" font-family="monospace" font-size="9">Neutral alignment maintained by ligaments</text>
+
+<!-- PIP joint (normal, straight) -->
+<rect x="80" y="250" width="90" height="24" rx="10" fill="#e8d5a3" stroke="#bfa76a" stroke-width="1.5"/>
+<text x="125" y="266" text-anchor="middle" fill="#5a4a2a" font-family="monospace" font-size="8">Mid. Phalanx</text>
+<ellipse cx="170" cy="262" rx="8" ry="13" fill="#c4b07a" stroke="#8a7a4a" stroke-width="1"/>
+<rect x="170" y="250" width="80" height="24" rx="10" fill="#e8d5a3" stroke="#bfa76a" stroke-width="1.5"/>
+<text x="210" y="266" text-anchor="middle" fill="#5a4a2a" font-family="monospace" font-size="8">Dist. Phalanx</text>
+<text x="170" y="240" text-anchor="middle" fill="#4caf50" font-family="monospace" font-size="8">PIP: stable, neutral</text>
+
+<!-- Arrow definitions -->
+<defs>
+<marker id="arrowBlue" markerWidth="8" markerHeight="6" refX="8" refY="3" orient="auto">
+<path d="M0,0 L8,3 L0,6" fill="#5b9bd5"/>
+</marker>
+<marker id="arrowRed" markerWidth="8" markerHeight="6" refX="8" refY="3" orient="auto">
+<path d="M0,0 L8,3 L0,6" fill="#e74c3c"/>
+</marker>
+<marker id="arrowOrange" markerWidth="8" markerHeight="6" refX="8" refY="3" orient="auto">
+<path d="M0,0 L8,3 L0,6" fill="#ff9800"/>
+</marker>
+</defs>
+
+<!-- RIGHT PANEL: Hypermobile -->
+<text x="525" y="60" text-anchor="middle" fill="#ff9800" font-family="monospace" font-size="13" font-weight="bold">Hypermobile (EDS)</text>
+
+<!-- Metacarpal bone (right) -->
+<rect x="410" y="120" width="120" height="28" rx="12" fill="#e8d5a3" stroke="#bfa76a" stroke-width="1.5"/>
+<text x="470" y="139" text-anchor="middle" fill="#5a4a2a" font-family="monospace" font-size="9">Metacarpal</text>
+
+<!-- MCP Joint (hyperextended) -->
+<ellipse cx="530" cy="130" rx="10" ry="16" fill="#c4b07a" stroke="#8a7a4a" stroke-width="1"/>
+
+<!-- Proximal phalanx (angled upward = hyperextended) -->
+<g transform="rotate(-18, 530, 130)">
+<rect x="530" y="116" width="100" height="28" rx="12" fill="#e8d5a3" stroke="#bfa76a" stroke-width="1.5"/>
+<text x="580" y="135" text-anchor="middle" fill="#5a4a2a" font-family="monospace" font-size="9">Prox. Phalanx</text>
+</g>
+
+<!-- Loose ligaments (wavy, orange/red) -->
+<path d="M523,110 Q528,106 533,110 Q538,114 543,110" stroke="#ff5722" stroke-width="2.5" fill="none" stroke-linecap="round"/>
+<path d="M523,152 Q530,158 537,152 Q544,158 551,152" stroke="#ff5722" stroke-width="2.5" fill="none" stroke-linecap="round"/>
+<text x="540" y="100" text-anchor="middle" fill="#ff5722" font-family="monospace" font-size="8">Lax ligament</text>
+<text x="540" y="170" text-anchor="middle" fill="#ff5722" font-family="monospace" font-size="8">Volar plate (lax)</text>
+
+<!-- Hyperextension angle indicator -->
+<path d="M530,148 L530,180 L560,160" stroke="#ff9800" stroke-width="1.5" fill="none"/>
+<text x="555" y="180" fill="#ff9800" font-family="monospace" font-size="8">Hyperextension</text>
+
+<!-- Heavy muscle co-contraction arrows (many, thick, blue) -->
+<line x1="440" y1="80" x2="440" y2="110" stroke="#5b9bd5" stroke-width="3" marker-end="url(#arrowBlue)"/>
+<line x1="470" y1="75" x2="470" y2="110" stroke="#5b9bd5" stroke-width="3" marker-end="url(#arrowBlue)"/>
+<line x1="500" y1="80" x2="500" y2="110" stroke="#5b9bd5" stroke-width="3" marker-end="url(#arrowBlue)"/>
+<line x1="560" y1="75" x2="560" y2="100" stroke="#5b9bd5" stroke-width="3" marker-end="url(#arrowBlue)"/>
+<line x1="590" y1="80" x2="590" y2="100" stroke="#5b9bd5" stroke-width="3" marker-end="url(#arrowBlue)"/>
+
+<!-- Downward co-contraction arrows -->
+<line x1="440" y1="158" x2="440" y2="185" stroke="#5b9bd5" stroke-width="3" marker-end="url(#arrowBlue)"/>
+<line x1="470" y1="158" x2="470" y2="190" stroke="#5b9bd5" stroke-width="3" marker-end="url(#arrowBlue)"/>
+<line x1="560" y1="155" x2="560" y2="185" stroke="#5b9bd5" stroke-width="3" marker-end="url(#arrowBlue)"/>
+
+<text x="525" y="205" text-anchor="middle" fill="#5b9bd5" font-family="monospace" font-size="9" font-weight="bold">Heavy co-contraction</text>
+<text x="525" y="218" text-anchor="middle" fill="#5b9bd5" font-family="monospace" font-size="8">(flexors + extensors firing together)</text>
+
+<!-- PIP hyperextension (right) -->
+<rect x="410" y="260" width="90" height="24" rx="10" fill="#e8d5a3" stroke="#bfa76a" stroke-width="1.5"/>
+<text x="455" y="276" text-anchor="middle" fill="#5a4a2a" font-family="monospace" font-size="8">Mid. Phalanx</text>
+<ellipse cx="500" cy="272" rx="8" ry="13" fill="#c4b07a" stroke="#8a7a4a" stroke-width="1"/>
+<g transform="rotate(-12, 500, 272)">
+<rect x="500" y="260" width="80" height="24" rx="10" fill="#e8d5a3" stroke="#bfa76a" stroke-width="1.5"/>
+<text x="540" y="276" text-anchor="middle" fill="#5a4a2a" font-family="monospace" font-size="8">Dist. Phalanx</text>
+</g>
+<text x="500" y="250" text-anchor="middle" fill="#ff5722" font-family="monospace" font-size="8">PIP: swan-neck risk</text>
+<path d="M497,252 Q502,256 507,252" stroke="#ff5722" stroke-width="1.5" fill="none"/>
+
+<!-- Legend -->
+<rect x="20" y="320" width="660" height="70" rx="6" fill="#12121e" stroke="#333" stroke-width="1"/>
+<text x="40" y="342" fill="#e0e0e0" font-family="monospace" font-size="10" font-weight="bold">Legend:</text>
+<rect x="40" y="350" width="20" height="8" rx="3" fill="#e8d5a3" stroke="#bfa76a" stroke-width="1"/>
+<text x="68" y="358" fill="#ccc" font-family="monospace" font-size="9">Bone</text>
+<line x1="130" y1="354" x2="160" y2="354" stroke="#4caf50" stroke-width="3" stroke-linecap="round"/>
+<text x="168" y="358" fill="#ccc" font-family="monospace" font-size="9">Taut ligament</text>
+<path d="M280,354 Q287,348 294,354 Q301,360 308,354" stroke="#ff5722" stroke-width="2.5" fill="none"/>
+<text x="316" y="358" fill="#ccc" font-family="monospace" font-size="9">Lax ligament (EDS)</text>
+<line x1="460" y1="348" x2="460" y2="360" stroke="#5b9bd5" stroke-width="3" marker-end="url(#arrowBlue)"/>
+<text x="475" y="358" fill="#ccc" font-family="monospace" font-size="9">Muscle co-contraction force</text>
+
+</svg>
+
+<p class="diagram-caption">In hypermobility conditions, lax ligaments cannot passively constrain the joint. The nervous system compensates with heavy bilateral muscle co-contraction -- flexors and extensors firing simultaneously -- to prevent hyperextension and subluxation. This strategy is metabolically expensive and unsustainable during prolonged typing.</p>
+
+</div>
+
+</div>
+
+<div class="section problem" markdown="1">
+
+## Mechanical Issue in Conventional Typing
+
+Conventional keyboards demand a mode of hand use that is fundamentally incompatible with hypermobile connective tissue.
+
+**Continuous joint stabilization via muscle activation.** On a standard keyboard, the hand hovers above the keys with no structural support. Every joint from the wrist through the fingertips must be actively stabilized by muscle contraction. In a hypermobile hand, this stabilization load is dramatically amplified -- the muscles are not just positioning the fingers, they are preventing the joints from collapsing into hyperextension on every keystroke.
+
+**Repetitive motion through unstable joints.** Each keystroke requires the digit to travel 2-4mm through a full press-and-release cycle. In a hypermobile hand, this excursion occurs through joints that lack passive end-range constraint. The joint may hyperextend at the bottom of the press, requiring active muscular correction on every cycle. Over thousands of keystrokes per hour, this correction demand accumulates into profound fatigue.
+
+**High reliance on extrinsic muscles crossing multiple joints.** Conventional typing recruits the flexor digitorum profundus and superficialis -- long muscles whose tendons cross the wrist, MCP, PIP, and DIP joints. In a hypermobile hand, these multi-joint muscles must simultaneously produce motion at the fingertip and resist hyperextension at every joint they cross. The control problem is dramatically more complex and energy-intensive than in a normally constrained hand.
+
+<div class="comparison" markdown="1">
+
+<div class="comparison-panel conventional" markdown="1">
+
+### Conventional Keyboard + Hypermobile Hand
+
+- Hand hovers unsupported -- every joint must be actively stabilized
+- 2-4mm key travel through passively unstable joints
+- MCP joints tend toward hyperextension on each press
+- Extrinsic flexors must both move the finger and stabilize intermediate joints
+- Co-contraction of flexors and extensors required throughout the keystroke cycle
+- Wrist instability amplified by sustained extension posture
+- Rapid fatigue, pain, and subluxation risk with sustained typing
+
+</div>
+
+<div class="comparison-panel svalboard" markdown="1">
+
+### Svalboard + Hypermobile Hand
+
+- Hand rests fully supported in a contoured cup -- no hover, no active stabilization
+- 1-2 mm key travel -- joints barely move
+- MCP joints remain in neutral, supported position
+- Minimal extrinsic flexor recruitment -- intrinsic muscles handle the tiny forces required
+- Co-contraction demand drops dramatically with external structural support
+- Wrist in neutral posture, continuously supported
+- Sustained typing becomes feasible without fatigue spiral
+
+</div>
+
+</div>
+
+</div>
+
+<div id="mechanism" class="section mechanism" markdown="1">
+
+## What Svalboard Changes
+
+The central intervention for hypermobile hands is replacing active muscular stabilization with passive structural stabilization provided by the device itself. This is not a minor ergonomic adjustment -- it is a fundamental change in the mechanical strategy the hand uses to type.
+
+**External stabilization via palm support.** The hand rests in a contoured cup that supports the palm, thenar eminence, and hypothenar eminence continuously. The wrist is held in neutral. The hand does not hover, reach, or grip. This external support structure performs the role that intact ligaments would perform in a non-hypermobile hand: it constrains the joints passively so the muscles do not have to.
+
+**Reduces need for muscular co-contraction.** When the device provides structural constraint, the nervous system can reduce or eliminate the co-contraction strategy. Flexors and extensors no longer need to fire simultaneously to prevent joint collapse. This directly reduces the metabolic cost of typing and eliminates the primary fatigue driver for hypermobile patients.
+
+**Minimal joint excursion reduces stress on unstable MCP/PIP joints.** Key activation requires only 1-2 mm of travel. The digits barely move. Joints that would hyperextend or sublux through a full conventional keystroke never reach their unstable end range. The entire keystroke occurs within the safe, mid-range zone where even lax ligaments provide some constraint.
+
+**Encourages short-range intrinsic muscle use.** The minimal force and excursion requirements shift effort from long extrinsic muscles to short intrinsic muscles (lumbricals, interossei). Intrinsic muscles act within the hand, cross fewer joints, and are inherently more stabilizing because they produce MCP flexion with IP extension -- the opposite of the hyperextension pattern that plagues hypermobile typists.
+
+**Reduces shear forces across lax connective tissues.** With minimal excursion, minimal force, and continuous support, the shear and translational forces across joint capsules, volar plates, and collateral ligaments are dramatically reduced. This is directly protective for tissues that are structurally insufficient and vulnerable to microtrauma and progressive laxity.
+
+<div class="diagram-container">
+
+<svg viewBox="0 0 800 350" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Diagram comparing muscle stabilization on conventional keyboard versus device stabilization on Svalboard">
+
+<!-- Background -->
+<rect width="800" height="350" fill="#1a1a2e" rx="8"/>
+
+<!-- Title -->
+<text x="400" y="28" text-anchor="middle" fill="#e0e0e0" font-family="monospace" font-size="14" font-weight="bold">Muscle Stabilization vs Device Stabilization</text>
+
+<!-- Divider -->
+<line x1="400" y1="40" x2="400" y2="340" stroke="#444" stroke-width="1" stroke-dasharray="6,4"/>
+
+<!-- LEFT PANEL: Conventional keyboard -->
+<text x="200" y="55" text-anchor="middle" fill="#e74c3c" font-family="monospace" font-size="12" font-weight="bold">Conventional Keyboard: Active Stabilization</text>
+
+<!-- Keyboard surface -->
+<rect x="50" y="250" width="300" height="20" rx="4" fill="#333" stroke="#555" stroke-width="1"/>
+<rect x="100" y="243" width="24" height="14" rx="3" fill="#444" stroke="#666" stroke-width="1"/>
+<rect x="135" y="243" width="24" height="14" rx="3" fill="#444" stroke="#666" stroke-width="1"/>
+<rect x="170" y="243" width="24" height="14" rx="3" fill="#555" stroke="#888" stroke-width="1"/>
+<rect x="205" y="243" width="24" height="14" rx="3" fill="#444" stroke="#666" stroke-width="1"/>
+<rect x="240" y="243" width="24" height="14" rx="3" fill="#444" stroke="#666" stroke-width="1"/>
+<text x="200" y="285" text-anchor="middle" fill="#888" font-family="monospace" font-size="9">Flat keyboard surface</text>
+
+<!-- Hand hovering (left panel) -->
+<!-- Palm -->
+<ellipse cx="200" cy="180" rx="55" ry="25" fill="#d4a574" stroke="#b8956a" stroke-width="1.5" opacity="0.9"/>
+<!-- Fingers -->
+<rect x="120" y="140" width="14" height="65" rx="6" fill="#d4a574" stroke="#b8956a" stroke-width="1"/>
+<rect x="145" y="120" width="14" height="80" rx="6" fill="#d4a574" stroke="#b8956a" stroke-width="1"/>
+<rect x="173" y="110" width="14" height="90" rx="6" fill="#d4a574" stroke="#b8956a" stroke-width="1"/>
+<rect x="200" y="120" width="14" height="80" rx="6" fill="#d4a574" stroke="#b8956a" stroke-width="1"/>
+<rect x="225" y="140" width="14" height="55" rx="6" fill="#d4a574" stroke="#b8956a" stroke-width="1"/>
+
+<!-- Gap indicator (hand not touching keyboard) -->
+<line x1="130" y1="210" x2="130" y2="240" stroke="#e74c3c" stroke-width="1" stroke-dasharray="3,2"/>
+<line x1="240" y1="198" x2="240" y2="240" stroke="#e74c3c" stroke-width="1" stroke-dasharray="3,2"/>
+<text x="280" y="228" fill="#e74c3c" font-family="monospace" font-size="8">Gap: no support</text>
+
+<!-- RED muscle force arrows everywhere -->
+<!-- Wrist stabilization -->
+<line x1="200" y1="210" x2="200" y2="230" stroke="#e74c3c" stroke-width="2.5" marker-end="url(#arrowRed)"/>
+<line x1="200" y1="168" x2="200" y2="148" stroke="#e74c3c" stroke-width="2.5" marker-end="url(#arrowRed)"/>
+
+<!-- MCP stabilization arrows (each finger, both directions) -->
+<line x1="127" y1="155" x2="115" y2="145" stroke="#e74c3c" stroke-width="2" marker-end="url(#arrowRed)"/>
+<line x1="127" y1="155" x2="139" y2="145" stroke="#e74c3c" stroke-width="2" marker-end="url(#arrowRed)"/>
+
+<line x1="152" y1="140" x2="140" y2="128" stroke="#e74c3c" stroke-width="2" marker-end="url(#arrowRed)"/>
+<line x1="152" y1="140" x2="164" y2="128" stroke="#e74c3c" stroke-width="2" marker-end="url(#arrowRed)"/>
+
+<line x1="180" y1="130" x2="168" y2="118" stroke="#e74c3c" stroke-width="2" marker-end="url(#arrowRed)"/>
+<line x1="180" y1="130" x2="192" y2="118" stroke="#e74c3c" stroke-width="2" marker-end="url(#arrowRed)"/>
+
+<line x1="207" y1="140" x2="195" y2="128" stroke="#e74c3c" stroke-width="2" marker-end="url(#arrowRed)"/>
+<line x1="207" y1="140" x2="219" y2="128" stroke="#e74c3c" stroke-width="2" marker-end="url(#arrowRed)"/>
+
+<line x1="232" y1="155" x2="220" y2="145" stroke="#e74c3c" stroke-width="2" marker-end="url(#arrowRed)"/>
+<line x1="232" y1="155" x2="244" y2="145" stroke="#e74c3c" stroke-width="2" marker-end="url(#arrowRed)"/>
+
+<!-- Forearm tension arrows -->
+<line x1="170" y1="80" x2="160" y2="68" stroke="#e74c3c" stroke-width="2" marker-end="url(#arrowRed)"/>
+<line x1="190" y1="78" x2="195" y2="65" stroke="#e74c3c" stroke-width="2" marker-end="url(#arrowRed)"/>
+<line x1="210" y1="80" x2="220" y2="68" stroke="#e74c3c" stroke-width="2" marker-end="url(#arrowRed)"/>
+
+<text x="200" y="73" text-anchor="middle" fill="#e74c3c" font-family="monospace" font-size="8" font-weight="bold">Forearm tension</text>
+
+<!-- Labels -->
+<text x="85" y="135" fill="#e74c3c" font-family="monospace" font-size="7">co-contraction</text>
+<text x="85" y="143" fill="#e74c3c" font-family="monospace" font-size="7">at every joint</text>
+
+<text x="200" y="305" text-anchor="middle" fill="#e74c3c" font-family="monospace" font-size="10">Every joint requires active muscle stabilization</text>
+<text x="200" y="318" text-anchor="middle" fill="#e74c3c" font-family="monospace" font-size="9">High fatigue, high pain, rapid exhaustion</text>
+
+<!-- RIGHT PANEL: Svalboard -->
+<text x="600" y="55" text-anchor="middle" fill="#4caf50" font-family="monospace" font-size="12" font-weight="bold">Svalboard: Passive Device Stabilization</text>
+
+<!-- Svalboard cup -->
+<path d="M480,220 Q490,260 530,270 Q600,280 670,270 Q710,260 720,220" stroke="#4caf50" stroke-width="2" fill="#2a3a2a" opacity="0.8"/>
+<path d="M490,230 Q500,258 540,265 Q600,272 660,265 Q700,258 710,230" stroke="none" fill="#1a2e1a" opacity="0.6"/>
+<text x="600" y="285" text-anchor="middle" fill="#4caf50" font-family="monospace" font-size="9">Contoured support cup</text>
+
+<!-- Key switches (small, in cup) -->
+<circle cx="530" cy="255" r="6" fill="#3a5a3a" stroke="#4caf50" stroke-width="1"/>
+<circle cx="560" cy="248" r="6" fill="#3a5a3a" stroke="#4caf50" stroke-width="1"/>
+<circle cx="590" cy="245" r="6" fill="#4a6a4a" stroke="#5cbf5c" stroke-width="1.5"/>
+<circle cx="620" cy="248" r="6" fill="#3a5a3a" stroke="#4caf50" stroke-width="1"/>
+<circle cx="650" cy="255" r="6" fill="#3a5a3a" stroke="#4caf50" stroke-width="1"/>
+
+<!-- Hand resting IN cup -->
+<!-- Palm (resting, lower position) -->
+<ellipse cx="600" cy="200" rx="55" ry="25" fill="#d4a574" stroke="#b8956a" stroke-width="1.5" opacity="0.9"/>
+<!-- Fingers (relaxed, resting on keys) -->
+<rect x="520" y="175" width="14" height="55" rx="6" fill="#d4a574" stroke="#b8956a" stroke-width="1"/>
+<rect x="548" y="162" width="14" height="60" rx="6" fill="#d4a574" stroke="#b8956a" stroke-width="1"/>
+<rect x="576" y="155" width="14" height="65" rx="6" fill="#d4a574" stroke="#b8956a" stroke-width="1"/>
+<rect x="604" y="162" width="14" height="60" rx="6" fill="#d4a574" stroke="#b8956a" stroke-width="1"/>
+<rect x="632" y="175" width="14" height="55" rx="6" fill="#d4a574" stroke="#b8956a" stroke-width="1"/>
+
+<!-- Green "supported" indicators -->
+<rect x="492" y="228" width="8" height="30" rx="3" fill="#4caf50" opacity="0.5"/>
+<rect x="516" y="222" width="8" height="36" rx="3" fill="#4caf50" opacity="0.5"/>
+<rect x="588" y="218" width="8" height="38" rx="3" fill="#4caf50" opacity="0.5"/>
+<rect x="660" y="222" width="8" height="36" rx="3" fill="#4caf50" opacity="0.5"/>
+<rect x="700" y="228" width="8" height="30" rx="3" fill="#4caf50" opacity="0.5"/>
+
+<!-- Support contact indicators -->
+<text x="478" y="245" fill="#4caf50" font-family="monospace" font-size="7" transform="rotate(-90,478,245)">SUPPORTED</text>
+<text x="718" y="245" fill="#4caf50" font-family="monospace" font-size="7" transform="rotate(90,718,245)">SUPPORTED</text>
+
+<!-- Minimal muscle force arrows (very few, thin, green) -->
+<line x1="583" y1="165" x2="583" y2="155" stroke="#4caf50" stroke-width="1.2" marker-end="url(#arrowGreen)"/>
+
+<defs>
+<marker id="arrowGreen" markerWidth="6" markerHeight="5" refX="6" refY="2.5" orient="auto">
+<path d="M0,0 L6,2.5 L0,5" fill="#4caf50"/>
+</marker>
+</defs>
+
+<text x="600" y="140" text-anchor="middle" fill="#4caf50" font-family="monospace" font-size="8">Minimal muscle effort needed</text>
+<text x="600" y="110" text-anchor="middle" fill="#4caf50" font-family="monospace" font-size="8">No forearm tension required</text>
+
+<!-- Relaxed indicators on each joint -->
+<circle cx="527" cy="188" r="4" fill="none" stroke="#4caf50" stroke-width="1.2"/>
+<circle cx="555" cy="178" r="4" fill="none" stroke="#4caf50" stroke-width="1.2"/>
+<circle cx="583" cy="173" r="4" fill="none" stroke="#4caf50" stroke-width="1.2"/>
+<circle cx="611" cy="178" r="4" fill="none" stroke="#4caf50" stroke-width="1.2"/>
+<circle cx="639" cy="188" r="4" fill="none" stroke="#4caf50" stroke-width="1.2"/>
+<text x="660" y="178" fill="#4caf50" font-family="monospace" font-size="7">Joints relaxed</text>
+
+<!-- Labels -->
+<text x="600" y="305" text-anchor="middle" fill="#4caf50" font-family="monospace" font-size="10">Device provides structural constraint</text>
+<text x="600" y="318" text-anchor="middle" fill="#4caf50" font-family="monospace" font-size="9">Low fatigue, low pain, sustainable duration</text>
+
+<!-- Bottom comparison bar -->
+<rect x="30" y="330" width="740" height="16" rx="4" fill="#12121e" stroke="#333" stroke-width="1"/>
+<text x="200" y="342" text-anchor="middle" fill="#e74c3c" font-family="monospace" font-size="9">Muscles must do what ligaments cannot</text>
+<text x="400" y="342" text-anchor="middle" fill="#666" font-family="monospace" font-size="9">vs</text>
+<text x="600" y="342" text-anchor="middle" fill="#4caf50" font-family="monospace" font-size="9">Device does what ligaments cannot</text>
+
+</svg>
+
+<p class="diagram-caption">In hypermobile hands, ligaments cannot passively constrain joints. On a conventional keyboard (left), muscles must fire continuously to prevent joint collapse -- generating enormous fatigue. On Svalboard (right), the contoured cup and minimal key travel provide external structural constraint, replacing the need for active muscular stabilization.</p>
+
+</div>
+
+</div>
+
+<div class="section clinical" markdown="1">
+
+## Clinical Impact
+
+<div class="stats-row" markdown="1">
+
+<div class="stat-card" markdown="1">
+<span class="stat-arrow down"></span>
+<strong>Joint Strain</strong>
+<p>1-2 mm travel keeps joints in mid-range where even lax ligaments provide some passive constraint</p>
+</div>
+
+<div class="stat-card" markdown="1">
+<span class="stat-arrow down"></span>
+<strong>Muscle Fatigue</strong>
+<p>External support eliminates the co-contraction stabilization strategy that drains hypermobile patients during typing</p>
+</div>
+
+<div class="stat-card" markdown="1">
+<span class="stat-arrow down"></span>
+<strong>Co-contraction Demand</strong>
+<p>Device-provided structural constraint replaces bilateral muscle firing, reducing metabolic cost per keystroke by an order of magnitude</p>
+</div>
+
+<div class="stat-card" markdown="1">
+<span class="stat-arrow up"></span>
+<strong>Typing Tolerance</strong>
+<p>Patients who could type for 10-15 minutes before fatigue report sustained sessions of an hour or more without the characteristic EDS hand fatigue</p>
+</div>
+
+</div>
+
+<div class="callout clinical-summary" markdown="1">
+
+**The fundamental shift**: In hypermobility conditions, the central problem is that passive structures (ligaments, joint capsules, volar plates) cannot do their job. The body compensates by converting a passive stabilization problem into an active one -- using muscles to do what connective tissue should. This works, but at unsustainable cost. Svalboard converts the problem back: it provides passive, external, structural stabilization so the muscles can return to their intended role of producing movement rather than preventing collapse. The hand does not need to be strong to type on Svalboard. It needs to be present.
+
+</div>
+
+</div>
+
+<div id="provider" class="section provider" markdown="1">
+
+<span class="badge provider-badge">Provider Overview</span>
+
+## Clinical Summary for Referring Providers
+
+**Condition family:** Ehlers-Danlos Syndrome (all subtypes), Hypermobility Spectrum Disorders, Marfan Syndrome, and other heritable connective tissue disorders affecting joint stability.
+
+**Structures involved:** MCP joints, PIP joints, DIP joints, wrist carpal complex, collateral ligaments, volar plates, joint capsules, flexor and extensor tendons, intrinsic and extrinsic hand muscles.
+
+**Core mechanical problem:** Ligamentous laxity prevents passive joint stabilization. The neuromuscular system compensates with continuous co-contraction of antagonist muscle groups, producing rapid fatigue, chronic myofascial pain, and progressive joint irritation during repetitive tasks.
+
+**Key biomechanical change with Svalboard:** Passive structural stabilization (provided by the device's contoured hand support and minimal-excursion key activation) replaces active muscular stabilization (co-contraction). This eliminates the primary fatigue and pain driver for hypermobile patients during typing.
+
+**Specific mechanisms:**
+
+- Full palmar support in contoured cup eliminates hover and grip demand
+- 1-2 mm key travel keeps joints in safe mid-range, avoiding hyperextension
+- Intrinsic muscle activation replaces extrinsic multi-joint muscle recruitment
+- Neutral wrist posture is maintained passively by device geometry
+- Shear and translational forces across lax connective tissues are minimized
+
+**Relevant diagnoses (ICD-10):**
+
+- Q79.6 -- Ehlers-Danlos syndromes (hEDS, classical, vascular, other subtypes)
+- M35.7 -- Hypermobility syndrome
+- Q87.40 -- Marfan syndrome, unspecified
+- M24.2 -- Disorder of ligament (ligamentous laxity)
+- M79.3 -- Panniculitis, unspecified (associated connective tissue inflammation)
+- G90.1 -- Familial dysautonomia (commonly comorbid, relevant to fatigue)
+
+**Clinical expectation:** Patients with hypermobility conditions who have failed conventional ergonomic interventions (split keyboards, tenting, wrist rests) may achieve sustainable typing tolerance with Svalboard because the intervention addresses the root mechanical problem -- insufficient passive stabilization -- rather than repositioning the hand within the same unstable mechanical paradigm.
+
+**Patient selection notes:** Svalboard is appropriate across the spectrum of hypermobility severity. Patients with severe MCP/PIP instability or recurrent subluxation during typing are likely to experience the most dramatic benefit, as these patients have the highest co-contraction burden on conventional keyboards. Patients with milder hypermobility who experience disproportionate hand fatigue during typing are also strong candidates.
+
+</div>
