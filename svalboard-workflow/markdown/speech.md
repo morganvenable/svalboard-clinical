@@ -1,7 +1,7 @@
 ---
 title: Speech Input
 hero_title: Speech
-hero_subtitle: Voice is not a replacement for typing. It is a complementary channel optimized for different cognitive modes.
+hero_subtitle: Local recognition, structural editing, and what changes when you can speak intent to an AI.
 hero_buttons: none
 ---
 

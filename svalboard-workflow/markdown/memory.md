@@ -1,7 +1,7 @@
 ---
 title: Memory and Attention
 hero_title: Memory and Attention
-hero_subtitle: The tools on your desk serve the focused session. What serves the space between sessions, and the quality of attention within them?
+hero_subtitle: Capturing fleeting insights, protecting focus, and the tension between the two.
 hero_buttons: none
 ---
 

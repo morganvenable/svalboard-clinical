@@ -9,13 +9,11 @@ hero_buttons: none
 
 ## You Already Know This
 
-You have sat down to write something and discovered, mid-sentence, that you didn't believe what you were about to say. You have started an email intending one thing and arrived somewhere else entirely by the end. You have explained a problem to a colleague in writing and realized, as the words took shape, that you already knew the answer.
+You've had the experience. You sit down to write an email, or a design doc, or even just a message to a colleague, and somewhere in the middle of composing it, your thinking shifts. The sentence you were about to write turns out to be wrong, and you only know that because you tried to write it. By the time you're done, you understand the problem differently than when you started.
 
-This is not a quirk of your process. It is the process. The act of putting thought into written language changes the thought. Not because writing is a good way to communicate (it is), but because writing is a way of *thinking* that works differently from any other kind.
+This happens so reliably that most people who write for a living take it for granted. It's just part of how the work goes. But cognitive scientists have spent decades trying to understand why, and their findings are worth sitting with for a moment, because they have a lot to say about where we're headed.
 
-Cognitive scientists have a name for this. Bereiter and Scardamalia (1987) called it **knowledge transformation**: the experience of generating new understanding through the struggle to articulate what you know. It is distinct from **knowledge telling**, where you simply transcribe what's already in your head. The difference is not about quality of output. It is about what happens inside the person doing the writing. One process changes you. The other doesn't.
-
-Most people who write seriously have felt this. The research confirms it is real: writing generates understanding that did not exist before the writing happened (Emig, 1977; Galbraith, 1999; Langer & Applebee, 1987). It is not metaphorical. It is a measurable cognitive phenomenon.
+Bereiter and Scardamalia (1987) drew a distinction between what they called **knowledge telling** and **knowledge transforming**. Knowledge telling is when you write down what you already know, more or less as you know it. Knowledge transforming is when the act of writing reorganizes your understanding, when the struggle to get the words right forces you to think more precisely than you otherwise would have. The research since then (Emig, 1977; Galbraith, 1999; Langer & Applebee, 1987) has consistently supported the idea that this is a real cognitive phenomenon, not just a feeling. Writing doesn't merely record thought. It participates in generating it.
 
 </div>
 
@@ -23,15 +21,13 @@ Most people who write seriously have felt this. The research confirms it is real
 
 <div class="section clinical" markdown="1">
 
-## Why Writing Works This Way
+## How the Mechanism Works
 
-Writing is cognitively unlike speech. When you speak, you commit to structure in real time, with a listener present, and you cannot take back what you've said. When you write, you can pause, reread, restructure, delete, and start over. The written trace persists outside your head, freeing working memory for the harder work of figuring out what you actually mean (Bourdin & Fayol, 1994; Kellogg, 2007).
+The reason writing does this and speech generally doesn't comes down to a structural difference in the process. When you talk, you're committing to words in real time, with someone listening, and you can't unsay what you've said. It goes by fast and you adapt on the fly. Writing is recursive. You put something down, read it back, notice the gap between what you said and what you meant, and revise. That gap is where the thinking happens. The written trace sits there outside your head, holding your place, freeing up working memory for the harder work of figuring out what you actually believe (Bourdin & Fayol, 1994; Kellogg, 2007).
 
-This recursiveness is what makes writing generative. You write a sentence. You read it back. It's not quite right. The gap between what you wrote and what you meant forces you to think more precisely. You revise. The revision changes your understanding. You write the next sentence from a slightly different place than where you started. Over paragraphs and pages, this iterative process produces thinking that could not have happened any other way.
+There's a physical dimension to this too. When you've typed long enough that the keystrokes are unconscious, something interesting happens: your fingers and your thinking stop competing for the same cognitive resources. Logan and Crump (2011) showed that expert typists can't even report which fingers they use for which keys, so thoroughly has the motor execution dropped out of conscious awareness. Chenoweth and Hayes (2001) found that faster typists produce longer uninterrupted bursts of composition, which is the measurable signature of what most writers would recognize as being in flow.
 
-The physical act matters too. When typing is fluent enough to be automatic, your conscious mind is freed for composition rather than transcription. Logan and Crump (2011) showed that skilled typists' keystroke execution becomes fully unconscious, leaving the entire conscious capacity available for the thinking work. Chenoweth and Hayes (2001) found that faster typists produced longer uninterrupted bursts of composition. This is what flow feels like in writing: the fingers move and the mind works and the two don't interfere with each other.
-
-But there is a paradox here. If input becomes *too* effortless, if the text just appears without the writer's struggle to produce it, the generative process may not engage at all. The difficulty is part of the mechanism. The right input method is one that is automatic enough to stay out of the way but still requires the writer to do the thinking.
+There's a paradox in here, though. If the input becomes effortless to the point where you're not really composing, if the text just appears, the generative mechanism may not engage. Some of the cognitive value of writing comes from the productive friction of having to choose your words. This is worth keeping in mind as AI gets better at producing text on your behalf.
 
 </div>
 
@@ -39,17 +35,13 @@ But there is a paradox here. If input becomes *too* effortless, if the text just
 
 <div class="section problem" markdown="1">
 
-## What AI Changes
+## Living With AI
 
-AI can produce text. Increasingly, it produces good text. This is genuinely useful, and the productivity effects are real and growing. Solo developers now operate as entire teams. Writers produce first drafts in minutes that once took days.
+The productivity gains from AI-assisted writing and coding are real and they're substantial. People are building things they couldn't have built alone. This page exists in part because of that: a founder directing an AI assistant by voice to assemble research and draft structured content, a workflow that would have required a small team not long ago.
 
-But producing text and internalizing understanding through the act of producing text are different things. When AI writes for you, you get the output without undergoing the transformation. You have the document but not the changed mind that would have come from writing it yourself.
+The interesting question is what happens to the writer in the process. When you direct an AI to produce text rather than composing it yourself, you get the output, but you may not get the changed understanding that comes from the struggle of composition. You have the document but you may not have internalized the thinking the way you would have if you'd written it from scratch.
 
-This is not an argument against using AI. It is an observation about what you gain and what you give up. There are many situations where the output is what matters and the cognitive transformation is irrelevant. There are other situations where the transformation is the entire point: learning, sense-making, working through a complex decision, developing your own perspective on a problem.
-
-The risk is not that AI will make writing obsolete. The risk is subtler: that as AI handles more of the text production, people get less practice at the kind of writing that generates understanding. Knowledge transformation is not innate. Kellogg (2008) estimates it takes ten or more years of deliberate practice to develop fully. A skill you don't exercise is a skill you lose.
-
-The BCG consultants in Dell'Acqua et al.'s (2023) "jagged frontier" study demonstrated this concretely. With AI assistance, their performance improved 40% on tasks inside the AI's capability. On tasks outside the AI's capability, where they needed to think for themselves, performance dropped 19%. They had, in a sense, already started to forget how.
+This is a tradeoff, not a tragedy. There are plenty of situations where the output is what matters and the cognitive journey is beside the point. But there are other situations, learning something deeply, working through a hard decision, developing your own perspective on a complex problem, where the journey is the entire point. And there's some evidence that the tradeoff has teeth. Dell'Acqua et al. (2023) ran a study with BCG consultants and found that AI assistance improved their performance by 40% on tasks the AI was good at, but degraded it by 19% on tasks outside the AI's strengths, because the consultants had started leaning on the AI for the thinking. Kellogg (2008) estimates that the capacity for knowledge-transforming writing takes a decade or more of practice to develop. It's not the kind of thing you can let atrophy and then pick back up when you need it.
 
 </div>
 
@@ -57,13 +49,13 @@ The BCG consultants in Dell'Acqua et al.'s (2023) "jagged frontier" study demons
 
 <div class="section mechanism" markdown="1">
 
-## What Doesn't Change
+## The Body in the Loop
 
-Whatever tools you use, whatever AI assists you, whatever modality you prefer, one thing remains constant: you are a physical being working through a physical interface for hours every day, year after year.
+All of this is somewhat abstract until you factor in the body.
 
-The interface matters. Not just for comfort, but for cognition. Pain captures attention (Eccleston & Crombez, 1999). When your hands hurt, you cannot sustain the automatic, fluent input that makes writing a thinking tool. RSI doesn't just stop your fingers. It breaks the hand-mind connection that makes composition generative. One in five computer users develops hand or arm symptoms annually (Marcus et al., 2002). Once symptoms appear, typing speed drops 15-30% and the cognitive disruption (difficulty concentrating, loss of creative momentum, anxiety about flare-ups) compounds the physical impairment (Moore et al., 2019).
+Whatever your preferred way of interacting with a computer, you're a physical organism doing it for hours a day, years on end. If the interaction causes pain, everything else falls apart. Not just physically: pain captures attention (Eccleston & Crombez, 1999), breaks the unconscious automaticity that makes fluid input possible, and consumes the cognitive resources you'd otherwise use for the thinking work. One in five computer users develops hand or arm symptoms in a given year (Marcus et al., 2002). Once symptoms show up, typing speed drops 15-30%, and the cognitive disruption, difficulty concentrating, anxiety about flare-ups, loss of creative momentum, compounds the physical problem (Moore et al., 2019).
 
-And the stakes are rising. When AI multiplies the output of each human work session, the human's capacity to sustain that session becomes the bottleneck. A developer sidelined by RSI doesn't lose one person's productivity. They lose an entire team's output. The case for protecting the human body scales with everything AI makes possible.
+The stakes here are quietly escalating. When a single person with AI assistance does the work that used to require a team, their physical capacity to sustain focused sessions becomes the bottleneck for a much larger output. Getting sidelined by RSI is a bigger deal now than it was five years ago, measured purely in terms of what it costs.
 
 </div>
 
@@ -71,21 +63,23 @@ And the stakes are rising. When AI multiplies the output of each human work sess
 
 <div class="section clinical" markdown="1">
 
-## The Richer Landscape
+## A Richer Set of Options
 
-The future of how we interact with our tools is not keyboard versus voice versus gaze. It is all of them together, combined more fluidly than has ever been possible, with AI as the interpreter that bridges between modalities.
+The good news is that the options for how you interact with your tools are richer than they've ever been, and getting richer fast.
 
-Voice lets you think out loud at 150 words per minute. Typing lets you compose with the precision and recursiveness that generates understanding. Gaze lets you point without moving your hands. AI lets you speak intent rather than dictation, and resolves ambiguity across channels. The tools are still rough and the integration is imperfect, but the trajectory is clear.
+Voice input, once limited to rigid command grammars, is becoming genuinely fluid now that LLMs can interpret intent from natural speech. You can talk loosely about what you want and get structured output. Gaze tracking is moving from a specialized accessibility tool toward something that could complement any input method, letting your eyes handle the "where" while your hands or voice handle the "what." And the physical keyboard itself is a design space with a lot more room in it than most people realize, ranging from the conventional all the way to architectures like Svalboard's finger wells, which were clinically shown to reduce pain by 71% over a few months in the original DataHand research (Kaiser & Koeneman, 1994).
 
-Each of these modalities has its own depth, its own emerging tools, and its own implications for how people work.
+None of these modalities needs to win. The most interesting workflows combine them, using each one for what it does best, and the AI layer increasingly acts as the interpreter between them. This is still early. The tools are rough, the learning curves are steep, and the integration between modalities is mostly held together with duct tape. But the direction is clear enough to be worth thinking about seriously.
 
-**[Speech](speech.html)**: Local recognition with tools like Handy. Structural voice editing with Cursorless. The emerging pattern of speaking intent to AI rather than dictating text.
+Each of these areas has more depth than a single page can do justice to:
 
-**[Gaze](gaze.html)**: Tobii hardware for precision. Webcam-based alternatives gaining ground. The possibility that LLM screen context could bridge the accuracy gap without dedicated hardware.
+**[Speech](speech.html)** covers local recognition tools, structural voice editing, and what changes when you can speak intent to an AI rather than dictating text.
 
-**[Motor Input](motor-input.html)**: The finger-well architecture that DataHand established and Svalboard refines. Why the physical interface is a cognitive tool, not just an output device. What it means to fit a keyboard to a hand with millimeter precision.
+**[Gaze](gaze.html)** looks at hardware trackers, open-source webcam alternatives, and the tantalizing possibility that LLM screen context could make cheap cameras useful for approximate gaze input.
 
-**[Memory and Attention](memory.html)**: What happens between focused sessions. Capturing fleeting insights. Protecting attention within sessions. The tension between low-friction capture and high-friction focus.
+**[Motor input](motor-input.html)** gets into why the physical interface is a cognitive tool and not just an output device, and what it means to fit a keyboard to a hand at the millimeter level.
+
+**[Memory and attention](memory.html)** addresses the space between focused sessions: capturing fleeting insights, protecting focus from interruption, and the tension between wanting low-friction capture and high-friction concentration.
 
 </div>
 
@@ -93,16 +87,12 @@ Each of these modalities has its own depth, its own emerging tools, and its own 
 
 <div class="section provider" markdown="1">
 
-## The Question
+## What It Comes Down To
 
-Here is what this comes down to.
+AI is reshaping how knowledge work gets done, and the pace isn't slowing. The human role is moving toward direction, judgment, and the kind of internalized understanding that comes from composing your own thoughts. The tools for doing this well are better and more varied than they've ever been.
 
-AI is reshaping every workflow. The human role is shifting from production toward direction, judgment, and the internalization of understanding that comes from composing your own thoughts. The tools for doing this are richer than they have ever been: voice, gaze, keyboard, and AI working together in ways that were not possible even two years ago.
+Svalboard exists because a lot of people find that typing is how they think best, and because conventional keyboards eventually cause pain that takes that away. If that resonates with you, the [clinical evidence](../index.html) and the engineering behind the product are worth a look.
 
-The question is not which modality is best. The question is what works for you, and whether you can sustain it.
-
-Svalboard exists because many people find that physical typing is how they think best, and because conventional keyboards cause pain that eventually takes that away. If typing is your preferred path to understanding, you deserve hardware that protects it over a career.
-
-But the deeper question is for everyone, regardless of what tools they use: **How do you want to structure your workflow, and what does your body need to sustain it for the next thirty years?**
+But the bigger question applies to everyone, regardless of what tools they prefer: how do you want to structure your workflow, and what does your body need to sustain it for the next thirty years?
 
 </div>

@@ -1,7 +1,7 @@
 ---
 title: Motor Input
 hero_title: Motor Input
-hero_subtitle: The physical interface between human and computer remains the critical link in every workflow, and the one most likely to fail over a career.
+hero_subtitle: Why the keyboard is a cognitive tool, and what it means to fit one to a hand at the millimeter level.
 hero_buttons: none
 ---
 

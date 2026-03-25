@@ -1,7 +1,7 @@
 ---
 title: Gaze Tracking
 hero_title: Gaze
-hero_subtitle: Your eyes already look at what you want to interact with. The question is whether your tools can use that signal.
+hero_subtitle: Hardware trackers, webcam alternatives, and what happens when you add AI to approximate gaze.
 hero_buttons: none
 ---
 
