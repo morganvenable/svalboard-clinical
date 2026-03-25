@@ -105,13 +105,13 @@ On Svalboard, the finger rests in its key cluster at all times. No "return to ho
 
 ### Custom Cluster Modifications
 
-For acute episodes, the affected finger's key cluster can be rebuilt with a **custom pitchable tower** that angles the cluster to further minimize residual flexion demand.
+For acute episodes, the affected finger's key cluster can be rebuilt with a **custom pitch-adjustable tower** that angles the cluster to further minimize residual flexion demand.
 
 One documented case: this modification allowed typing through a month-long episode without provoking catching.
 
 <div class="diagram-container">
-<img src="assets/triggerfingerIMG_2092.jpg" alt="Custom pitchable tower modification on a Svalboard, angling the key cluster for a finger with trigger finger" style="max-width:100%; height:auto; border-radius:8px;">
-<p class="diagram-caption">Custom pitchable tower (upper left) angles the key cluster to minimize flexion demand on the affected finger. Standard clusters visible below for comparison.</p>
+<img src="assets/triggerfingerIMG_2092.jpg" alt="Custom pitch-adjustable tower modification on a Svalboard, angling the key cluster for a finger with trigger finger" style="max-width:100%; height:auto; border-radius:8px;">
+<p class="diagram-caption">Custom pitch-adjustable tower (upper left) angles the key cluster to minimize flexion demand on the affected finger. Standard clusters visible below for comparison.</p>
 </div>
 
 ### Reduced Tendon Loading
@@ -192,7 +192,7 @@ Removing repetitive mechanical irritation lets the inflammatory cycle resolve
 - **Post-surgical**  -  reduced tendon loading after A1 pulley release
 - **Recurrent trigger finger**  -  eliminating the mechanical driver may reduce recurrence
 
-**Customization note:** For acute episodes, a **custom pitchable tower** can be built for the affected finger. Used successfully for a month-long episode without provoking catching.
+**Customization note:** For acute episodes, a **custom pitch-adjustable tower** can be built for the affected finger. Used successfully for a month-long episode without provoking catching.
 
 **Complementary interventions:** Compatible with night splints, corticosteroid injections, and hand therapy. Addresses the mechanical provocation of typing without replacing clinical treatment.
 
