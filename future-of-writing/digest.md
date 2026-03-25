@@ -21,9 +21,10 @@ arguably become *more* important -- as AI transforms text creation.
 10. [The Ergonomic Keyboard Market Is Growing](#10-the-ergonomic-keyboard-market-is-growing)
 11. [Pain Destroys the Cognitive Benefits of Typing](#11-pain-destroys-the-cognitive-benefits-of-typing)
 12. [Case Study: The Super-Powered Developer](#12-case-study-the-super-powered-developer)
-13. [The Craftsperson Argument](#13-the-craftsperson-argument)
-14. [Synthesis: Why Keyboards Matter More, Not Less](#14-synthesis-why-keyboards-matter-more-not-less)
-15. [Bibliography](#15-bibliography)
+13. [Multimodal Workflows: The Real Frontier](#13-multimodal-workflows-the-real-frontier)
+14. [The Craftsperson Argument](#14-the-craftsperson-argument)
+15. [Synthesis: The Question Is How You Want to Work](#15-synthesis-the-question-is-how-you-want-to-work)
+16. [Bibliography](#16-bibliography)
 
 ---
 
@@ -570,55 +571,192 @@ typed -- described, specified, and refined through keyboard interaction.
 
 **The Founder: Morgan Venable**
 
-The founder of Svalboard is composing this very research digest via voice input
-to Claude Code -- directing an AI to aggregate research, synthesize findings, and
-produce structured documentation that would traditionally require a research
-assistant and technical writer. Yet even this voice-driven workflow ultimately
-produces text that must be reviewed, edited, and refined via keyboard. The AI
-generates; the human directs and curates.
+Morgan Venable composed this very research digest via voice input to Claude Code
+-- directing an AI to aggregate research, synthesize findings, and produce
+structured documentation that would traditionally require a research assistant and
+technical writer. This is itself a workflow choice: voice for high-level direction
+and ideation, with keyboard available for precision when wanted. Different people
+will find different balances.
 
 ### What This Case Study Reveals
 
-1. **AI doesn't replace typing; it makes each typing session more consequential.**
-   A single developer's typed prompts and code reviews now drive the output of what
-   was previously a multi-person team. Each keystroke carries more architectural
-   weight, more directional authority, more leverage.
+1. **AI makes each work session more consequential.** A single developer's
+   direction now drives the output of what was previously a multi-person team.
+   Whether that direction comes through typing, voice, or some combination, each
+   act of human intent carries more weight.
 
-2. **The typing shifts up the abstraction stack.** Instead of typing `for (int i=0;
-   i < len; i++)`, the developer types "implement the Viable protocol handler with
-   VIA command passthrough for macros." The keystrokes are fewer but cognitively
-   denser. This is knowledge transformation, not knowledge telling.
+2. **The work shifts up the abstraction stack.** Instead of writing `for (int i=0;
+   i < len; i++)`, the developer expresses "implement the Viable protocol handler
+   with VIA command passthrough for macros." The human contribution is cognitively
+   denser. This is knowledge transformation, not knowledge telling -- regardless
+   of input modality.
 
-3. **Sustained typing sessions get longer, not shorter.** When one person operates
-   as an entire team, they don't work less -- they work across a broader scope for
-   longer sessions. The ergonomic demands *increase*. RSI risk doesn't decrease
-   because AI writes some of the code; the human is still at the keyboard for hours,
-   doing more cognitively demanding work than ever.
+3. **The scope of work expands.** When one person operates as an entire team, they
+   don't work less -- they work across a broader surface for longer sessions. The
+   ergonomic demands on whatever input method they use *increase*. Whether typing,
+   speaking, or combining modalities, the human body is engaged for more hours at
+   higher cognitive intensity.
 
-4. **The keyboard is the control surface for AI.** Just as a pilot doesn't fly less
-   because the plane has autopilot -- they fly differently, managing systems rather
-   than stick-and-rudder -- the developer doesn't type less because AI generates
-   code. They type differently, managing an AI system through precisely crafted
-   text input. The keyboard is the cockpit.
-
-5. **Voice can initiate but not finish.** This very document was initiated by voice
-   but will be reviewed, corrected, and refined by keyboard. The founder caught an
-   error (Hall effect vs. optical sensing) that required a typed edit. The AI
-   generated a stale citation (Ziegler 2022) that required typed correction. The
-   last mile is always typed.
+4. **The stakes of incapacity multiply.** A developer sidelined by RSI, voice
+   strain, or any other input-method injury doesn't lose one person's productivity
+   -- they lose an entire team's output. The case for accommodating the human body
+   scales with AI force multiplication.
 
 ### The Ergonomic Implication
 
-If a solo developer is now doing the keyboard work of five people, they need the
-keyboard of... well, they need a Svalboard. The force multiplication that AI
-provides makes the *human interface* the critical bottleneck and the critical point
-of failure. A developer sidelined by RSI doesn't lose one person's productivity --
-they lose an entire team's output. The ergonomic keyboard isn't protecting one
-worker; it's protecting a multiplied capability.
+The question isn't "will people type?" -- it's "how will people sustain the
+cognitive work that AI amplifies?" For many, that means typing, and it means
+typing that doesn't cause pain. For others, it may mean voice, gaze, or
+combinations we haven't yet refined. The Svalboard addresses the typing case
+with the best evidence base available (DataHand clinical research, 71% pain
+reduction). But the deeper point is that *any* input method used at this
+intensity needs to be sustainable for the human body.
 
 ---
 
-## 13. The Craftsperson Argument
+## 13. Multimodal Workflows: The Real Frontier
+
+AI isn't just changing what we write -- it's changing what's *possible* in how we
+interact with computers. The most interesting question isn't "keyboard or voice?"
+but "what combination of input modalities, augmented by AI understanding, lets
+each person do their best work while protecting their body?"
+
+### The Current Landscape of Input Modalities
+
+**Keyboard**: The research in this digest establishes typing as a powerful
+cognitive tool -- knowledge transformation through physical composition, with
+decades of evidence on automaticity, flow states, and the writing-thinking
+connection. For people who can type comfortably, it remains the densest channel
+for expressing precise intent.
+
+**Voice**: Tools like Talon Voice (created by Ryan Hileman after developing severe
+hand pain in 2017) provide full computer control by voice, scriptable in Python.
+Talon integrates speech recognition, noise detection (pop for click, hiss for
+drag), and eye tracking into a unified system. Its community has built
+`talonhub/community`, a standard command grammar providing comprehensive
+desktop control.
+
+**Structural voice editing (Cursorless)**: Created by Pokey Rule (also after
+developing RSI), Cursorless is a spoken language for structural code editing in
+VS Code. Its "hat" system places colored decorations above every token; users
+speak commands referencing these hats to navigate and edit code at the AST
+(abstract syntax tree) level. A single utterance like "move argument air to after
+drum" replaces what would be multiple keyboard operations. The learning curve is
+steep, but experienced users report meeting or exceeding keyboard editing speeds.
+~7,000 VS Code installs, 5.0 rating, actively maintained as of 2026.
+
+**Gaze tracking**: Tobii eye trackers integrate with Talon to position the cursor
+via gaze, with head tracking for refinement. This isn't gaze-only typing (which
+is slow and exhausting) but gaze as a *complement* -- your eyes indicate where,
+your voice or hands indicate what. The Svalboard's integrated Trackpoint and
+trackball pointing already embody this principle of tight coupling between text
+input and cursor control; gaze tracking extends it further.
+
+### Where AI Changes Everything
+
+The traditional limitation of voice coding was that you had to learn a rigid
+command grammar. You couldn't just *say what you meant* -- you had to translate
+your intent into the system's vocabulary. LLMs dissolve this barrier.
+
+**GitHub Copilot Voice** (2022-2024, technical preview) was the first major
+attempt to combine LLM code generation with voice in a mainstream IDE. Users
+stated intent in natural language; the LLM generated code or navigated the
+codebase. The preview ended in 2024, with learnings transferred to VS Code's
+Speech extension.
+
+**"Vibe coding" with voice** is the emerging pattern (2025-2026): speech-to-text
+tools like Wispr Flow combined with AI code editors like Cursor. Users speak
+naturally to describe functionality; the LLM generates code. Humans speak at
+150+ WPM versus typing at 40-80 WPM. When an LLM understands your intent,
+voice input shifts the bottleneck from mechanical production to conceptual
+thinking.
+
+**GazePointAR** (Lee et al., CHI 2024) demonstrated a context-aware multimodal
+voice assistant that uses eye gaze + pointing gestures + conversation history
+to disambiguate spoken references. Users could ask "what's over there?" while
+looking at an object, and the system resolved the referent via computer vision
+and an LLM. This points toward a future where AI doesn't just understand your
+words but understands *where you're looking and what you're pointing at* when
+you say them.
+
+**SpeakFaster** (Google Research + Team Gleason, 2024, *Nature Communications*)
+showed that LLMs can amplify reduced-bandwidth input channels: ALS patients using
+eye-gaze typing entered only word initials, and the LLM expanded to full phrases
+using conversational context. 57% fewer motor actions, 29-60% faster entry rates.
+If AI can do this for gaze typing, imagine what it can do for voice + gaze +
+keyboard in combination.
+
+### The Cost of Switching Between Modalities
+
+One reason the Svalboard integrates pointing (Trackpoint/trackball) directly into
+the keyboard is to eliminate the hand-homing cost between keyboard and mouse.
+Research quantifies this cost:
+
+- **Card, English & Burr (1978)**: The foundational study applying Fitts' Law to
+  input devices. Every keyboard-to-mouse transition involves a ballistic movement
+  plus fine adjustment, plus the cognitive overhead of switching from symbolic
+  (keyboard) to spatial (pointing) mode.
+
+- **Gloria Mark (UC Irvine)**: Context switches take an average of 23 minutes to
+  fully recover from. Micro-level switching (keyboard to mouse, hundreds of times
+  daily) consumes an estimated 45-90 minutes of productive output from the
+  accumulated micro-recoveries.
+
+- The Svalboard's approach -- fingers never leave their wells, pointing happens
+  under the same hands -- eliminates homing entirely. Cursorless achieves the same
+  for voice users by eliminating spatial targeting altogether. Both are workflow
+  optimizations that AI amplifies: when each cycle of intent-expression is more
+  consequential, the cost of interrupted flow is higher.
+
+### The Multimodal Future
+
+The most powerful workflows will likely combine modalities fluidly:
+
+- **Voice** for high-level direction, ideation, and rapid rough-drafting
+- **Keyboard** for precise editing, knowledge-transforming composition, and the
+  physical-cognitive feedback loop that many people find essential to deep thinking
+- **Gaze** for pointing and context -- telling the AI *where* you mean without
+  lifting your hands
+- **AI** as the interpreter that bridges these modalities, understanding intent
+  from the combination of what you say, where you look, and what you type
+
+This isn't speculative -- it's happening now. Talon + Cursorless + eye tracking
+is a working multimodal coding environment used daily by developers. The tools
+are still rough, the learning curves steep, and the integration imperfect. But
+the trajectory is clear.
+
+### What This Means for Ergonomic Design
+
+The question for input device designers isn't "which modality wins?" -- it's
+"how do we support all of them?" The Svalboard already combines typing and
+pointing in a single ergonomic package. The natural extensions are:
+
+- Voice integration that works *alongside* typing, not as a replacement
+- Gaze-aware interfaces that reduce pointing demands
+- AI that learns the user's multimodal patterns and anticipates intent
+- Workflows where the user moves fluidly between modalities based on what
+  the task demands and what their body can sustain
+
+The goal isn't to eliminate any modality. It's to give people choices -- and
+to make sure the choices they prefer are sustainable for their bodies over a
+career.
+
+### Research Pointers
+
+- Voiceye (Paudyal et al., ACM DIS 2020): Multimodal IDE combining voice,
+  gaze, and switches for coding. N=29 study demonstrated viability.
+- ReType (University of Auckland/Bath, CHI): Gaze-based text correction --
+  look at a typo, type the fix, system identifies the target from gaze.
+- EyeSayCorrect (ACM IUI 2022): Hands-free text correction using eye gaze
+  to locate errors + voice to specify corrections.
+- Paudyal PhD Thesis (2023/2024, Birmingham City University): Comprehensive
+  doctoral work on multimodal interaction techniques for disabled developers.
+- Speech Language Models Survey (ACL 2025): End-to-end SpeechLMs that bypass
+  the ASR + LLM + TTS pipeline, reducing latency and information loss.
+
+---
+
+## 14. The Craftsperson Argument
 
 ### Intellectual Tradition
 
@@ -658,60 +796,70 @@ the act of writing serves the thinker.
 
 ---
 
-## 14. Synthesis: Why Keyboards Matter More, Not Less
+## 15. Synthesis: The Question Is How You Want to Work
 
-### The Argument in Five Steps
+### Five Things the Research Tells Us
 
 1. **Writing is thinking, not just communication.** The act of composing text
    generates understanding that doesn't exist before the writing happens (Bereiter
    & Scardamalia, Galbraith, Emig, Vygotsky). AI can generate text, but it cannot
    generate the *cognitive transformation in the writer* that occurs during
-   composition.
+   composition. Many people experience this transformation most powerfully through
+   physical typing. Others find it through longhand, dictation, or conversation.
+   The research says the mechanism matters; your experience tells you which
+   mechanism works for you.
 
-2. **Skilled typing enables the thinking.** Expert typing achieves automaticity
-   (Logan & Crump), freeing working memory for higher-order composition
-   (McCutchen). Typing fluency determines writing burst length (Chenoweth & Hayes)
-   and enables flow states (Csikszentmihalyi). The keyboard is not a bottleneck to
-   be eliminated -- it is an instrument to be mastered.
+2. **Fluent input -- whatever form it takes -- enables deeper thinking.** When
+   transcription is effortful, it consumes working memory needed for higher-order
+   composition (McCutchen, Alves). When it's automatic, the mind is free for
+   knowledge transformation. This is true whether "fluent input" means expert
+   touch typing (Logan & Crump), practiced voice coding (Cursorless), or any other
+   modality that has become second nature. The point is mastery, not modality.
 
-3. **AI redirects typing; it doesn't eliminate it.** Even as AI generates 46% of
-   new code (GitClear, 2025), developers type prompts, review output, edit
-   corrections, and direct AI agents. Writers spend the majority of their time on
-   revision and editing. The METR developers who refused to work without AI still
-   needed keyboards to use it. AI changes *what* people type, not *whether* they
-   type -- and in the agentic era, a solo developer with AI can operate as an
-   entire team, making sustained, pain-free typing even more critical.
+3. **AI is reshaping every workflow.** 46% of new code is AI-generated (GitClear,
+   2025). Solo developers operate as entire teams. Writers direct AI to produce
+   first drafts, then shape the output. The human role is shifting from production
+   to direction, curation, and the knowledge-transforming work that AI cannot do.
+   This shift changes *what* we input, not *whether* we input.
 
-4. **Per-keystroke value increases with AI.** A well-crafted 50-word prompt can
-   generate 500 words of output. Faster prompting means faster iteration cycles.
-   Precision in editing AI output matters more than precision in first drafts.
-   The ROI per keystroke goes up, making fast, comfortable, accurate typing more
-   valuable.
+4. **The body is the bottleneck, and the stakes are rising.** When AI multiplies
+   the output of each human work session, the human's capacity to sustain that
+   session becomes the limiting factor. RSI, voice strain, eye fatigue -- any
+   breakdown in the input channel shuts down not one person's output but a
+   multiplied capability. The case for accommodating the human body scales with
+   AI force multiplication.
 
-5. **Pain destroys all of this.** RSI disrupts automaticity, consumes cognitive
-   resources, breaks flow, and ultimately prevents the knowledge-transforming
-   writing that is the human's irreducible contribution. Ergonomic keyboards are
-   not a luxury for comfort -- they are essential infrastructure for sustained
-   cognitive performance.
+5. **The future is multimodal and personal.** Voice, gaze, keyboard, pointing,
+   and AI-mediated intent recognition will combine in ways we're only beginning
+   to explore (Talon, Cursorless, GazePointAR, SpeakFaster). The best workflow
+   is the one that lets *you* sustain deep, knowledge-transforming work over a
+   career. That will look different for different people, and the research
+   supports multiple paths.
 
-### The Business Case for Svalboard in an AI World
+### What This Means for the Svalboard
 
-The Svalboard doesn't compete with AI. It enables the human side of human-AI
-collaboration. The future of knowledge work is not less typing -- it's *different*
-typing: more editing, more prompting, more precise, and more cognitively
-demanding. That work needs to be done on hardware that doesn't cause pain,
-supports flow, and enables decades-long careers.
+The Svalboard exists because many people find that physical typing is their
+preferred and most powerful mode of knowledge transformation -- and because
+conventional keyboards cause pain that destroys the cognitive benefits of that
+preference. The DataHand evidence (71% pain reduction, Harrington study;
+productivity maintenance, Fernandez/Stanford) established that the finger-well
+paradigm can sustain typing over careers. The Svalboard improves on that
+foundation (lower force, shorter travel, per-key tunability, integrated pointing,
+modern firmware).
 
-The DataHand evidence showed that the finger-well paradigm reduces pain by 71%
-(Harrington study), maintains productivity (116% of flat keyboard speeds within
-30 days), and resists fatigue over long sessions (Fernandez/Stanford). The
-Svalboard improves on every measurable dimension (lower force, shorter travel,
-per-key tunability, modern firmware). In an AI world where each keystroke carries
-more weight, the case for the best possible keyboard only gets stronger.
+But the Svalboard isn't an argument that everyone must type. It's an argument
+that if typing is how you think best -- and the research says it is for many
+people -- then you deserve hardware that won't take that away from you. In an
+AI world where each work session carries more consequence, protecting your
+preferred input method is protecting your cognitive capability.
+
+The right question for each person isn't "should I type or speak or look?" It's:
+"How do I want to structure my workflow, and what does my body need to sustain it
+for the next thirty years?"
 
 ---
 
-## 15. Bibliography
+## 16. Bibliography
 
 ### Writing as Thinking / Knowledge Transformation
 
@@ -813,3 +961,21 @@ more weight, the case for the best possible keyboard only gets stronger.
 - Gartner (2023-2024). Future of Work forecasts.
 - McKinsey Global Institute (2023). The Economic Potential of Generative AI.
 - Stack Overflow Developer Survey (2023, 2024).
+
+### Multimodal Input and Workflow
+
+- Card, S.K., English, W.K. & Burr, B.J. (1978). Evaluation of Mouse, Rate-Controlled Isometric Joystick, Step Keys, and Text Keys for Text Selection on a CRT. *Ergonomics*, 21(8).
+- Lee, J. et al. (2024). GazePointAR: Context-Aware Multimodal Voice Assistant. *CHI 2024*.
+- Mark, G. (UC Irvine). Context switching and attention recovery research. Widely cited.
+- Paudyal, B. et al. (2020). Voiceye: A Multimodal Inclusive Development Environment. *ACM DIS 2020*.
+- Paudyal, B. et al. (2022). Inclusive Multimodal Voice Interaction for Code Navigation. *ACM ICMI 2022*.
+- Paudyal, B. (2024). Multimodal Interaction Techniques for Disabled Developers. PhD Thesis, Birmingham City University.
+- SpeakFaster (2024). Google Research + Team Gleason. *Nature Communications*.
+
+### Voice Coding and Speech
+
+- Cursorless (Pokey Rule, 2021-present). VS Code extension for structural voice editing. https://cursorless.org
+- GitHub Copilot Voice (2022-2024). Technical preview. GitHub Next.
+- Speech Language Models Survey (2024). arXiv, to appear ACL 2025.
+- Talon Voice (Ryan Hileman, 2017-present). Cross-platform voice control. https://talonvoice.com
+- Wispr Flow / Addy Osmani (2025). Speech-to-code vibe coding workflows.

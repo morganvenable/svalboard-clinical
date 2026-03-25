@@ -1,7 +1,7 @@
 ---
 title: Svalboard Clinical Resources
 hero_title: Reduce Mechanical Load. Restore Function.
-hero_subtitle: Svalboard is a low-force input system designed to reduce tendon strain, stabilize the upper extremity, and shift effort to more efficient muscle groups. Clinical resources for healthcare providers.
+hero_subtitle: A low-force input system that reduces tendon strain, stabilizes the upper extremity, and shifts effort to more efficient muscle groups.
 ---
 
 <div class="section" markdown="1">
