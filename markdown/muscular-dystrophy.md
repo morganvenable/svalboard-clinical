@@ -1,7 +1,7 @@
 ---
 title: Muscular Dystrophy
 hero_title: Extend Functional Capacity by Reducing Energy Cost Per Keystroke
-hero_subtitle: Svalboard is fundamentally an energy minimization device — allowing functional typing capacity to persist even as overall muscle strength declines.
+hero_subtitle: Svalboard is fundamentally an energy minimization device  -  allowing functional typing capacity to persist even as overall muscle strength declines.
 ---
 
 <div class="section problem" markdown="1">

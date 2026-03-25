@@ -1,7 +1,7 @@
 ---
 title: Carpal Tunnel Syndrome
-hero_title: Reduce Pressure Inside the Carpal Tunnel — Without Stopping Work
-hero_subtitle: Svalboard minimizes tendon excursion and wrist extension — two primary drivers of median nerve compression.
+hero_title: Reduce Pressure Inside the Carpal Tunnel  -  Without Stopping Work
+hero_subtitle: Svalboard minimizes tendon excursion and wrist extension  -  two primary drivers of median nerve compression.
 ---
 
 <div class="section problem" markdown="1">
@@ -188,7 +188,7 @@ This decouples finger input from carpal tunnel loading.
 
 <!-- Second diagram replaced with Wikimedia Commons image -->
 <img src="https://upload.wikimedia.org/wikipedia/commons/6/60/Gray1233.png" alt="Mucous sheaths of tendons on front of wrist and digits" style="max-width:100%; height:auto; border-radius:8px;">
-<p class="diagram-caption">Synovial sheaths of the flexor tendons at the wrist and hand. These sheaths line the carpal tunnel and facilitate tendon gliding — repeated friction within these constrained spaces drives the pathology of CTS. <em>Source: Gray's Anatomy (1918), public domain</em></p>
+<p class="diagram-caption">Synovial sheaths of the flexor tendons at the wrist and hand. These sheaths line the carpal tunnel and facilitate tendon gliding  -  repeated friction within these constrained spaces drives the pathology of CTS. <em>Source: Gray's Anatomy (1918), public domain</em></p>
 </div>
 
 </div>

@@ -1,7 +1,7 @@
 ---
 title: Dupuytren's Contracture
 hero_title: Maintain Function Within Restricted Range of Motion
-hero_subtitle: Svalboard does not treat the contracture — but enables functional adaptation within restricted biomechanics, allowing productive typing to continue.
+hero_subtitle: Svalboard does not treat the contracture  -  but enables functional adaptation within restricted biomechanics, allowing productive typing to continue.
 ---
 
 <div class="section problem" markdown="1">
@@ -15,26 +15,26 @@ hero_subtitle: Svalboard does not treat the contracture — but enables function
 The disease originates in the **palmar aponeurosis**. Myofibroblast proliferation transforms normal fascia into pathological cords and nodules:
 
 - **Pretendinous bands** contract into **pretendinous cords**, pulling the MCP joint into flexion
-- **Spiral cords** form from the pretendinous band, spiral band, lateral digital sheet, and Grayson's ligament — displacing the neurovascular bundle centrally and superficially
+- **Spiral cords** form from the pretendinous band, spiral band, lateral digital sheet, and Grayson's ligament  -  displacing the neurovascular bundle centrally and superficially
 - **Natatory ligaments** contract into **natatory cords**, limiting abduction and narrowing the web space
-- **Central cords** extend past the MCP joint to involve the **PIP joint** — the most functionally limiting contracture
+- **Central cords** extend past the MCP joint to involve the **PIP joint**  -  the most functionally limiting contracture
 
 ### Clinical Presentation
 
 - **Nodules** appear first in the distal palmar crease, firm and skin-adherent
 - **Cords** develop over months to years as palpable longitudinal bands
-- **Contracture** follows — MCP flexes first, then PIP
+- **Contracture** follows  -  MCP flexes first, then PIP
 - **Extension deficit** is the hallmark
 - **Not primarily inflammatory**, but repetitive fascial loading may accelerate progression
 - Forceful grip and sustained extension become uncomfortable as contracture progresses
 
 ### Functional Impact for Keyboard Users
 
-The affected digit cannot reach the resting plane of a flat keyboard. Compensatory postures strain adjacent structures. As PIP contracture develops, the finger locks into a hook position — functional for grip, useless for conventional typing.
+The affected digit cannot reach the resting plane of a flat keyboard. Compensatory postures strain adjacent structures. As PIP contracture develops, the finger locks into a hook position  -  functional for grip, useless for conventional typing.
 
 <div class="diagram-container">
 <img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Gray425.png" alt="Palmar aponeurosis anatomy" style="max-width:100%; height:auto; border-radius:8px;">
-<p class="diagram-caption">The palmar aponeurosis (palmar fascia). In Dupuytren's contracture, fibrotic nodules and cords develop within this fascial layer, progressively drawing the fingers — typically the ring and small finger — into flexion contracture. <em>Source: Gray's Anatomy (1918), public domain</em></p>
+<p class="diagram-caption">The palmar aponeurosis (palmar fascia). In Dupuytren's contracture, fibrotic nodules and cords develop within this fascial layer, progressively drawing the fingers  -  typically the ring and small finger  -  into flexion contracture. <em>Source: Gray's Anatomy (1918), public domain</em></p>
 </div>
 
 </div>
@@ -45,11 +45,11 @@ The affected digit cannot reach the resting plane of a flat keyboard. Compensato
 
 Standard keyboards demand a biomechanical profile that directly conflicts with Dupuytren's:
 
-- **Repetitive full extension** — every keystroke loads the shortened fascia against its mechanical limit
-- **Large motion arcs** — 3-4mm travel plus inter-key reach requires full flexion-extension range
-- **Sustained extension posture** — home row hover demands active extension a contracted digit cannot achieve
-- **Force through restricted ROM** — altered force vectors generate abnormal shear across the palmar fascia
-- **Compensatory overload** — adjacent digits and wrist absorb workload from degraded fingers
+- **Repetitive full extension**  -  every keystroke loads the shortened fascia against its mechanical limit
+- **Large motion arcs**  -  3-4mm travel plus inter-key reach requires full flexion-extension range
+- **Sustained extension posture**  -  home row hover demands active extension a contracted digit cannot achieve
+- **Force through restricted ROM**  -  altered force vectors generate abnormal shear across the palmar fascia
+- **Compensatory overload**  -  adjacent digits and wrist absorb workload from degraded fingers
 
 Repetitive fascial loading in a hand with active fibroproliferation may accelerate cord maturation. The goal: minimize fascial strain while preserving function.
 
@@ -75,11 +75,11 @@ Repetitive fascial loading in a hand with active fibroproliferation may accelera
 
 - No extension beyond resting position required
 - 1-2 mm key activation travel
-- Keys are immediately adjacent — no reaching
+- Keys are immediately adjacent  -  no reaching
 - Operates within the available ROM of a contracted digit
 - Minimal fascial loading per keystroke
 - Each digit works independently in its own key cluster
-- Hand rests in supported neutral posture — no grip, no hover
+- Hand rests in supported neutral posture  -  no grip, no hover
 
 </div>
 
@@ -107,7 +107,7 @@ Svalboard keys activate at a fraction of the force of mechanical switches. Over 
 
 ### Independent Digit Operation
 
-Each finger operates its own key cluster. A contracted ring finger does not compromise adjacent digits — there is no shared surface to reach across.
+Each finger operates its own key cluster. A contracted ring finger does not compromise adjacent digits  -  there is no shared surface to reach across.
 
 ### Minimized Fascial Strain
 
@@ -206,7 +206,7 @@ Low travel (1-2 mm), minimal force, supported resting posture, and no extension 
   <text x="595" y="296" text-anchor="middle" font-size="10" fill="#1a8a5c">Works within whatever ROM remains</text>
 
 </svg>
-<div class="diagram-caption">Left: conventional typing requires finger excursion through a range that a Dupuytren's contracture has eliminated. Right: Svalboard micro-movements operate within the restricted ROM — the contracted resting position is the typing position.</div>
+<div class="diagram-caption">Left: conventional typing requires finger excursion through a range that a Dupuytren's contracture has eliminated. Right: Svalboard micro-movements operate within the restricted ROM  -  the contracted resting position is the typing position.</div>
 </div>
 
 </div>
@@ -249,14 +249,14 @@ Svalboard preserves function through **biomechanical adaptation**. As contractur
 
 Relevant across the disease spectrum:
 
-- **Early disease** (nodules, minimal contracture) — reduces repetitive fascial loading that may accelerate cord maturation
-- **Moderate disease** (30-60 degree MCP contracture) — enables continued typing when conventional keyboards fail
-- **Severe disease** (MCP + PIP contracture) — sufficient micro-movement remains to operate a key cluster
-- **Post-intervention** (fasciectomy, needle aponeurotomy, collagenase) — typing resumes with minimal demand on healing tissue
+- **Early disease** (nodules, minimal contracture)  -  reduces repetitive fascial loading that may accelerate cord maturation
+- **Moderate disease** (30-60 degree MCP contracture)  -  enables continued typing when conventional keyboards fail
+- **Severe disease** (MCP + PIP contracture)  -  sufficient micro-movement remains to operate a key cluster
+- **Post-intervention** (fasciectomy, needle aponeurotomy, collagenase)  -  typing resumes with minimal demand on healing tissue
 
 <div class="callout warning" markdown="1">
 <strong>Adaptation, Not Treatment</strong>
-Svalboard does not slow progression, reverse fibrosis, or restore ROM. It enables productive typing within the biomechanical constraints of the disease. Treatment decisions — observation, splinting, collagenase, aponeurotomy, fasciectomy — should proceed independently. Svalboard complements these interventions.
+Svalboard does not slow progression, reverse fibrosis, or restore ROM. It enables productive typing within the biomechanical constraints of the disease. Treatment decisions  -  observation, splinting, collagenase, aponeurotomy, fasciectomy  -  should proceed independently. Svalboard complements these interventions.
 </div>
 
 </div>
@@ -269,7 +269,7 @@ Svalboard does not slow progression, reverse fibrosis, or restore ROM. It enable
 
 ### Focus: Adaptation, Not Treatment
 
-Svalboard addresses the functional consequence of Dupuytren's — inability to type — without modifying the disease. If the digit cannot extend, eliminate the need for extension.
+Svalboard addresses the functional consequence of Dupuytren's  -  inability to type  -  without modifying the disease. If the digit cannot extend, eliminate the need for extension.
 
 ### Key Biomechanical Change
 
@@ -277,15 +277,15 @@ Svalboard addresses the functional consequence of Dupuytren's — inability to t
 
 ### Clinical Use Cases
 
-- **Progressive Dupuytren's (Tubiana I-III)** — continued keyboard function without waiting for intervention thresholds, without biomechanical stress on diseased fascia
+- **Progressive Dupuytren's (Tubiana I-III)**  -  continued keyboard function without waiting for intervention thresholds, without biomechanical stress on diseased fascia
 
-- **Post-fasciectomy or aponeurotomy** — earlier return to typing with reduced loading on healing tissue
+- **Post-fasciectomy or aponeurotomy**  -  earlier return to typing with reduced loading on healing tissue
 
-- **Post-collagenase injection** — typing without gripping or forceful extension during recovery
+- **Post-collagenase injection**  -  typing without gripping or forceful extension during recovery
 
-- **Patients deferring intervention** — eliminates the primary functional limitation without procedural intervention
+- **Patients deferring intervention**  -  eliminates the primary functional limitation without procedural intervention
 
-- **Bilateral disease** — split design with independent key clusters accommodates contracture in both hands
+- **Bilateral disease**  -  split design with independent key clusters accommodates contracture in both hands
 
 ### What to Expect
 

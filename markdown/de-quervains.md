@@ -27,7 +27,7 @@ High-frequency tendon glide through a constrained space produces friction, infla
 
 <div class="diagram-container">
 <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Gray419.png" alt="Posterior forearm showing extensor tendons including the first dorsal compartment" style="max-width:100%; height:auto; border-radius:8px;">
-<p class="diagram-caption">Posterior forearm and wrist showing the extensor tendons. The first dorsal compartment — containing APL and EPB — passes over the radial styloid. <em>Source: Gray's Anatomy (1918), public domain</em></p>
+<p class="diagram-caption">Posterior forearm and wrist showing the extensor tendons. The first dorsal compartment  -  containing APL and EPB  -  passes over the radial styloid. <em>Source: Gray's Anatomy (1918), public domain</em></p>
 </div>
 
 </div>

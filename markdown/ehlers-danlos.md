@@ -1,7 +1,7 @@
 ---
 title: Ehlers-Danlos Syndrome
 hero_title: Replace Muscular Stabilization with Structural Support
-hero_subtitle: For hypermobility conditions, Svalboard replaces active stabilization (muscle-driven) with passive stabilization (device-supported) — a critical shift.
+hero_subtitle: For hypermobility conditions, Svalboard replaces active stabilization (muscle-driven) with passive stabilization (device-supported)  -  a critical shift.
 ---
 
 <div class="section problem" markdown="1">
