@@ -266,15 +266,8 @@ still doing the generative cognitive work.
 - **Brynjolfsson, Li & Raymond (2023)** (NBER): AI assistance increased customer
   support productivity by 14% on average, with 34% gains for novice workers.
 
-**Important caveat (2026 update)**: These early studies used 2023-era models on
-routine tasks. By 2026, with frontier models (Claude Opus 4.5/4.6, GPT-5.2,
-Gemini 3), AI demonstrably raises the ceiling too. Solo developers using agentic
-coding tools like Claude Code are doing the work of entire teams -- not by
-lowering the bar, but by amplifying expert capability. The "floor not ceiling"
-finding was an artifact of early, weaker models and constrained study designs.
-The correct framing is: AI raises the floor for novices AND multiplies the
-throughput of experts, but through different mechanisms (quality improvement for
-novices, velocity and scope multiplication for experts).
+These were early studies with early models. By 2026 the picture has moved well
+beyond floor-raising.
 
 ### Cognitive Shift: Generation to Evaluation
 
