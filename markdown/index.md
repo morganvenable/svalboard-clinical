@@ -62,6 +62,11 @@ Svalboard is not a conventional ergonomic keyboard. It is a structural intervent
 <p>Maintain function within restricted range of motion</p>
 </a>
 
+<a class="condition-card dequervain" href="trigger-finger.html">
+<h3>Trigger Finger</h3>
+<p>Eliminate the flexion cycle that provokes catching</p>
+</a>
+
 </div>
 
 ## Why This Works When Others Don't

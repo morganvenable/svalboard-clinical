@@ -36,6 +36,7 @@ NAV_LINKS = [
     ("ehlers-danlos.html", "Ehlers-Danlos"),
     ("de-quervains.html", "De Quervain's"),
     ("dupuytrens.html", "Dupuytren's"),
+    ("trigger-finger.html", "Trigger Finger"),
 ]
 
 def build_nav(current_file):
@@ -92,6 +93,7 @@ HERO_COLORS = {
     "ehlers-danlos": "background: linear-gradient(135deg, #121212 0%, #1a1a2e 100%);",
     "de-quervains": "background: linear-gradient(135deg, #121212 0%, #1a1a2e 100%);",
     "dupuytrens": "background: linear-gradient(135deg, #121212 0%, #1a1a2e 100%);",
+    "trigger-finger": "background: linear-gradient(135deg, #121212 0%, #1a1a2e 100%);",
     "index": "background: #121212;",
 }
 
