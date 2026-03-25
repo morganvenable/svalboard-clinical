@@ -140,6 +140,14 @@ def main():
     print(f"Building {len(md_files)} workflow pages...")
     for f in md_files:
         build_file(f)
+
+    # Copy future-of-writing.html as index.html so /workflow/ URL works
+    import shutil
+    index_src = HTML_DIR / "future-of-writing.html"
+    if index_src.exists():
+        shutil.copy2(index_src, HTML_DIR / "index.html")
+        print("  Copied index.html from future-of-writing.html")
+
     copy_assets()
     print("Done!")
 
