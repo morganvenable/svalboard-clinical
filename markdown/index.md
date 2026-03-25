@@ -75,7 +75,7 @@ Most ergonomic keyboards tilt, tent, or split to change wrist angle. The fundame
 
 Svalboard reduces the mechanical work itself. Activation force is a fraction of any switch. Travel is ~1-2 mm. The hand never leaves its supported rest. No hover, no reaching, no grip, no ballistic movement.
 
-Your patient's inflamed, compressed, or degenerating structures are simply not loaded. The intervention is mechanical, not postural.
+Your patient's inflamed, compressed, or degenerating structures are simply not loaded the way they are on any other input device.
 
 ## The Breakaway Force Profile
 
