@@ -114,110 +114,96 @@ Each finger operates its own key cluster independently. A contracted ring finger
 The combination of very low travel (1-2 mm), minimal force, supported resting posture, and no extension requirement means the palmar fascia is effectively unloaded during typing. The fibrotic cords are not being repeatedly stretched, compressed, or sheared by the act of keyboard input.
 
 <div class="diagram-container">
-<svg viewBox="0 0 800 300" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Range of motion comparison between conventional typing and Svalboard typing with Dupuytren's contracture">
+<svg viewBox="0 0 800 320" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Range of motion comparison between conventional typing and Svalboard typing with Dupuytren's contracture">
 
-  <!-- Background -->
-  <rect width="800" height="300" fill="#fafbfc" rx="8"/>
+  <rect width="800" height="320" fill="#fafbfc" rx="8"/>
 
-  <!-- Title -->
-  <text x="400" y="25" text-anchor="middle" font-size="14" font-weight="700" fill="#2c3e50">Range of Motion Requirements: Conventional vs. Svalboard</text>
+  <text x="400" y="25" text-anchor="middle" font-size="14" font-weight="700" fill="#1a1a1a">Range of Motion Requirements: Conventional vs. Svalboard</text>
 
   <!-- LEFT PANEL: Conventional typing -->
-  <rect x="20" y="40" width="370" height="245" rx="6" fill="#fff" stroke="#e0e0e0" stroke-width="1"/>
-  <text x="205" y="62" text-anchor="middle" font-size="12" font-weight="700" fill="#e74c3c">Conventional Keyboard</text>
+  <rect x="20" y="40" width="370" height="265" rx="6" fill="#fff" stroke="#e0e0e0" stroke-width="1"/>
+  <text x="205" y="62" text-anchor="middle" font-size="12" font-weight="700" fill="#c43a31">Conventional Keyboard</text>
 
-  <!-- Finger diagram - side view showing extension requirement -->
-  <!-- Metacarpal bone -->
-  <line x1="60" y1="200" x2="160" y2="200" stroke="#b0b0b0" stroke-width="4" stroke-linecap="round"/>
+  <!-- Keyboard surface at BOTTOM -->
+  <line x1="50" y1="260" x2="370" y2="260" stroke="#999" stroke-width="2"/>
+  <text x="210" y="275" text-anchor="middle" font-size="9" fill="#999">Keyboard surface</text>
+
+  <!-- Metacarpal (hand) - horizontal near top -->
+  <line x1="60" y1="100" x2="160" y2="100" stroke="#b0b0b0" stroke-width="4" stroke-linecap="round"/>
 
   <!-- MCP joint -->
-  <circle cx="160" cy="200" r="5" fill="#fff" stroke="#e74c3c" stroke-width="2"/>
+  <circle cx="160" cy="100" r="5" fill="#fff" stroke="#c43a31" stroke-width="2"/>
 
-  <!-- Full extension position (required - shown as dashed) -->
-  <line x1="160" y1="200" x2="280" y2="195" stroke="#b0b0b0" stroke-width="3" stroke-linecap="round" stroke-dasharray="6,4" opacity="0.5"/>
-  <text x="285" y="193" font-size="9" fill="#b0b0b0" font-style="italic">Full extension (required)</text>
+  <!-- Full extension position (flat, needed to hover over keys) - dashed -->
+  <line x1="160" y1="100" x2="290" y2="105" stroke="#b0b0b0" stroke-width="3" stroke-linecap="round" stroke-dasharray="6,4" opacity="0.5"/>
+  <text x="295" y="103" font-size="9" fill="#b0b0b0" font-style="italic">Extension (hover)</text>
 
-  <!-- Contracture limit -->
-  <line x1="160" y1="200" x2="265" y2="155" stroke="#8B5E3C" stroke-width="3" stroke-linecap="round"/>
-  <text x="270" y="150" font-size="9" fill="#8B5E3C" font-weight="600">Contracture limit</text>
+  <!-- Contracture limit - finger stuck in partial flexion -->
+  <line x1="160" y1="100" x2="270" y2="155" stroke="#8B5E3C" stroke-width="3" stroke-linecap="round"/>
+  <text x="275" y="152" font-size="9" fill="#8B5E3C" font-weight="600">Contracture limit</text>
 
-  <!-- Flexed position (key press) -->
-  <line x1="160" y1="200" x2="240" y2="120" stroke="#b0b0b0" stroke-width="3" stroke-linecap="round" stroke-dasharray="6,4" opacity="0.5"/>
-  <text x="245" y="118" font-size="9" fill="#b0b0b0" font-style="italic">Flexion (key press)</text>
+  <!-- Flexion for key press - finger curls down toward keyboard -->
+  <line x1="160" y1="100" x2="240" y2="210" stroke="#b0b0b0" stroke-width="3" stroke-linecap="round" stroke-dasharray="6,4" opacity="0.5"/>
+  <text x="245" y="215" font-size="9" fill="#b0b0b0" font-style="italic">Flexion (key press)</text>
 
-  <!-- Large arc showing required ROM -->
-  <path d="M260,195 A100,100 0 0,0 232,128" fill="none" stroke="#e74c3c" stroke-width="2.5" stroke-dasharray="4,3"/>
-  <!-- Arc arrow -->
-  <polygon points="230,132 238,126 234,136" fill="#e74c3c"/>
+  <!-- Large arc showing required ROM (extension to flexion, curving downward) -->
+  <path d="M272,115 A120,120 0 0,1 248,200" fill="none" stroke="#c43a31" stroke-width="2.5" stroke-dasharray="4,3"/>
+  <polygon points="245,197 252,204 240,204" fill="#c43a31"/>
 
   <!-- ROM label -->
-  <text x="300" y="170" font-size="11" fill="#e74c3c" font-weight="700">Large ROM</text>
-  <text x="300" y="183" font-size="11" fill="#e74c3c" font-weight="700">Required</text>
+  <text x="310" y="175" font-size="11" fill="#c43a31" font-weight="700">Large ROM</text>
+  <text x="310" y="188" font-size="11" fill="#c43a31" font-weight="700">Required</text>
 
-  <!-- Blocked zone -->
-  <path d="M160,200 L265,155 A110,110 0 0,0 280,195 L160,200 Z" fill="#e74c3c" opacity="0.08"/>
-  <text x="110" y="168" font-size="9" fill="#e74c3c" font-weight="600">Cannot</text>
-  <text x="110" y="180" font-size="9" fill="#e74c3c" font-weight="600">extend here</text>
-  <!-- X mark -->
-  <text x="220" y="185" font-size="16" fill="#e74c3c" font-weight="700">X</text>
-
-  <!-- Keyboard surface line -->
-  <line x1="50" y1="230" x2="370" y2="230" stroke="#ccc" stroke-width="1" stroke-dasharray="4,4"/>
-  <text x="290" y="245" font-size="9" fill="#999">Keyboard surface</text>
+  <!-- Blocked zone (can't extend past contracture) -->
+  <path d="M160,100 L270,155 A100,100 0 0,1 290,105 L160,100 Z" fill="#c43a31" opacity="0.06"/>
+  <text x="82" y="130" font-size="9" fill="#c43a31" font-weight="600">Cannot extend</text>
+  <text x="82" y="142" font-size="9" fill="#c43a31" font-weight="600">past this</text>
+  <text x="220" y="130" font-size="16" fill="#c43a31" font-weight="700">X</text>
 
   <!-- RIGHT PANEL: Svalboard -->
-  <rect x="410" y="40" width="370" height="245" rx="6" fill="#fff" stroke="#e0e0e0" stroke-width="1"/>
-  <text x="595" y="62" text-anchor="middle" font-size="12" font-weight="700" fill="#27ae60">Svalboard</text>
+  <rect x="410" y="40" width="370" height="265" rx="6" fill="#fff" stroke="#e0e0e0" stroke-width="1"/>
+  <text x="595" y="62" text-anchor="middle" font-size="12" font-weight="700" fill="#1a8a5c">Svalboard</text>
 
-  <!-- Finger diagram - side view within contracture -->
-  <!-- Metacarpal bone -->
-  <line x1="450" y1="200" x2="550" y2="200" stroke="#b0b0b0" stroke-width="4" stroke-linecap="round"/>
+  <!-- Metacarpal -->
+  <line x1="450" y1="120" x2="550" y2="120" stroke="#b0b0b0" stroke-width="4" stroke-linecap="round"/>
 
   <!-- MCP joint -->
-  <circle cx="550" cy="200" r="5" fill="#fff" stroke="#27ae60" stroke-width="2"/>
+  <circle cx="550" cy="120" r="5" fill="#fff" stroke="#1a8a5c" stroke-width="2"/>
 
-  <!-- Contracture resting position (this IS the typing position) -->
-  <line x1="550" y1="200" x2="650" y2="158" stroke="#8B5E3C" stroke-width="3.5" stroke-linecap="round"/>
+  <!-- Proximal phalanx in contracted position (angled downward) -->
+  <line x1="550" y1="120" x2="640" y2="170" stroke="#8B5E3C" stroke-width="3.5" stroke-linecap="round"/>
 
-  <!-- PIP joint on contracted finger -->
-  <circle cx="650" cy="158" r="4" fill="#fff" stroke="#27ae60" stroke-width="1.5"/>
+  <!-- PIP joint -->
+  <circle cx="640" cy="170" r="4" fill="#fff" stroke="#1a8a5c" stroke-width="1.5"/>
 
-  <!-- Distal phalanx -->
-  <line x1="650" y1="158" x2="690" y2="140" stroke="#8B5E3C" stroke-width="3" stroke-linecap="round"/>
+  <!-- Distal phalanx continuing downward -->
+  <line x1="640" y1="170" x2="680" y2="195" stroke="#8B5E3C" stroke-width="3" stroke-linecap="round"/>
 
-  <!-- Tiny ROM arc at the fingertip -->
-  <path d="M686,137 A12,12 0 0,1 693,143" fill="none" stroke="#27ae60" stroke-width="2.5"/>
-  <path d="M685,147 A15,15 0 0,1 696,137" fill="none" stroke="#27ae60" stroke-width="2.5"/>
+  <!-- Key cluster at the fingertip position -->
+  <rect x="665" y="185" width="30" height="30" rx="4" fill="#edf8f3" stroke="#1a8a5c" stroke-width="1.5"/>
+  <text x="680" y="230" text-anchor="middle" font-size="8" fill="#1a8a5c">Key cluster</text>
 
-  <!-- Micro-movement arrows around fingertip -->
-  <!-- Up -->
-  <line x1="690" y1="135" x2="690" y2="127" stroke="#27ae60" stroke-width="1.5"/>
-  <polygon points="687,128 690,123 693,128" fill="#27ae60"/>
-  <!-- Down -->
-  <line x1="690" y1="147" x2="690" y2="155" stroke="#27ae60" stroke-width="1.5"/>
-  <polygon points="687,154 690,159 693,154" fill="#27ae60"/>
-  <!-- Left -->
-  <line x1="682" y1="140" x2="674" y2="140" stroke="#27ae60" stroke-width="1.5"/>
-  <polygon points="675,137 670,140 675,143" fill="#27ae60"/>
-  <!-- Right -->
-  <line x1="698" y1="140" x2="706" y2="140" stroke="#27ae60" stroke-width="1.5"/>
-  <polygon points="705,137 710,140 705,143" fill="#27ae60"/>
+  <!-- Micro-movement arrows around fingertip (N/S/E/W matching Svalboard layout) -->
+  <line x1="680" y1="183" x2="680" y2="175" stroke="#1a8a5c" stroke-width="1.5"/>
+  <polygon points="677,176 680,171 683,176" fill="#1a8a5c"/>
+  <line x1="680" y1="217" x2="680" y2="225" stroke="#1a8a5c" stroke-width="1.5"/>
+  <polygon points="677,224 680,229 683,224" fill="#1a8a5c"/>
+  <line x1="663" y1="200" x2="655" y2="200" stroke="#1a8a5c" stroke-width="1.5"/>
+  <polygon points="656,197 651,200 656,203" fill="#1a8a5c"/>
+  <line x1="697" y1="200" x2="705" y2="200" stroke="#1a8a5c" stroke-width="1.5"/>
+  <polygon points="704,197 709,200 704,203" fill="#1a8a5c"/>
 
-  <!-- Tiny ROM label -->
-  <text x="660" y="108" font-size="11" fill="#27ae60" font-weight="700">Micro-movements</text>
-  <text x="660" y="121" font-size="10" fill="#27ae60">within available ROM</text>
+  <!-- Label -->
+  <text x="710" y="175" font-size="10" fill="#1a8a5c" font-weight="700">Micro-movements</text>
+  <text x="710" y="188" font-size="9" fill="#1a8a5c">within available ROM</text>
 
-  <!-- "No extension needed" annotation -->
-  <text x="560" y="180" font-size="9" fill="#5d6d7e" font-style="italic">Resting posture =</text>
-  <text x="560" y="192" font-size="9" fill="#5d6d7e" font-style="italic">typing posture</text>
+  <!-- Annotation -->
+  <text x="465" y="170" font-size="9" fill="#666" font-style="italic">Contracted resting</text>
+  <text x="465" y="182" font-size="9" fill="#666" font-style="italic">posture = typing posture</text>
 
-  <!-- Svalboard key cluster representation -->
-  <rect x="680" y="125" width="30" height="30" rx="4" fill="none" stroke="#27ae60" stroke-width="1" stroke-dasharray="3,2" opacity="0.5"/>
-  <text x="695" y="170" text-anchor="middle" font-size="8" fill="#27ae60">Key cluster</text>
-
-  <!-- Bottom comparison labels -->
-  <text x="205" y="275" text-anchor="middle" font-size="10" fill="#e74c3c">Requires ROM the contracture has eliminated</text>
-  <text x="595" y="275" text-anchor="middle" font-size="10" fill="#27ae60">Works within whatever ROM remains</text>
+  <!-- Bottom labels -->
+  <text x="205" y="296" text-anchor="middle" font-size="10" fill="#c43a31">Requires ROM the contracture has eliminated</text>
+  <text x="595" y="296" text-anchor="middle" font-size="10" fill="#1a8a5c">Works within whatever ROM remains</text>
 
 </svg>
 <div class="diagram-caption">Left: conventional typing requires finger excursion through a range that a Dupuytren's contracture has eliminated. The digit cannot reach the extension needed for home row hover or inter-key travel. Right: Svalboard micro-movements operate within the restricted ROM — the contracted resting position is the typing position.</div>
