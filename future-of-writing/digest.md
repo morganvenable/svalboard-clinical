@@ -38,18 +38,21 @@ doesn't make typing obsolete is the distinction between **knowledge telling** an
 
 - **Knowledge telling**: The writer retrieves content from memory using topic and
   genre cues and writes it down with minimal transformation. Content flows from
-  memory to page with little restructuring. This is what novice writers do -- and
-  it is functionally what AI does.
+  memory to page with little restructuring.
 
 - **Knowledge transforming**: The writer engages in a dialectical process between
   *content space* (what they know) and *rhetorical space* (how to communicate it).
   The interaction between these two problem spaces generates new understanding. The
   writer literally thinks thoughts they would not have thought without writing.
 
-**Key implication**: Any tool that reduces writing to knowledge telling -- no matter
-how fluent the output -- eliminates the cognitive benefit. AI-generated text is
-knowledge telling at scale. The human value is in knowledge transforming, which
-requires the writer to be actively producing and revising text.
+**Note on AI**: Modern AI systems clearly perform something resembling knowledge
+transformation in their output: synthesizing novel connections, restructuring
+understanding for audiences, generating insights absent from any single source.
+The framework's relevance is not about whether AI can produce transformed output
+(it plainly can) but about what happens *in the human writer's mind* during
+composition. When you write, you reorganize your own understanding as a
+consequence of the struggle to articulate. When AI writes for you, the output may
+be excellent, but you do not undergo that cognitive transformation yourself.
 
 ### Supporting Evidence
 
@@ -819,7 +822,8 @@ the act of writing serves the thinker.
 3. **AI is reshaping every workflow.** 46% of new code is AI-generated (GitClear,
    2025). Solo developers operate as entire teams. Writers direct AI to produce
    first drafts, then shape the output. The human role is shifting from production
-   to direction, curation, and the knowledge-transforming work that AI cannot do.
+   to direction, curation, and the knowledge-transforming work that happens
+   in the human mind through the act of composition.
    This shift changes *what* we input, not *whether* we input.
 
 4. **The body is the bottleneck, and the stakes are rising.** When AI multiplies

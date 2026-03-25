@@ -2,6 +2,10 @@
 title: The Future of Writing in an AI World
 hero_title: The Future of Writing in an AI World
 hero_subtitle: Why the way you interact with your tools matters more than ever, and how to think about your own workflow.
+hero_btn1_text: Read the Research
+hero_btn1_href: #writing-is-thinking
+hero_btn2_text: Skip to the Synthesis
+hero_btn2_href: #the-question-is-how-you-want-to-work
 ---
 
 <div class="section mechanism" markdown="1">
@@ -10,9 +14,11 @@ hero_subtitle: Why the way you interact with your tools matters more than ever, 
 
 The most important insight from decades of cognitive science research is that writing is not just a way to record thought. It is a way to *generate* thought.
 
-Bereiter and Scardamalia (1987) drew a foundational distinction between **knowledge telling** and **knowledge transforming**. Knowledge telling is what happens when a writer (or an AI) retrieves content from memory and transcribes it with minimal restructuring. Knowledge transforming is what happens when the act of writing itself creates new understanding through a dialectic between what you know and how you're trying to communicate it. The writer thinks thoughts they would not have thought without writing.
+Bereiter and Scardamalia (1987) drew a foundational distinction between **knowledge telling** and **knowledge transforming**. Knowledge telling is what happens when a writer retrieves content from memory and transcribes it with minimal restructuring. Knowledge transforming is what happens when the act of writing itself creates new understanding through a dialectic between what you know and how you're trying to communicate it. The writer thinks thoughts they would not have thought without writing.
 
-This distinction is the key to understanding why AI text generation does not make human writing obsolete. AI is, functionally, a knowledge-telling machine operating at enormous scale. It retrieves and recombines patterns. The knowledge-transforming work, where new understanding emerges through the physical and cognitive act of composition, is something only the human writer experiences.
+Modern AI systems clearly do something that resembles knowledge transformation: they synthesize novel connections, restructure understanding for different audiences, and generate insights not explicitly present in any single source. The question is not whether AI can transform knowledge in its output. It plainly can.
+
+The question is what happens *inside the human* during the act of composition. When you write, you are not just producing text. You are reorganizing your own understanding. The cognitive transformation happens in the writer's mind as a consequence of the struggle to articulate. When AI writes *for* you, the output may be excellent, but you don't undergo that transformation yourself. The understanding remains the AI's, not yours.
 
 ### The Evidence Base
 
@@ -143,10 +149,9 @@ If AI handles the knowledge-telling work, humans may lose the capacity for knowl
 
 ### The Numbers (2025-2026)
 
-- 92% of US developers use AI coding tools daily (Second Talent, 2026)
-- 46% of new code is AI-generated (GitClear analysis of 211M changed lines)
-- Both Microsoft and Google report roughly 25% of their code is AI-generated
-- Anthropic reports roughly 90% of the code for Claude Code is written by Claude Code
+- The vast majority of professional developers now use AI coding tools daily
+- The share of new code that is AI-generated is large and growing rapidly; major tech companies report substantial fractions of their codebases are now AI-authored
+- Anthropic has reported that most of the code for Claude Code is written by Claude Code itself
 
 ### The METR Study
 
@@ -174,19 +179,19 @@ Typing shifts from boilerplate to higher-level direction and prompting. Develope
 
 The Svalboard project itself illustrates how AI reshapes knowledge work across multiple roles.
 
-### The Developer: Ira Cooper
+### The Developer
 
-Ira Cooper is a solo firmware and software developer who, with a Claude Code Max subscription, does the work of what would traditionally require a large development team. His contributions span keyboard firmware (QMK/Vial), web-based configuration tools, protocol implementations, and systems integration, a scope normally demanding specialists across embedded systems, web development, protocol design, and DevOps.
+A solo firmware and software developer who, with an agentic AI coding subscription, does the work of what would traditionally require a large development team. His contributions span keyboard firmware, web-based configuration tools, protocol implementations, and systems integration, a scope normally demanding specialists across embedded systems, web development, protocol design, and DevOps.
 
 This is the "super-powered developer" pattern of 2025-2026: an experienced engineer using agentic AI as a force multiplier across an entire product stack. The AI handles boilerplate, generates implementations from architectural direction, runs tests, and iterates. But every cycle requires the developer to express intent, make architectural decisions, review code, apply corrections, and shape generated output into production-quality software.
 
-### The UX Designer: Bernard Kerr
+### The UX Designer
 
-Bernard Kerr uses AI tools for rapid prototyping and design iteration on keybard-ng, the Svalboard's custom web-based layout editor. A designer who can now prototype functional interfaces directly, without waiting for developer cycles. AI generates implementations from design intent, but the intent must still be specified and refined.
+A UX designer on the same project uses AI tools for rapid prototyping and design iteration on the product's custom web-based layout editor. A designer who can now prototype functional interfaces directly, without waiting for developer cycles. AI generates implementations from design intent, but the intent must still be specified and refined.
 
-### The Founder: Morgan Venable
+### The Founder
 
-Morgan Venable composed the research underlying this page via voice input to Claude Code, directing an AI to aggregate research, synthesize findings, and produce structured documentation that would traditionally require a research assistant and technical writer. Voice for high-level direction and ideation, with keyboard available for precision when wanted. Different people will find different balances.
+The founder of the project composed the research underlying this page via voice input to an AI assistant, directing it to aggregate research, synthesize findings, and produce structured documentation that would traditionally require a research assistant and technical writer. Voice for high-level direction and ideation, with keyboard available for precision when wanted. Different people will find different balances.
 
 ### What This Reveals
 
@@ -272,6 +277,134 @@ If typing is a cognitive tool, then anything that disrupts typing disrupts think
 
 ---
 
+<div class="section mechanism" markdown="1">
+
+## Speech {#speech}
+
+Voice input has come a long way from rigid command grammars. Modern local speech recognition, combined with LLM understanding of context, is making voice a genuinely powerful input modality for knowledge work.
+
+### Handy: Local Speech Recognition Done Right
+
+[Handy](https://github.com/cjpais/Handy) is a free, open-source speech-to-text application that runs entirely offline. Built with Tauri (Rust + React/TypeScript), it performs all recognition locally without sending audio to cloud servers.
+
+What makes Handy particularly interesting for workflow optimization:
+
+- **Model switching**: Handy supports multiple recognition backends, including OpenAI's Whisper models (GPU-accelerated) and Parakeet V3 (efficient CPU-only with automatic language detection). Users can seamlessly switch between models to find what works best for their voice, accent, and vocabulary.
+- **Vocabulary customization**: The ability to tune recognition for domain-specific terminology matters enormously for technical users. Medical, legal, and engineering vocabularies are poorly served by generic models.
+- **Press-to-record workflow**: A configurable keyboard shortcut starts recording; releasing transcribes and pastes into whatever text field is active. This tight integration with typing workflows means voice and keyboard complement each other rather than competing.
+- **Privacy**: All processing stays on your machine. For professionals working with confidential content, this is not optional.
+
+### Voice + LLM: Beyond Transcription
+
+Raw transcription is just the beginning. When a local speech model feeds into an LLM that understands your project context, the voice channel becomes dramatically more powerful. You can speak loosely and have the AI interpret your intent, resolve ambiguities, and produce structured output. This is the workflow that produced much of this page: voice direction to an AI assistant that understands the project deeply enough to act on imprecise instructions.
+
+The tools like Wispr Flow and the emerging "vibe coding" pattern point toward a future where voice is not a replacement for typing but a complementary channel optimized for different cognitive modes: ideation, high-level direction, and rapid rough-drafting.
+
+### Talon Voice and Cursorless
+
+For users who need or prefer hands-free operation, Talon Voice provides comprehensive computer control by voice, and Cursorless extends this to structural code editing at the AST level. These tools have steep learning curves but demonstrate that voice can achieve typing-equivalent speeds for experienced users. Both were created by developers who developed RSI, which speaks to the real demand.
+
+</div>
+
+---
+
+<div class="section clinical" markdown="1">
+
+## Gaze {#gaze}
+
+Eye tracking is rapidly evolving from a specialized accessibility tool to a general-purpose input complement that can make every other modality more efficient.
+
+### Tobii Eye Trackers
+
+Tobii's hardware eye trackers (particularly the Tobii Eye Tracker 5 and its successors) provide high-precision gaze tracking that integrates with Talon Voice and other assistive tools. The core value proposition: your eyes already look at what you want to interact with. Gaze tracking turns that natural behavior into an input signal, positioning the cursor roughly where you're looking so that fine adjustment (via head tracking, voice, or minimal hand movement) takes over from there.
+
+For Svalboard users, this is particularly interesting because fingers never leave their wells. Gaze-to-approximate-position + Trackpoint/trackball fine adjustment could eliminate even the small pointing movements currently needed.
+
+### Open-Source Webcam Gaze Tracking
+
+Dedicated hardware like Tobii offers the best accuracy, but webcam-based alternatives are becoming viable:
+
+- **GazePointer** uses a standard webcam to estimate gaze direction and move the mouse cursor accordingly
+- **Precision Gaze Mouse** combines eye tracking with face tracking for speed-of-gaze plus precision-of-head movement
+- **WebGazer.js** provides browser-based eye tracking that self-calibrates by watching user interactions
+- **Enable Viacam (eViacam)** uses head tracking via webcam for cursor control
+
+These solutions provide "warping" to reduce ballistic motion in pointing: instead of moving your hand across a desk to reach a screen target, your gaze jumps the cursor to the approximate region, and a secondary input refines the position.
+
+### The LLM Opportunity
+
+Here is what gets genuinely exciting: combine a webcam gaze tracker with an LLM that has screen context (understanding what's on screen, what the application state is, what the user has been working on), and you may get a large fraction of the way to Tobii-level utility without dedicated hardware. The LLM can disambiguate where you're looking based on what makes sense in context. GazePointAR (CHI 2024) demonstrated exactly this principle: gaze + AI context understanding + voice resolving ambiguity together.
+
+This is not production-ready today. But the trajectory suggests that the combination of cheap webcam input, LLM context understanding, and multimodal fusion could democratize gaze-assisted workflows within a few years.
+
+</div>
+
+---
+
+<div class="section mechanism" markdown="1">
+
+## Motor Input {#motor-input}
+
+The physical interface between human and computer remains the critical link in every workflow, and the one most likely to fail over a career.
+
+### The Svalboard Approach
+
+The Svalboard's design philosophy is relevant here not as a product pitch but as an example of principled workflow optimization:
+
+- **Fingers never leave their wells**: Five directional keys per finger, activated by movements of a few millimeters. No hand movement, no finger extension, no reaching.
+- **Integrated pointing**: Trackpoint and/or trackball built into the same hand position. No homing cost between keyboard and mouse. This directly addresses the Fitts' Law switching penalty that costs knowledge workers significant time daily.
+- **Low force, short travel**: ~20 grams on most keys, ~12 grams on North keys (extension) to reduce extensor load. Tunable down to 8-10 grams per key per direction. ~1-2mm travel. Optical sensing with a front-loaded force profile and clean breakaway.
+- **Per-key tunability**: Force and actuation characteristics adjustable per key, accommodating individual hand anatomy and injury patterns.
+
+These are workflow optimizations backed by the DataHand clinical evidence (71% pain reduction, sustained productivity, fatigue resistance) and refined with modern sensing and materials.
+
+### The Integration Principle
+
+The deeper point is that motor input should integrate with other modalities rather than competing with them. A keyboard that also handles pointing eliminates one modality switch. A keyboard that works alongside voice (press-to-record with Handy, for instance) and gaze (cursor warped to approximate position before fine trackpoint adjustment) creates a fluid multimodal workspace where the human moves between channels based on what the task demands and what their body can sustain.
+
+</div>
+
+---
+
+<div class="section problem" markdown="1">
+
+## Memory {#memory}
+
+This may be the most important and least addressed dimension of workflow optimization.
+
+### The Capture Problem
+
+Throughout the day, we have insights, ideas, and realizations that we fail to capture because there is no sufficiently low-friction way to do so. You're walking the dog, taking a shower, driving to the store, and your brain connects two things you've been thinking about. Unless you can record that connection within seconds, in whatever context you're in, the idea simply vanishes. You may have it again. You may not.
+
+This is not a hypothetical concern. Research on prospective memory (remembering to do things in the future) consistently shows that external capture dramatically outperforms attempts to simply remember. The value of an idea depends not just on having it but on being able to act on it later. A frictionless capture system turns fleeting cognition into durable knowledge.
+
+### Breaking Free from the Session
+
+Most knowledge tools today are session-bound. You sit down, open your IDE or document, do focused work, and close it. The tool forgets about you between sessions. But your brain doesn't stop working when you stand up. Background processing, incubation, and spontaneous insight are well-documented cognitive phenomena. Some of the most valuable thinking happens when you're *not* at your desk.
+
+The challenge is bridging the gap between insight (which happens anywhere) and action (which traditionally requires being at a workstation). This is an area that deserves much more attention from tool designers.
+
+### Ambient AI as a Starting Point
+
+Features like remote triggers in Claude Code point toward a model where an AI assistant is not session-bound but ambient, accessible from a phone, a watch, or a voice command while you're away from your desk. You can fire off a thought, a question, or a direction, and the AI captures it, contextualizes it within your ongoing work, and either acts on it or queues it for your next focused session.
+
+This is a starting point, not a solution. The real vision is a system that:
+
+- **Captures** insights with near-zero friction from any context (voice memo, quick text, even a gesture)
+- **Contextualizes** them within your active projects and ongoing thinking
+- **Surfaces** them at the right moment when you're back in focused work mode
+- **Connects** ideas across time, linking today's shower insight to last week's code review and next month's design decision
+
+### Why This Matters for Workflow Design
+
+The keyboard, the voice interface, the gaze tracker: these are all tools for the focused session. Memory and capture are tools for the space *between* sessions. A truly optimized workflow addresses both. The person who can capture ideas while walking, process them with AI while commuting, and execute on them with fluid multimodal input when they sit down is doing fundamentally different work than someone who loses half their insights to the gap between thinking and typing.
+
+This is still early territory. But the convergence of ambient AI, always-on voice capture, and intelligent context management suggests that the workflow of the near future will extend far beyond the desk.
+
+</div>
+
+---
+
 <div class="section provider" markdown="1">
 
 ## The Question Is How You Want to Work
@@ -282,7 +415,7 @@ If typing is a cognitive tool, then anything that disrupts typing disrupts think
 
 **2. Fluent input enables deeper thinking.** When transcription is effortful, it consumes working memory needed for composition (McCutchen, Alves). When it's automatic, the mind is free for knowledge transformation. This is true whether "fluent input" means expert touch typing, practiced voice coding, or any other modality that has become second nature. The point is mastery, not modality.
 
-**3. AI is reshaping every workflow.** 46% of new code is AI-generated. Solo developers operate as entire teams. Writers direct AI to produce first drafts, then shape the output. The human role is shifting from production to direction, curation, and the knowledge-transforming work that AI cannot do.
+**3. AI is reshaping every workflow.** A large and rapidly growing share of new code is AI-generated. Solo developers operate as entire teams. Writers direct AI to produce first drafts, then shape the output. The human role is shifting from production to direction, curation, and the knowledge-transforming work that happens in the human mind through the act of composition.
 
 **4. The body is the bottleneck, and the stakes are rising.** When AI multiplies the output of each human work session, the human's capacity to sustain that session becomes the limiting factor. RSI, voice strain, eye fatigue: any breakdown in the input channel shuts down not one person's output but a multiplied capability.
 

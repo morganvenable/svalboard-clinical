@@ -18,7 +18,7 @@ A typical office worker switches between keyboard and mouse **50-100 times per h
 - **Scapular protraction** as the arm moves forward and outward
 - **Upper trapezius activation** to stabilize the arm during the reaching motion and during mouse use
 - **Rotator cuff loading** - supraspinatus, infraspinatus, and teres minor fire to control the glenohumeral joint through the transition
-- **Cervical lateral flexion and rotation** as the eyes track between screen regions associated with keyboard vs mouse input
+- **Sustained cervical load** from the upper trapezius and levator scapulae firing to stabilize the shoulder during reaching and arm hovering
 
 Over an 8-hour workday, that is **400-800 reach cycles** loading the same structures.
 
@@ -50,7 +50,7 @@ Standard ergonomic interventions for mouse-related shoulder pain include:
 - **Vertical mice** - change forearm posture but don't address the reach
 - **Keyboard-mounted trackpoints** - effective for some users and pair well with gaze-based cursor warping, but proportional force input on the fingertip can aggravate DIP joint pathology in patients with existing distal phalanx issues
 
-Each of these reduces some aspect of the problem. Svalboard's approach is to integrate a trackball directly into the palm rest, keeping the hand fully supported and the shoulder at rest.
+Each of these reduces some aspect of the problem. Svalboard's approach is to place a pointing device (trackball or trackpoint, user's choice) directly underneath the hand for easy reach, keeping the hand fully supported and the shoulder at rest.
 
 <div class="comparison" markdown="1">
 
@@ -71,7 +71,7 @@ Each of these reduces some aspect of the problem. Svalboard's approach is to int
 
 ### Svalboard
 
-- Trackball and trackpoint built into the hand rest
+- Pointing device (trackball or trackpoint) located underneath the hand
 - Zero reach cycles - pointing happens from typing position
 - Hands never leave the palm cradle
 - Arm fully supported at all times
@@ -90,7 +90,7 @@ Each of these reduces some aspect of the problem. Svalboard's approach is to int
 
 ### Pointing Without Reaching
 
-Svalboard integrates a trackball and trackpoint into the palm rest. The hand stays in the same supported position for both typing and pointing. There is no mode switch, no reaching, and no arm movement.
+Svalboard places a pointing device (trackball or trackpoint, user's choice) directly underneath the hand. The hand stays in the same supported position for both typing and pointing - no reaching, no arm movement. The trackball can also be operated with the middle phalanges without significant hand contortion, keeping the fingertips free for typing.
 
 This removes the entire reach cycle:
 
@@ -98,7 +98,7 @@ This removes the entire reach cycle:
 - No scapular protraction
 - No upper trapezius stabilization firing
 - No rotator cuff loading from arm transitions
-- No cervical rotation to track between input zones
+- Reduced cervical load from upper trapezius and levator scapulae unloading
 
 ### Full Arm Support
 
@@ -147,9 +147,9 @@ Arm fully supported. No sustained contraction to hold arm position or stabilize 
 
 <div class="stat-card" markdown="1">
 
-### Cervical Strain
+### Cervical Load
 
-No head rotation between keyboard and mouse zones. Input modality switches happen under the same hand position.
+Arm support unloads the upper trapezius and levator scapulae, reducing the sustained cervical tension from hovering arms over a keyboard.
 
 </div>
 
@@ -157,7 +157,7 @@ No head rotation between keyboard and mouse zones. Input modality switches happe
 
 <div class="callout success" markdown="1">
 
-**Clinical summary:** Keyboard-to-mouse reaching drives shoulder impingement, rotator cuff tendinopathy, upper trapezius myalgia, and contributes to thoracic outlet compression. Svalboard removes the reach cycle entirely by integrating pointing devices into the palm rest. The shoulder and neck remain at rest during all computer input.
+**Clinical summary:** Keyboard-to-mouse reaching drives shoulder impingement, rotator cuff tendinopathy, upper trapezius myalgia, and contributes to thoracic outlet compression. Svalboard removes the reach cycle by placing pointing devices underneath the hand. The shoulder and neck remain at rest during all computer input.
 
 </div>
 
@@ -185,7 +185,7 @@ No head rotation between keyboard and mouse zones. Input modality switches happe
 - Brachial plexus (thoracic outlet)
 - Cervical paraspinals
 
-**Key biomechanical change:** Svalboard removes keyboard-to-mouse reaching by integrating trackball and trackpoint into the palm rest. The arm stays supported in neutral. Shoulder abduction, scapular protraction, and upper trapezius stabilization firing drop to near zero during computer use.
+**Key biomechanical change:** Svalboard removes keyboard-to-mouse reaching by placing a pointing device underneath the hand. The arm stays supported in neutral. Shoulder abduction, scapular protraction, and upper trapezius stabilization firing drop to near zero during computer use.
 
 **Clinical use cases:**
 
@@ -194,7 +194,7 @@ No head rotation between keyboard and mouse zones. Input modality switches happe
 - **Chronic upper trapezius trigger points** - remove the sustained low-level contraction from arm hovering and mouse reaching
 - **Thoracic outlet syndrome** - neutral supported posture avoids the forward shoulder position that narrows the costoclavicular space
 - **Post-surgical shoulder rehabilitation** - return to computer work without loading the shoulder through reaching arcs
-- **Cervical disc disease or radiculopathy** - reduce cervical rotation and lateral flexion from keyboard/mouse switching
+- **Cervical disc disease or radiculopathy** - reduce sustained cervical load from upper trapezius and levator scapulae tension during arm hovering
 
 **Complementary interventions:** Compatible with physical therapy for rotator cuff and scapular stabilization, trigger point dry needling, cervical traction, and workplace ergonomic assessments. Svalboard addresses the input device component - postural training and strengthening address the rest.
 
