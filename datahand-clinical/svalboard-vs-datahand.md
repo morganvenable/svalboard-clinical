@@ -30,7 +30,7 @@ The core ergonomic principles DataHand established remain valid:
 5. Directional key distribution (20% per direction vs. 100% downward)
 6. Integrated pointing, eliminating keyboard-mouse transitions
 
-These principles are the foundation. The Svalboard preserves every one of them
+These principles are the foundation. Svalboard preserves every one of them
 while addressing the limitations that prevented DataHand from serving all users.
 
 ---
@@ -86,7 +86,7 @@ variation.
 
 ### Extreme Anatomical Customizability
 
-The Svalboard provides continuous adjustment across multiple axes for every
+Svalboard provides continuous adjustment across multiple axes for every
 key cluster and the palmrest, achieving millimeter and sub-degree fit
 precision. This is not marketing language; it describes the mechanical
 reality of the adjustment system.
@@ -136,7 +136,7 @@ chair arms, standing desk surfaces, and articulating monitor arms.
 | Maximum hand size | Accommodated | Accommodated |
 | Splay reduction vs. DataHand | (baseline) | ~10mm (Lightly); ~19mm (Narrow prototype) |
 
-The Svalboard Lightly reduced splay by about 10mm across the fingertips
+Svalboard Lightly reduced splay by about 10mm across the fingertips
 compared to the original Svalboard geometry (which was already smaller than
 DataHand). The Narrow prototype demonstrated an additional ~9mm reduction.
 Women with palm widths around 60mm and hand lengths around 140mm are using

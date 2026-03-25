@@ -14,5 +14,5 @@ creation.
 AI handles knowledge telling (generating text from patterns). Humans do knowledge
 transforming (generating new understanding through the act of writing). Skilled
 typing is the instrument of knowledge transformation. Pain destroys it. Ergonomic
-keyboards protect it. Therefore, in an AI world, the Svalboard is *more* important,
+keyboards protect it. Therefore, in an AI world, Svalboard is *more* important,
 not less.

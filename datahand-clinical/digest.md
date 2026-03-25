@@ -297,7 +297,7 @@ svalboard.com/pages/reviews. Available as PDF in Wayback Machine archives.
 
 ## 10. Relevance to Svalboard
 
-The Svalboard inherits the DataHand's core design philosophy (finger-well architecture,
+Svalboard inherits the DataHand's core design philosophy (finger-well architecture,
 multi-directional key activation, supported hands) while modernizing the technology:
 
 ### Shared Design Principles
@@ -344,4 +344,4 @@ Key transferable findings:
 - The Harrington study is the strongest clinical evidence (peer-reviewed, presented
   at RESNA)
 - Corporate productivity studies used company-gathered data analyzed by DataHand
-- The Svalboard is not FDA-certified to treat any medical condition
+- Svalboard is not FDA-certified to treat any medical condition

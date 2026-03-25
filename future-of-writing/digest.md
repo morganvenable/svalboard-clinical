@@ -531,7 +531,7 @@ that design directly support sustained cognitive performance.
 
 ## 12. Case Study: The Super-Powered Developer
 
-The Svalboard project itself is a living case study of AI-augmented knowledge work
+Svalboard project itself is a living case study of AI-augmented knowledge work
 -- and it demonstrates exactly why typing becomes *more* critical, not less, as AI
 multiplies human capability.
 
@@ -610,7 +610,7 @@ will find different balances.
 The question isn't "will people type?" -- it's "how will people sustain the
 cognitive work that AI amplifies?" For many, that means typing, and it means
 typing that doesn't cause pain. For others, it may mean voice, gaze, or
-combinations we haven't yet refined. The Svalboard addresses the typing case
+combinations we haven't yet refined. Svalboard addresses the typing case
 with the best evidence base available (DataHand clinical research, 71% pain
 reduction). But the deeper point is that *any* input method used at this
 intensity needs to be sustainable for the human body.
@@ -651,7 +651,7 @@ steep, but experienced users report meeting or exceeding keyboard editing speeds
 **Gaze tracking**: Tobii eye trackers integrate with Talon to position the cursor
 via gaze, with head tracking for refinement. This isn't gaze-only typing (which
 is slow and exhausting) but gaze as a *complement* -- your eyes indicate where,
-your voice or hands indicate what. The Svalboard's integrated Trackpoint and
+your voice or hands indicate what. Svalboard's integrated Trackpoint and
 trackball pointing already embody this principle of tight coupling between text
 input and cursor control; gaze tracking extends it further.
 
@@ -705,7 +705,7 @@ Research quantifies this cost:
   daily) consumes an estimated 45-90 minutes of productive output from the
   accumulated micro-recoveries.
 
-- The Svalboard's approach -- fingers never leave their wells, pointing happens
+- Svalboard's approach -- fingers never leave their wells, pointing happens
   under the same hands -- eliminates homing entirely. Cursorless achieves the same
   for voice users by eliminating spatial targeting altogether. Both are workflow
   optimizations that AI amplifies: when each cycle of intent-expression is more
@@ -731,7 +731,7 @@ the trajectory is clear.
 ### What This Means for Ergonomic Design
 
 The question for input device designers isn't "which modality wins?" -- it's
-"how do we support all of them?" The Svalboard already combines typing and
+"how do we support all of them?" Svalboard already combines typing and
 pointing in a single ergonomic package. The natural extensions are:
 
 - Voice integration that works *alongside* typing, not as a replacement
@@ -842,12 +842,12 @@ the act of writing serves the thinker.
 
 ### What This Means for the Svalboard
 
-The Svalboard exists because many people find that physical typing is their
+Svalboard exists because many people find that physical typing is their
 preferred and most powerful mode of knowledge transformation -- and because
 conventional keyboards cause pain that destroys the cognitive benefits of that
 preference. The DataHand evidence (71% pain reduction, Harrington study;
 productivity maintenance, Fernandez/Stanford) established that the finger-well
-paradigm can sustain typing over careers. The Svalboard improves on that
+paradigm can sustain typing over careers. Svalboard improves on that
 foundation (lower force, shorter travel, per-key tunability, integrated pointing,
 modern firmware).
 

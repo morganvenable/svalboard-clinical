@@ -177,7 +177,7 @@ Typing shifts from boilerplate to higher-level direction and prompting. Develope
 
 ## Case Study: The Super-Powered Developer
 
-The Svalboard project itself illustrates how AI reshapes knowledge work across multiple roles.
+Svalboard itself illustrates how AI reshapes knowledge work across multiple roles.
 
 ### The Developer
 
@@ -229,7 +229,7 @@ The traditional limitation of voice coding was rigid command grammars. LLMs diss
 
 ### The Cost of Switching Between Modalities
 
-One reason the Svalboard integrates pointing (Trackpoint/trackball) directly into the keyboard is to eliminate the hand-homing cost between keyboard and mouse. Card, English & Burr (1978) applied Fitts' Law to this problem: every keyboard-to-mouse transition involves ballistic movement plus fine adjustment, plus the cognitive overhead of switching from symbolic to spatial mode. Gloria Mark's research at UC Irvine documented that context switches take an average of 23 minutes to fully recover from; micro-level switching accumulates into significant lost productive time.
+One reason Svalboard integrates pointing (Trackpoint/trackball) directly into the keyboard is to eliminate the hand-homing cost between keyboard and mouse. Card, English & Burr (1978) applied Fitts' Law to this problem: every keyboard-to-mouse transition involves ballistic movement plus fine adjustment, plus the cognitive overhead of switching from symbolic to spatial mode. Gloria Mark's research at UC Irvine documented that context switches take an average of 23 minutes to fully recover from; micro-level switching accumulates into significant lost productive time.
 
 Cursorless achieves the same elimination of spatial targeting for voice users. Both are workflow optimizations that AI amplifies: when each cycle of intent-expression is more consequential, the cost of interrupted flow is higher.
 
@@ -347,9 +347,9 @@ This is not production-ready today. But the trajectory suggests that the combina
 
 The physical interface between human and computer remains the critical link in every workflow, and the one most likely to fail over a career.
 
-### The Svalboard Approach
+### Svalboard's Approach
 
-The Svalboard's design philosophy is relevant here not as a product pitch but as an example of principled workflow optimization:
+Svalboard's design philosophy is relevant here not as a product pitch but as an example of principled workflow optimization:
 
 - **Fingers never leave their wells**: Five directional keys per finger, activated by movements of a few millimeters. No hand movement, no finger extension, no reaching.
 - **Integrated pointing**: Trackpoint and/or trackball built into the same hand position. No homing cost between keyboard and mouse. This directly addresses the Fitts' Law switching penalty that costs knowledge workers significant time daily.
@@ -423,9 +423,9 @@ This is still early territory. But the convergence of ambient AI, always-on voic
 
 ### What This Means for Svalboard
 
-The Svalboard exists because many people find that physical typing is their preferred and most powerful mode of knowledge transformation, and because conventional keyboards cause pain that destroys the cognitive benefits of that preference. The DataHand evidence (71% pain reduction, productivity maintenance, fatigue resistance) established that the finger-well paradigm can sustain typing over careers. The Svalboard improves on that foundation with lower force, shorter travel, per-key tunability, integrated pointing, and modern firmware.
+Svalboard exists because many people find that physical typing is their preferred and most powerful mode of knowledge transformation, and because conventional keyboards cause pain that destroys the cognitive benefits of that preference. The DataHand evidence (71% pain reduction, productivity maintenance, fatigue resistance) established that the finger-well paradigm can sustain typing over careers. Svalboard improves on that foundation with lower force, shorter travel, per-key tunability, integrated pointing, and modern firmware.
 
-But the Svalboard isn't an argument that everyone must type. It's an argument that if typing is how you think best, you deserve hardware that won't take that away from you. In an AI world where each work session carries more consequence, protecting your preferred input method is protecting your cognitive capability.
+But Svalboard isn't an argument that everyone must type. It's an argument that if typing is how you think best, you deserve hardware that won't take that away from you. In an AI world where each work session carries more consequence, protecting your preferred input method is protecting your cognitive capability.
 
 The right question for each person isn't "should I type or speak or look?" It's: **"How do I want to structure my workflow, and what does my body need to sustain it for the next thirty years?"**
 
