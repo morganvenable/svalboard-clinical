@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Gaze Tracking - Svalboard Workflow</title>
+  <link rel="stylesheet" href="assets/css/clinical.css">
+</head>
+<body>
+  <nav class="top-nav">
+    <a href="future-of-writing.html" class="brand">
+      <span class="brand-wordmark">svalboard</span>
+      <span class="brand-divider"></span>
+      <span class="brand-text">Workflow</span>
+    </a>
+    <a href="future-of-writing.html">Home</a>
+    <a href="speech.html">Speech</a>
+    <a href="gaze.html" style="color:#fff;font-weight:700">Gaze</a>
+    <a href="motor-input.html">Motor Input</a>
+    <a href="memory.html">Memory</a>
+  </nav>
+
+  <div class="hero" style="background: linear-gradient(135deg, #121212 0%, #2e1a2e 100%);">
+    <h1>Gaze</h1>
+    <p class="subtitle">Your eyes already look at what you want to interact with. The question is whether your tools can use that signal.</p>
+  </div>
+
+  <div class="content">
+    <div class="section mechanism">
+<h2 id="gaze-as-complement-not-replacement">Gaze as Complement, Not Replacement</h2>
+<p>Eye tracking is most powerful not as a standalone input method but as a complement that makes every other modality more efficient.</p>
+<p>The core idea is simple: your eyes already look at what you want to interact with. If the computer can approximate where you're looking, it can warp the cursor to that region before you even begin a pointing gesture. This eliminates the ballistic phase of mouse movement (the long-distance travel) and leaves only the fine adjustment, which can be handled by a trackpoint, trackball, head movement, or even a brief voice command.</p>
+<p>For Svalboard users, this is particularly interesting because fingers never leave their wells. Gaze-to-approximate-position + Trackpoint/trackball fine adjustment could eliminate even the small pointing movements currently needed, creating a nearly motionless pointing workflow.</p>
+</div>
+<hr />
+<div class="section clinical">
+<h2 id="tobii">Tobii Eye Trackers</h2>
+<p>Tobii's hardware eye trackers (particularly the Tobii Eye Tracker 5 and its successors) provide the gold standard in consumer eye tracking. They use dedicated infrared illuminators and sensors to track gaze with precision significantly better than webcam-based solutions.</p>
+<h3 id="integration-with-talon">Integration with Talon</h3>
+<p>Talon Voice integrates directly with Tobii hardware using a lightweight custom driver that replaces Tobii's heavier software stack. The integration provides:</p>
+<ul>
+<li>Gaze-based cursor positioning (warping to approximate gaze location)</li>
+<li>Head tracking for fine cursor adjustment</li>
+<li>Combined gaze + head tracking that achieves usable pointing precision</li>
+</ul>
+<p>For users who already use Talon for voice control, adding a Tobii tracker creates a complete hands-free pointing system.</p>
+<h3 id="limitations">Limitations</h3>
+<ul>
+<li>Dedicated hardware required (~$230 for the Eye Tracker 5)</li>
+<li>Requires mounting on or near the monitor</li>
+<li>Calibration needed per user and session</li>
+<li>Accuracy degrades with glasses, certain lighting conditions, and off-angle head positions</li>
+<li>Not portable between workstations without remounting</li>
+</ul>
+</div>
+<hr />
+<div class="section mechanism">
+<h2 id="open-source-webcam-alternatives">Open-Source Webcam Alternatives</h2>
+<p>The open-source webcam gaze tracking landscape is honest: it is fragmented, less precise than Tobii, and most projects are either research demos or in early stages. But several are worth watching.</p>
+<h3 id="actively-maintained">Actively Maintained</h3>
+<p><strong>Project Gameface</strong> (Google, open-source, 2023-present) is the strongest entry. It uses MediaPipe's 478 face landmarks and 52 blendshape scores via a standard webcam to provide head-movement cursor control and facial-gesture clicking. Open-source on GitHub (<code>google/project-gameface</code>), expanded to Android in 2024. Backed by Google with real accessibility motivation. Technically this is face/head tracking rather than pure gaze estimation, but the MediaPipe foundation could be extended with gaze estimation layers.</p>
+<p><strong>EyeTrax</strong> (MIT license, v0.2.2, April 2025) is a Python library providing webcam-based gaze estimation with 9-point calibration, Kalman and EMA smoothing, and gaze prediction. More of a library than an end-user product, but actively maintained and architecturally sound.</p>
+<p><strong>OptiKey</strong> (open-source, C#/.NET) is a mature on-screen keyboard and mouse emulation system designed for ALS/MND patients. It supports Tobii hardware directly and can also work with webcam-based head tracking. Long-running project with genuine accessibility commitment.</p>
+<p><strong>GazePointer</strong> uses the GazeFlow engine to estimate gaze direction from a standard webcam and control cursor position. Available on SourceForge; the underlying GazeFlow engine is proprietary but the tool is free.</p>
+<h3 id="honest-assessment">Honest Assessment</h3>
+<p>Webcam gaze tracking today does not match Tobii precision. The hardware gap is real: Tobii uses dedicated infrared illumination that webcams lack. But for the "warping" use case (jumping the cursor to the right quadrant of the screen, then refining with another input), webcam accuracy may be sufficient. You don't need pixel-perfect gaze to know the user is looking at the top-right monitor.</p>
+</div>
+<hr />
+<div class="section problem">
+<h2 id="the-llm-opportunity">The LLM Opportunity</h2>
+<p>This is where the picture gets genuinely interesting.</p>
+<p>Combine a webcam gaze tracker (imprecise, but gives approximate screen region) with an LLM that has screen context (understanding what's on screen, what the application state is, what the user has been working on), and you may get a large fraction of the way to Tobii-level utility without dedicated hardware.</p>
+<h3 id="how-it-would-work">How It Would Work</h3>
+<ol>
+<li>Webcam estimates you're looking at roughly the upper-right quadrant of the screen</li>
+<li>LLM knows there's a code editor open, and the upper-right area contains the function <code>handle_sensor_timeout()</code></li>
+<li>You say "that function" or even just "there"</li>
+<li>The system resolves the ambiguity: imprecise gaze + screen context + voice = precise target</li>
+</ol>
+<p>GazePointAR (Lee et al., CHI 2024) demonstrated exactly this principle in an AR context: gaze + pointing gestures + conversation history + LLM understanding resolved ambiguous spoken references like "what's over there?" into precise targets.</p>
+<h3 id="speakfaster-proof-of-concept">SpeakFaster: Proof of Concept</h3>
+<p>Google Research and Team Gleason published SpeakFaster in <em>Nature Communications</em> (2024), showing that LLMs can dramatically amplify reduced-bandwidth input channels. ALS patients using eye-gaze typing entered only word initials, and the LLM expanded to full phrases using conversational context. The result: 57% fewer motor actions and 29-60% faster entry rates.</p>
+<p>If LLMs can do this for gaze typing (arguably the lowest-bandwidth input method in use), the potential for LLM-augmented webcam gaze tracking is substantial.</p>
+<h3 id="timeline">Timeline</h3>
+<p>This is not production-ready today. But the trajectory suggests that the combination of cheap webcam input, LLM context understanding, and multimodal fusion could democratize gaze-assisted workflows within a few years. The pieces exist; the integration does not, yet.</p>
+</div>
+<hr />
+<div class="section provider">
+<h2 id="gaze-other-modalities">Gaze + Other Modalities</h2>
+<p>The real value of gaze tracking emerges in combination:</p>
+<table>
+<thead>
+<tr>
+<th>Combination</th>
+<th>What It Enables</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Gaze + Trackpoint (Svalboard)</td>
+<td>Near-motionless pointing: gaze warps, trackpoint refines</td>
+</tr>
+<tr>
+<td>Gaze + Voice (Talon)</td>
+<td>Hands-free pointing: gaze positions, voice commands act</td>
+</tr>
+<tr>
+<td>Gaze + LLM context</td>
+<td>Disambiguation without precision: "that function" resolves correctly</td>
+</tr>
+<tr>
+<td>Gaze + Head tracking</td>
+<td>Dual-bandwidth pointing: gaze for speed, head for precision</td>
+</tr>
+</tbody>
+</table>
+<p>The goal is not to make gaze tracking work alone. It is to make every other input modality work better by adding approximate spatial context that the eyes provide naturally.</p>
+</div>
+  </div>
+
+  <footer class="footer">
+    <p>Svalboard Workflow - Tools and workflows for sustainable knowledge work</p>
+    <p><a href="https://svalboard.com">svalboard.com</a> &middot; <a href="https://svalboard.substack.com">Substack</a></p>
+  </footer>
+</body>
+</html>

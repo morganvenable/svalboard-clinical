@@ -10,7 +10,7 @@ from pathlib import Path
 BASE_DIR = Path(__file__).parent
 REPO_DIR = BASE_DIR.parent
 MD_DIR = BASE_DIR / "markdown"
-HTML_DIR = BASE_DIR / "docs"
+HTML_DIR = REPO_DIR / "docs" / "workflow"
 
 # Reuse the clinical site's CSS
 CSS_REL = "assets/css/clinical.css"
