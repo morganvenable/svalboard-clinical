@@ -93,7 +93,7 @@ Svalboard addresses De Quervain's by eliminating the mechanical demands that dri
 
 **Minimal excursion.** The keys on Svalboard activate with approximately 1-2 mm of travel. Even when the thumb is used, the tendon displacement required is a fraction of what a spacebar press demands. Less excursion means less sliding through the constrained compartment, and less friction against the inflamed sheath.
 
-**Lower force.** Svalboard's Hall effect sensors activate at force levels far below those of any mechanical switch. Lower force means lower tendon tension during the glide, which reduces the normal force between tendon and sheath -- the direct driver of frictional irritation.
+**Lower force.** Svalboard's keys activate at force levels far below those of any mechanical switch. Lower force means lower tendon tension during the glide, which reduces the normal force between tendon and sheath -- the direct driver of frictional irritation.
 
 **Full palm support eliminates stabilization demands.** On a conventional keyboard or mouse, the thumb must co-contract APL and EPB to stabilize the hand in space. On Svalboard, the hand rests in a palm cradle. There is no hover, no grip, and no lateral stabilization. The thumb tendons can remain slack between activations.
 

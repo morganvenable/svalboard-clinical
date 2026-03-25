@@ -103,7 +103,7 @@ A finger locked at 30-60 degrees of MCP flexion and 20-40 degrees of PIP flexion
 
 ### Lower Force Requirements
 
-Svalboard's Hall effect sensors activate at a fraction of the force required by mechanical switches. Reduced force means reduced tensile load on the palmar fascia during each keystroke. Over thousands of keystrokes per hour, this translates to a substantial reduction in cumulative fascial strain.
+Svalboard's keys activate at a fraction of the force required by mechanical switches. Reduced force means reduced tensile load on the palmar fascia during each keystroke. Over thousands of keystrokes per hour, this translates to a substantial reduction in cumulative fascial strain.
 
 ### Independent Digit Operation
 
@@ -273,7 +273,7 @@ Svalboard addresses the functional consequence of Dupuytren's contracture — th
 
 ### Key Biomechanical Change
 
-**Functional typing within restricted ROM.** Svalboard's Hall effect key clusters activate with approximately 1-2 mm of displacement from the finger's resting position. A digit with a fixed flexion contracture at the MCP and PIP joints retains sufficient ROM for lateral and anterior micro-movements. These micro-movements are all Svalboard requires.
+**Functional typing within restricted ROM.** Svalboard's key clusters activate with approximately 1-2 mm of displacement from the finger's resting position. A digit with a fixed flexion contracture at the MCP and PIP joints retains sufficient ROM for lateral and anterior micro-movements. These micro-movements are all Svalboard requires.
 
 ### Clinical Use Cases
 
