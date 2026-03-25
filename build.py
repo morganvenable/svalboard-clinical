@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Build script: converts markdown files in /markdown to HTML in /html.
+Build script: converts markdown files in /markdown to HTML in /docs.
 Uses a shared template with nav, hero, and footer.
 Run: python build.py
 """
@@ -52,15 +52,15 @@ TEMPLATE = """<!DOCTYPE html>
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>{title} - {site_name}</title>
+  <title>{title} - Svalboard Clinical</title>
   <link rel="stylesheet" href="{css}">
 </head>
 <body>
   <nav class="top-nav">
-    <a href="{brand_href}" class="brand">
+    <a href="index.html" class="brand">
       <span class="brand-wordmark">svalboard</span>
       <span class="brand-divider"></span>
-      <span class="brand-text">{brand_text}</span>
+      <span class="brand-text">Clinical</span>
     </a>
     {nav}
   </nav>
@@ -76,7 +76,7 @@ TEMPLATE = """<!DOCTYPE html>
   </div>
 
   <footer class="footer">
-    <p>{footer_text}</p>
+    <p>Svalboard Clinical Resources - For healthcare providers and patients</p>
     <p><a href="https://svalboard.com">svalboard.com</a> &middot; <a href="https://svalboard.substack.com">Substack</a></p>
   </footer>
 </body>
@@ -92,13 +92,7 @@ DEFAULT_BUTTONS = (
 )
 
 def build_hero_buttons(meta):
-    """Build hero CTA buttons from frontmatter, or use defaults.
-
-    Frontmatter keys:
-      hero_btn1_text / hero_btn1_href  - primary button
-      hero_btn2_text / hero_btn2_href  - outline button
-      hero_buttons: none               - hide buttons entirely
-    """
+    """Build hero CTA buttons from frontmatter, or use defaults."""
     if meta.get("hero_buttons", "").lower() == "none":
         return ""
     btn1_text = meta.get("hero_btn1_text", "")
@@ -126,11 +120,6 @@ HERO_COLORS = {
     "trigger-finger": "background: linear-gradient(135deg, #121212 0%, #1a1a2e 100%);",
     "shoulder-neck": "background: linear-gradient(135deg, #121212 0%, #1a1a2e 100%);",
     "index": "background: #121212;",
-    "future-of-writing": "background: linear-gradient(135deg, #121212 0%, #1a2e1a 100%);",
-    "speech": "background: linear-gradient(135deg, #121212 0%, #1a1a2e 100%);",
-    "gaze": "background: linear-gradient(135deg, #121212 0%, #2e1a2e 100%);",
-    "motor-input": "background: linear-gradient(135deg, #121212 0%, #1a2e1a 100%);",
-    "memory": "background: linear-gradient(135deg, #121212 0%, #2e2a1a 100%);",
 }
 
 def process_markdown(md_text):
@@ -139,81 +128,6 @@ def process_markdown(md_text):
         'tables', 'fenced_code', 'attr_list', 'toc', 'md_in_html'
     ])
     return md.convert(md_text)
-
-# Per-page nav link overrides, keyed by file stem.
-# Each entry is a list of (href, label) tuples.
-PAGE_NAV = {
-    "future-of-writing": [
-        ("future-of-writing.html", "Home"),
-        ("speech.html", "Speech"),
-        ("gaze.html", "Gaze"),
-        ("motor-input.html", "Motor Input"),
-        ("memory.html", "Memory"),
-    ],
-    "speech": [
-        ("future-of-writing.html", "Home"),
-        ("speech.html", "Speech"),
-        ("gaze.html", "Gaze"),
-        ("motor-input.html", "Motor Input"),
-        ("memory.html", "Memory"),
-    ],
-    "gaze": [
-        ("future-of-writing.html", "Home"),
-        ("speech.html", "Speech"),
-        ("gaze.html", "Gaze"),
-        ("motor-input.html", "Motor Input"),
-        ("memory.html", "Memory"),
-    ],
-    "motor-input": [
-        ("future-of-writing.html", "Home"),
-        ("speech.html", "Speech"),
-        ("gaze.html", "Gaze"),
-        ("motor-input.html", "Motor Input"),
-        ("memory.html", "Memory"),
-    ],
-    "memory": [
-        ("future-of-writing.html", "Home"),
-        ("speech.html", "Speech"),
-        ("gaze.html", "Gaze"),
-        ("motor-input.html", "Motor Input"),
-        ("memory.html", "Memory"),
-    ],
-}
-
-# Per-page site identity overrides, keyed by file stem.
-# Keys: brand_text, brand_href, site_name, footer_text
-PAGE_IDENTITY = {
-    "future-of-writing": {
-        "brand_text": "Workflow",
-        "brand_href": "future-of-writing.html",
-        "site_name": "Svalboard Workflow",
-        "footer_text": "Svalboard Workflow - Tools and workflows for sustainable knowledge work",
-    },
-    "speech": {
-        "brand_text": "Workflow",
-        "brand_href": "future-of-writing.html",
-        "site_name": "Svalboard Workflow",
-        "footer_text": "Svalboard Workflow - Tools and workflows for sustainable knowledge work",
-    },
-    "gaze": {
-        "brand_text": "Workflow",
-        "brand_href": "future-of-writing.html",
-        "site_name": "Svalboard Workflow",
-        "footer_text": "Svalboard Workflow - Tools and workflows for sustainable knowledge work",
-    },
-    "motor-input": {
-        "brand_text": "Workflow",
-        "brand_href": "future-of-writing.html",
-        "site_name": "Svalboard Workflow",
-        "footer_text": "Svalboard Workflow - Tools and workflows for sustainable knowledge work",
-    },
-    "memory": {
-        "brand_text": "Workflow",
-        "brand_href": "future-of-writing.html",
-        "site_name": "Svalboard Workflow",
-        "footer_text": "Svalboard Workflow - Tools and workflows for sustainable knowledge work",
-    },
-}
 
 def build_file(md_path):
     text = md_path.read_text(encoding="utf-8")
@@ -229,26 +143,8 @@ def build_file(md_path):
     body_html = process_markdown(body_md)
 
     out_name = stem + ".html"
-
-    # Use page-specific nav if defined, otherwise default clinical nav
-    if stem in PAGE_NAV:
-        links = []
-        for href, label in PAGE_NAV[stem]:
-            cls = ' style="color:#fff;font-weight:700"' if href == out_name else ''
-            links.append(f'<a href="{href}"{cls}>{label}</a>')
-        nav = "\n    ".join(links)
-    else:
-        nav = build_nav(out_name)
-
+    nav = build_nav(out_name)
     hero_buttons = build_hero_buttons(meta)
-
-    # Page identity (branding, footer)
-    identity = PAGE_IDENTITY.get(stem, {})
-    brand_text = identity.get("brand_text", "Clinical")
-    brand_href = identity.get("brand_href", "index.html")
-    site_name = identity.get("site_name", "Svalboard Clinical")
-    footer_text = identity.get("footer_text",
-        "Svalboard Clinical Resources - For healthcare providers and patients")
 
     html = TEMPLATE.format(
         title=title,
@@ -259,10 +155,6 @@ def build_file(md_path):
         hero_subtitle=hero_subtitle,
         hero_buttons=hero_buttons,
         body=body_html,
-        brand_text=brand_text,
-        brand_href=brand_href,
-        site_name=site_name,
-        footer_text=footer_text,
     )
 
     out_path = HTML_DIR / out_name

@@ -8,7 +8,7 @@ hero_subtitle: For hypermobility conditions, Svalboard replaces active stabiliza
 
 ## The Clinical Problem
 
-EDS and related hypermobility spectrum disorders produce deficient connective tissue. In the hands, this creates compounding mechanical problems during repetitive tasks like typing. The central issue for typing is not joint laxity itself, but what the neuromuscular system does to compensate.
+EDS and related hypermobility spectrum disorders affect connective tissue integrity. In the hands, this creates compounding mechanical problems during repetitive tasks like typing. The central issue for typing is not joint laxity itself, but what the neuromuscular system does to compensate.
 
 **Compensatory muscle co-contraction.** When passive structures fail, the nervous system activates muscles on both sides of the joint simultaneously. Flexors and extensors fire together to prevent collapse - stabilization that healthy ligaments handle passively. The metabolic and fatigue cost is enormous.
 
