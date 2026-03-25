@@ -18,7 +18,21 @@
       "Bash(xargs grep:*)",
       "Bash(cd:*)",
       "Bash(gh repo:*)",
-      "Bash(gh api:*)"
+      "Bash(gh api:*)",
+      "Bash(curl -s -o /dev/null -w \"%{http_code}\" https://morganvenable.github.io/svalboard-clinical/)",
+      "WebFetch(domain:commons.wikimedia.org)",
+      "WebFetch(domain:en.wikipedia.org)",
+      "WebFetch(domain:en.m.wikipedia.org)",
+      "WebFetch(domain:api.wikimedia.org)",
+      "WebFetch(domain:radiopaedia.org)",
+      "WebFetch(domain:anatomytool.org)",
+      "WebFetch(domain:www.bartleby.com)",
+      "WebFetch(domain:www.physio-pedia.com)",
+      "WebFetch(domain:upload.wikimedia.org)",
+      "Bash(curl:*)",
+      "Bash(python3 -m json.tool)",
+      "Bash(python -m json.tool)",
+      "WebFetch(domain:smart.servier.com)"
     ]
   }
 }
