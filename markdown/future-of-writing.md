@@ -13,9 +13,7 @@ The most important insight from decades of cognitive science research is that wr
 
 Bereiter and Scardamalia (1987) drew a foundational distinction between **knowledge telling** and **knowledge transforming**. Knowledge telling is what happens when a writer retrieves content from memory and transcribes it with minimal restructuring. Knowledge transforming is what happens when the act of writing itself creates new understanding through a dialectic between what you know and how you're trying to communicate it. The writer thinks thoughts they would not have thought without writing.
 
-Modern AI systems clearly do something that resembles knowledge transformation: they synthesize novel connections, restructure understanding for different audiences, and generate insights not explicitly present in any single source. The question is not whether AI can transform knowledge in its output. It plainly can.
-
-The question is what happens *inside the human* during the act of composition. When you write, you are not just producing text. You are reorganizing your own understanding. The cognitive transformation happens in the writer's mind as a consequence of the struggle to articulate. When AI writes *for* you, the output may be excellent, but you don't undergo that transformation yourself. The understanding remains the AI's, not yours.
+What matters here is not what AI can or cannot do. What matters is what happens *inside the human* during the act of composition. When you write, you are not just producing text. You are reorganizing your own understanding. The cognitive transformation happens in the writer's mind as a consequence of the struggle to articulate. That internalization of understanding is the point. It is why writing remains important to human beings even when other things can produce text for us.
 
 ### The Evidence Base
 
