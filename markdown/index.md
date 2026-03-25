@@ -89,9 +89,11 @@ This produces a force profile that is **100% front-loaded**: all tactile feedbac
 
 <div class="section mechanism" markdown="1">
 
-### Why Total Work Matters More Than Peak Force
+### Both Peak Force and Total Work Matter
 
-Clinically, the relevant metric is not the peak actuation force -- it is the **total mechanical work per keystroke**: the integral of force over the full travel distance.
+Peak actuation force and total mechanical work per keystroke are both clinically relevant -- for different reasons. Peak force determines the instantaneous load on tendons and nerves at the moment of actuation. Total work -- the integral of force over the full travel distance -- determines cumulative fatigue, metabolic cost, and sustained tissue loading over a typing session.
+
+Svalboard's breakaway profile reduces **both**. But the total-work reduction is especially dramatic because of the force curve shape:
 
 | Input Device | Peak Force | Travel | Force Profile | Relative Work |
 |---|---|---|---|---|
