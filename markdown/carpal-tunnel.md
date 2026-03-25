@@ -1,7 +1,7 @@
 ---
 title: Carpal Tunnel Syndrome
-hero_title: Reduce Pressure Inside the Carpal Tunnel  -  Without Stopping Work
-hero_subtitle: Svalboard minimizes tendon excursion and wrist extension  -  two primary drivers of median nerve compression.
+hero_title: Reduce Pressure Inside the Carpal Tunnel - Without Stopping Work
+hero_subtitle: Svalboard reduces tendon excursion and wrist extension - the two main drivers of median nerve compression.
 ---
 
 <div class="section problem" markdown="1">
@@ -12,12 +12,12 @@ Carpal tunnel syndrome (CTS) is the most common compressive neuropathy of the up
 
 ### Anatomy of the Carpal Tunnel
 
-The carpal tunnel is a narrow, inextensible **fibro-osseous canal** at the base of the palm -- rigid on three sides, semi-rigid on the fourth:
+The carpal tunnel is a narrow, inextensible **fibro-osseous canal** at the base of the palm - rigid on three sides, semi-rigid on the fourth:
 
 - **Floor (dorsal):** Carpal bones (scaphoid/trapezium radially; hamate/triquetrum ulnarly) form a concave cortical arch.
 - **Roof (volar):** The **transverse carpal ligament** (flexor retinaculum) spans from the scaphoid tubercle and trapezium to the hook of the hamate and pisiform.
 
-The walls cannot expand. Any increase in content volume directly elevates **intracarpal pressure**.
+The walls cannot expand. Any increase in content volume elevates **intracarpal pressure**.
 
 ### Contents of the Tunnel
 
@@ -34,19 +34,19 @@ The median nerve lies just deep to the transverse carpal ligament and superficia
 
 ### Pathophysiology
 
-Symptoms arise through a well-characterized cascade:
+Symptoms arise through a cascade:
 
-1. **Increased intracarpal pressure** --- Resting pressure is ~2-10 mmHg. Wrist extension to 30 degrees raises this to 30-40 mmHg; combined extension and finger flexion can exceed 60 mmHg.
-2. **Repetitive tendon gliding** --- Each keystroke drives FDP/FDS excursion through the tunnel, generating friction that provokes tenosynovial thickening and edema.
-3. **Synovial hypertrophy** --- Chronic irritation causes fibrosis, further reducing available space.
-4. **Sustained non-neutral posture** --- Prolonged extension tensions the transverse carpal ligament and displaces tunnel contents against rigid bony walls.
+1. **Increased intracarpal pressure** - Resting pressure is ~2-10 mmHg. Wrist extension to 30 degrees raises this to 30-40 mmHg; combined extension and finger flexion can exceed 60 mmHg.
+2. **Repetitive tendon gliding** - Each keystroke drives FDP/FDS excursion through the tunnel, generating friction that provokes tenosynovial thickening and edema.
+3. **Synovial hypertrophy** - Chronic irritation causes fibrosis, further reducing available space.
+4. **Sustained non-neutral posture** - Prolonged extension tensions the transverse carpal ligament and displaces tunnel contents against rigid bony walls.
 
 The result is **median nerve compression**:
 
-- **Paresthesia** --- numbness/tingling in thumb, index, middle, radial ring finger
-- **Pain** --- often nocturnal, radiating into the forearm
-- **Weakness** --- reduced grip and pinch strength
-- **Thenar atrophy** --- in advanced cases, wasting of APB, opponens pollicis, and superficial FPB
+- **Paresthesia** - numbness/tingling in thumb, index, middle, radial ring finger
+- **Pain** - often nocturnal, radiating into the forearm
+- **Weakness** - reduced grip and pinch strength
+- **Thenar atrophy** - in advanced cases, wasting of APB, opponens pollicis, superficial FPB
 
 <div class="diagram-container">
 
@@ -63,15 +63,15 @@ The result is **median nerve compression**:
 
 ## Mechanical Drivers in Conventional Typing
 
-Standard keyboards impose a biomechanical pattern that directly loads the carpal tunnel. This is intrinsic to the input method.
+Standard keyboards impose a biomechanical pattern that loads the carpal tunnel at every level.
 
 ### High-Repetition Tendon Excursion
 
-Every keystroke pulls FDP and FDS tendons through the carpal tunnel. At 60-80 WPM, that is ~**18,000-24,000 tendon excursions per hour**. Each generates friction against the synovial sheath. This accumulates:
+Every keystroke pulls FDP and FDS tendons through the carpal tunnel. At 60-80 WPM, that is ~**18,000-24,000 total tendon excursions per hour** across all digits. Each generates friction against the synovial sheath. This accumulates:
 
-- **Synovial irritation** -- fluid accumulation and inflammatory thickening
-- **Tenosynovial fibrosis** -- progressive over weeks and months
-- **Volumetric increase** -- compresses the median nerve in a fixed-volume space
+- **Synovial irritation** - fluid accumulation and inflammatory thickening
+- **Tenosynovial fibrosis** - progressive over weeks and months
+- **Volumetric increase** - compresses the median nerve in a fixed-volume space
 
 ### Sustained Wrist Extension
 
@@ -88,7 +88,7 @@ Median nerve dysfunction threshold: **20-30 mmHg** sustained. Standard typing ro
 
 ### Extrinsic Flexor Dependence
 
-Key force (45-60 cN) is generated almost entirely by the **extrinsic flexors** --- FDP and FDS --- whose tendons cross the wrist through the carpal tunnel. Every unit of finger force requires tendon loading inside the tunnel.
+Key force (45-60 cN) is generated almost entirely by the **extrinsic flexors** - FDP and FDS - whose tendons cross the wrist through the carpal tunnel. Every unit of finger force requires tendon loading inside the tunnel.
 
 ### Extensor Co-contraction
 
@@ -121,13 +121,13 @@ Wrist extensors (ECRL, ECRB, ECU) co-contract to stabilize the wrist in extensio
 ### Svalboard
 
 - Wrist in neutral (0 degrees)
-- Minimal tendon excursion
-- Sub-10 cN activation force
+- Short tendon excursion
+- ~20 cN activation force (tunable to 8-10 cN)
 - No wrist stabilization required
 - Neutral forearm rotation
 - No ulnar deviation
 - Reduced excursion frequency
-- Intracarpal pressure: near resting (~2-10 mmHg)
+- Predicted intracarpal pressure: near resting (~2-10 mmHg)
 
 </div>
 
@@ -141,20 +141,20 @@ Wrist extensors (ECRL, ECRB, ECU) co-contract to stabilize the wrist in extensio
 
 ## What Svalboard Changes
 
-Svalboard alters which structures are loaded, how much, and in what posture. Each change directly affects carpal tunnel pressure.
+Svalboard alters which structures are loaded, how much, and in what posture.
 
 ### 1. Reduced Tendon Excursion
 
-Keys activate via **small-amplitude tilts** (~2-4 mm), versus 3-4 mm travel plus full finger flexion arc on a conventional key. FDP/FDS glide distance drops dramatically.
+Keys activate via **small-amplitude tilts** (~2-4 mm), versus 3-4 mm travel plus full finger flexion arc on a conventional key. FDP/FDS glide distance drops accordingly.
 
 - Less friction between tendons and synovial sheaths
 - Less cumulative microtrauma per hour
 - Reduced tenosynovial inflammation
 - Lower volumetric swelling in the tunnel
 
-### 2. Minimal Force Requirement
+### 2. Low Force Requirement
 
-Far less actuation force than conventional switches, substantially decreasing **FDP/FDS contractile demand**.
+Far less actuation force than conventional switches, decreasing **FDP/FDS contractile demand**.
 
 - Reduced tendon tension at the wrist
 - Less compressive load through the tunnel
@@ -163,32 +163,28 @@ Far less actuation force than conventional switches, substantially decreasing **
 
 ### 3. Neutral Wrist Posture
 
-Each hand rests **fully neutral** --- neither extended, flexed, nor deviated. Activations stay within the range that maintains this alignment.
+Each hand rests **fully neutral** - neither extended, flexed, nor deviated. Activations stay within the range that maintains this alignment.
 
-This addresses the single largest modifiable risk factor for elevated intracarpal pressure. Moving from 30 degrees extension to neutral can reduce tunnel pressure by **30-50 mmHg** during active use.
+Wrist posture is the largest modifiable risk factor for elevated intracarpal pressure. Moving from 30 degrees extension to neutral can reduce tunnel pressure by **30-50 mmHg** during active use.
 
-### 4. Palmar Support Eliminates Co-contraction
+### 4. Palmar Support Removes Co-contraction
 
-The hand rests in a supported cradle. Wrist extensors no longer fire to hold the hand above a keyboard, eliminating **extensor co-contraction** and its compressive load.
+The hand rests in a supported cradle. Wrist extensors no longer fire to hold the hand above a keyboard, removing **extensor co-contraction** and its compressive load.
 
 ### 5. Shift Toward Intrinsic Muscles
 
-Tilt-based input shifts primary movers from **extrinsic flexors** (FDP, FDS) to **intrinsic muscles** --- the **lumbricals** and **interossei**.
-
-This is anatomically critical:
+Tilt-based input shifts primary movers from **extrinsic flexors** (FDP, FDS) to **intrinsic muscles** - the **lumbricals** and **interossei**.
 
 - **Lumbricals** originate from FDP tendons *in the palm*, distal to the tunnel
 - **Interossei** originate from metacarpal bones, entirely outside the tunnel
 - Neither sends tendons through the carpal tunnel
 - Their activation **does not increase intracarpal pressure**
 
-This decouples finger input from carpal tunnel loading.
-
 <div class="diagram-container">
 
 <!-- Second diagram replaced with Wikimedia Commons image -->
 <img src="https://upload.wikimedia.org/wikipedia/commons/6/60/Gray1233.png" alt="Mucous sheaths of tendons on front of wrist and digits" style="max-width:100%; height:auto; border-radius:8px;">
-<p class="diagram-caption">Synovial sheaths of the flexor tendons at the wrist and hand. These sheaths line the carpal tunnel and facilitate tendon gliding  -  repeated friction within these constrained spaces drives the pathology of CTS. <em>Source: Gray's Anatomy (1918), public domain</em></p>
+<p class="diagram-caption">Synovial sheaths of the flexor tendons at the wrist and hand. These sheaths line the carpal tunnel and facilitate tendon gliding - repeated friction within these constrained spaces drives the pathology of CTS. <em>Source: Gray's Anatomy (1918), public domain</em></p>
 </div>
 
 </div>
@@ -224,7 +220,7 @@ Reduced excursion amplitude and frequency lowers cumulative tendon-sheath fricti
 
 ### Symptom Provocation
 
-For many CTS patients, typing is the primary symptom trigger. Eliminating sustained extension and high-repetition tendon loading allows continued work without the pain-paresthesia cycle.
+For many CTS patients, typing is the primary symptom trigger. Removing sustained extension and high-repetition tendon loading allows continued work without the pain-paresthesia cycle.
 
 </div>
 
@@ -232,7 +228,7 @@ For many CTS patients, typing is the primary symptom trigger. Eliminating sustai
 
 ### Co-contraction
 
-Eliminating extensor co-contraction removes compressive load across the wrist, lowering baseline tunnel pressure independent of flexor tendon changes.
+Without extensor co-contraction, compressive load across the wrist drops, lowering baseline tunnel pressure independent of flexor tendon changes.
 
 </div>
 
@@ -240,9 +236,7 @@ Eliminating extensor co-contraction removes compressive load across the wrist, l
 
 ### Conservative Management
 
-For patients managed conservatively --- splinting, activity modification, injection --- Svalboard addresses the **ongoing mechanical provocation** these interventions do not. A night splint holds the wrist neutral during sleep. Svalboard extends that principle into 8 hours of typing.
-
-A concrete activity modification that does not require work cessation.
+For patients managed conservatively - splinting, activity modification, injection - Svalboard addresses the **ongoing mechanical provocation** these interventions do not. A night splint holds the wrist neutral during sleep. Svalboard extends that principle into 8 hours of typing without requiring work cessation.
 
 </div>
 
@@ -250,7 +244,7 @@ A concrete activity modification that does not require work cessation.
 
 <div class="section surgery" markdown="1">
 
-## Still Effective --- Before and After Surgery
+## Effective Before and After Surgery
 
 Svalboard is **not a substitute for surgery** when indicated. Severe CTS with thenar atrophy, persistent sensory loss, or axonal degeneration requires surgical decompression.
 
@@ -262,7 +256,7 @@ Surgery addresses only part of the problem.
 
 ### What Surgery Does Not Do
 
-Decompression **does not eliminate the mechanical workload**:
+Decompression **does not reduce the mechanical workload**:
 
 - **Tendon friction continues.** FDP, FDS, and FPL still glide through the same space.
 - **Inflammation can recur.** Chronic loading still provokes synovial thickening and scar tissue.
@@ -274,7 +268,7 @@ Recurrence: **3-12%**, disproportionately in those returning to high-repetition 
 
 For pre-surgical or conservatively managed patients:
 
-- Eliminates sustained wrist extension
+- Removes sustained wrist extension
 - Reduces tendon excursion volume and frequency
 - Lowers intracarpal pressure during work
 - Maintains productivity during conservative management
@@ -301,7 +295,7 @@ These are user reports, not controlled evidence. They are consistent with biomec
 
 <div class="callout success" markdown="1">
 
-**Clinical Summary:** Carpal tunnel release expands the tunnel. Svalboard reduces the mechanical workload that drives tendon friction, inflammation, and elevated pressure. These are complementary. For patients who must keep typing --- before or after surgery --- reducing biomechanical load is a defensible strategy compatible with any standard treatment pathway.
+**Clinical Summary:** Carpal tunnel release expands the tunnel. Svalboard reduces the mechanical workload that drives tendon friction, inflammation, and elevated pressure. These are complementary. For patients who must keep typing - before or after surgery - reducing biomechanical load is a defensible strategy compatible with any standard treatment pathway.
 
 </div>
 
@@ -322,9 +316,9 @@ Reference for OTs, hand surgeons, orthopedists, physiatrists, and other practiti
 | Structure | Conventional Keyboard Loading | Svalboard Loading |
 |---|---|---|
 | **Median nerve** | Compressed at 30-65 mmHg; irritation from adjacent tendon swelling | Near-resting pressure (2-10 mmHg); reduced tendon volume |
-| **FDP tendons (x4)** | High-amplitude, high-frequency excursion | Minimal excursion; force shifted to intrinsics |
-| **FDS tendons (x4)** | PIP flexion per keystroke; adds tunnel volume | Minimal activation; tilt bypasses PIP flexion |
-| **FPL tendon** | Active for thumb keys (spacebar, modifiers) | Reduced; thumb via minimal-excursion tilt |
+| **FDP tendons (x4)** | High-amplitude, high-frequency excursion | Short excursion; force shifted to intrinsics |
+| **FDS tendons (x4)** | PIP flexion per keystroke; adds tunnel volume | Low activation; tilt bypasses PIP flexion |
+| **FPL tendon** | Active for thumb keys (spacebar, modifiers) | Reduced; thumb via low-excursion tilt |
 | **Transverse carpal ligament** | Tensioned by wrist extension; compresses nerve | Relaxed in neutral; not tensioned |
 
 ### Key Biomechanical Changes
@@ -348,13 +342,13 @@ Reference for OTs, hand surgeons, orthopedists, physiatrists, and other practiti
 <tr>
 <td><strong>Tendon excursion</strong></td>
 <td>Full FDP/FDS range per keystroke</td>
-<td>Minimal (2-4 mm tilt travel)</td>
+<td>Small (2-4 mm tilt travel)</td>
 <td>Reduces cumulative friction and synovial irritation</td>
 </tr>
 <tr>
 <td><strong>Actuation force</strong></td>
 <td>45-60 cN</td>
-<td>&lt;10 cN</td>
+<td>~20 cN (tunable to 8-10 cN)</td>
 <td>Proportionally reduces tendon tension in tunnel</td>
 </tr>
 <tr>
@@ -367,7 +361,7 @@ Reference for OTs, hand surgeons, orthopedists, physiatrists, and other practiti
 <td><strong>Co-contraction</strong></td>
 <td>Continuous wrist extensor firing</td>
 <td>None (hand supported)</td>
-<td>Eliminates compressive load from stabilizer muscles</td>
+<td>Removes compressive load from stabilizer muscles</td>
 </tr>
 <tr>
 <td><strong>Forearm posture</strong></td>
@@ -390,7 +384,7 @@ Reference for OTs, hand surgeons, orthopedists, physiatrists, and other practiti
 
 **To:** Lumbricals and interossei (originate distal to the tunnel)
 
-This is the core mechanism. Neither intrinsic group sends contractile force through the tunnel. When they perform key activation, extrinsic flexors remain quiescent and tendon volume decreases.
+Neither intrinsic group sends contractile force through the tunnel. When they perform key activation, extrinsic flexors remain quiescent and tendon volume decreases.
 
 ### Clinical Use Cases
 

@@ -1,19 +1,19 @@
 ---
 title: Muscular Dystrophy
 hero_title: Extend Functional Capacity by Reducing Energy Cost Per Keystroke
-hero_subtitle: Svalboard is fundamentally an energy minimization device  -  allowing functional typing capacity to persist even as overall muscle strength declines.
+hero_subtitle: Svalboard reduces typing energy cost far enough that functional capacity persists even as overall muscle strength declines.
 ---
 
 <div class="section problem" markdown="1">
 
 ## The Clinical Problem
 
-Muscular dystrophy encompasses a group of genetic disorders with progressive skeletal muscle degeneration and weakness. Regardless of subtype -- Duchenne, Becker, limb-girdle, facioscapulohumeral, or myotonic -- the functional trajectory follows a common pattern:
+Muscular dystrophy encompasses a group of genetic disorders with progressive skeletal muscle degeneration and weakness. Regardless of subtype - Duchenne, Becker, limb-girdle, facioscapulohumeral, or myotonic - the functional trajectory follows a common pattern:
 
-- **Progressive loss of force generation** -- fibrotic and adipose tissue replaces muscle fibers, reducing contractile capacity
-- **Increased fatigue susceptibility** -- remaining motor units work harder, accelerating metabolic depletion
-- **Proximal-to-distal progression** -- proximal stability (shoulders, trunk, hips) degrades before distal control (fingers, hands), so fine motor capacity outlasts gross motor capacity
-- **Energy expenditure becomes limiting** -- metabolic cost of every task rises relative to available capacity; patients stop activities when energy cost becomes unsustainable
+- **Progressive loss of force generation** - fibrotic and adipose tissue replaces muscle fibers, reducing contractile capacity
+- **Increased fatigue susceptibility** - remaining motor units work harder, accelerating metabolic depletion
+- **Proximal-to-distal progression** - proximal stability (shoulders, trunk, hips) degrades before distal control (fingers, hands), so fine motor capacity outlasts gross motor capacity
+- **Energy expenditure becomes limiting** - metabolic cost of every task rises relative to available capacity; patients stop activities when energy cost becomes unsustainable
 
 For patients who depend on computer access, the question is how long they can sustain typing before fatigue forces them to stop.
 
@@ -23,12 +23,12 @@ For patients who depend on computer access, the question is how long they can su
 
 ## Mechanical Issue in Conventional Typing
 
-Standard keyboards -- including most ergonomic designs -- impose demands disproportionately costly for muscular dystrophy:
+Standard keyboards - including most ergonomic designs - impose demands disproportionately costly for muscular dystrophy:
 
-- **Sustained postural stabilization** -- holding arms over a keyboard requires continuous shoulder and trunk activation, early targets of proximal degeneration
-- **Repeated extrinsic flexor/extensor cycling** -- every keystroke demands FDP/FDS to press and EDC/EIP to lift, fatiguing large muscle groups rapidly
-- **High movement amplitude** -- 2-4mm key travel and inter-key distances multiply total mechanical work
-- **Proximal weakness forces distal compensation** -- weakened shoulder and trunk stabilizers force forearm and hand co-contraction, accelerating distal fatigue
+- **Sustained postural stabilization** - holding arms over a keyboard requires continuous shoulder and trunk activation, early targets of proximal degeneration
+- **Repeated extrinsic flexor/extensor cycling** - every keystroke demands FDP/FDS to press and EDC/EIP to lift, fatiguing large muscle groups rapidly
+- **High movement amplitude** - 2-4mm key travel and inter-key distances multiply total mechanical work
+- **Proximal weakness forces distal compensation** - weakened shoulder and trunk stabilizers force forearm and hand co-contraction, accelerating distal fatigue
 
 Declining proximal strength raises the energy cost of every keystroke, accelerates fatigue, shortens the typing window, and reduces independence.
 
@@ -45,7 +45,7 @@ Declining proximal strength raises the energy cost of every keystroke, accelerat
 - High total mechanical work per session
 - Proximal weakness amplifies distal cost
 
-**Result:** High energy per keystroke; typing duration limited by fatigue
+High energy per keystroke; typing duration limited by fatigue
 
 </div>
 
@@ -57,10 +57,10 @@ Declining proximal strength raises the energy cost of every keystroke, accelerat
 - No proximal stabilization required
 - Intrinsic muscles handle minimal keystroke force
 - 1-2 mm key travel
-- Dramatically reduced mechanical work per session
-- Proximal weakness has minimal impact
+- Reduced mechanical work per session
+- Proximal weakness has less impact
 
-**Result:** Minimal energy per keystroke; typing duration extended significantly
+Low energy per keystroke; typing duration extended
 
 </div>
 
@@ -72,15 +72,15 @@ Declining proximal strength raises the energy cost of every keystroke, accelerat
 
 ## What Svalboard Changes
 
-Svalboard dramatically reduces the mechanical cost of typing:
+Svalboard reduces the mechanical cost of typing across several axes:
 
-- **Extremely low activation threshold** -- a fraction of conventional switch force, so fewer motor units recruit per keystroke at lower capacity percentages
-- **1-2 mm finger travel** -- total mechanical work (force x distance) drops to a small fraction of conventional typing
-- **Full palm support eliminates proximal stabilization** -- shoulder, trunk, and forearm don't hold the arm in position, removing the costliest component for patients with proximal weakness
-- **Typing via small intrinsic activations** -- lumbricals and interossei perform minimal movements, keeping effort local and avoiding weakened proximal groups
-- **Reduced proximal reliance** -- supported arms and minimal force let patients type even with significant proximal degradation
+- **Low activation threshold** - a fraction of conventional switch force, so fewer motor units recruit per keystroke at lower capacity percentages
+- **1-2 mm finger travel** - total mechanical work (force x distance) drops to a small fraction of conventional typing
+- **Full palm support removes proximal stabilization** - shoulder, trunk, and forearm don't hold the arm in position, removing the costliest component for patients with proximal weakness
+- **Typing via small intrinsic activations** - lumbricals and interossei perform small movements, keeping effort local and avoiding weakened proximal groups
+- **Reduced proximal reliance** - supported arms and low force let patients type even with significant proximal degradation
 
-Net effect: dramatically lower energy per keystroke, directly extending sustainable typing sessions and delaying loss of typing independence.
+The result is lower energy per keystroke, which extends how long patients can type.
 
 <div class="diagram-container">
 
@@ -155,13 +155,13 @@ Net effect: dramatically lower energy per keystroke, directly extending sustaina
 <div class="stat-card" markdown="1">
 <span class="stat-arrow down"></span>
 <strong>Mechanical Work Per Input</strong>
-<p>1-2 mm travel and ultra-low force reduce work per keystroke to a fraction of conventional input</p>
+<p>1-2 mm travel and low force reduce work per keystroke to a fraction of conventional input</p>
 </div>
 
 <div class="stat-card" markdown="1">
 <span class="stat-arrow down"></span>
 <strong>Proximal Stabilization</strong>
-<p>Full palm support eliminates shoulder, trunk, and forearm stabilization -- the costliest component for MD patients</p>
+<p>Full palm support removes shoulder, trunk, and forearm stabilization - the costliest component for MD patients</p>
 </div>
 
 <div class="stat-card" markdown="1">
@@ -173,12 +173,12 @@ Net effect: dramatically lower energy per keystroke, directly extending sustaina
 <div class="stat-card" markdown="1">
 <span class="stat-arrow up"></span>
 <strong>Sustainable Typing Duration</strong>
-<p>Lower energy per keystroke extends total keystrokes before fatigue -- preserving computer access longer</p>
+<p>Lower energy per keystroke extends total keystrokes before fatigue - preserving computer access longer</p>
 </div>
 
 </div>
 
-**Svalboard is fundamentally an energy minimization device.** It reduces typing energy cost so far below the conventional threshold that functional capacity persists even as strength declines.
+**Svalboard is an energy minimization device.** It reduces typing energy cost far enough below the conventional threshold that functional capacity persists even as strength declines.
 
 For a patient whose muscle output declines year over year, reducing typing energy cost by an order of magnitude can mean years of continued computer access versus premature loss of digital independence.
 
@@ -244,7 +244,7 @@ For a patient whose muscle output declines year over year, reducing typing energ
 
 </div>
 
-As strength declines, a traditional keyboard becomes unusable when output drops below its high functional threshold. Svalboard's dramatically lower threshold extends typing ability for a significantly longer period.
+As strength declines, a traditional keyboard becomes unusable when output drops below its high functional threshold. Svalboard's lower threshold extends typing ability for a longer period.
 
 </div>
 
@@ -254,22 +254,22 @@ As strength declines, a traditional keyboard becomes unusable when output drops 
 
 <span class="provider-badge">For Clinical Practitioners</span>
 
-**Primary benefit:** Energy minimization -- reducing metabolic and mechanical typing cost to extend functional computer access as strength declines.
+**Primary benefit:** Energy minimization - reducing metabolic and mechanical typing cost to extend functional computer access as strength declines.
 
 **Mechanisms of action:**
 
-- **Reduced mechanical work** -- ultra-low force and 1-2 mm travel minimize work (force x distance) per keystroke
-- **Eliminated proximal stabilization** -- full hand support removes shoulder, trunk, and forearm holding demands
-- **Reduced motor unit recruitment** -- lower thresholds preserve the limited motor unit pool
+- **Reduced mechanical work** - low force and 1-2 mm travel reduce work (force x distance) per keystroke
+- **Removed proximal stabilization** - full hand support removes shoulder, trunk, and forearm holding demands
+- **Reduced motor unit recruitment** - lower thresholds preserve the limited motor unit pool
 
 **Clinical use cases:**
 
-- **Duchenne MD** -- ambulatory or early non-ambulatory phases; extends computer access well beyond conventional keyboard limits
-- **Becker MD** -- slower progression, same trajectory; early adoption supports continued professional/educational use
-- **Limb-girdle MD** -- proximal weakness makes unsupported arms costly; full palm support eliminates this
-- **Facioscapulohumeral MD** -- shoulder girdle weakness impairs arm positioning; Svalboard removes unsupported posture demands
-- **Myotonic dystrophy** -- distal weakness and myotonia affect grip/release; ultra-low force and short travel reduce both
-- **Other progressive neuromuscular conditions** -- any declining-strength condition benefits from the same energy minimization principle
+- **Duchenne MD** - ambulatory or early non-ambulatory phases; extends computer access well beyond conventional keyboard limits
+- **Becker MD** - slower progression, same trajectory; early adoption supports continued professional/educational use
+- **Limb-girdle MD** - proximal weakness makes unsupported arms costly; full palm support removes this demand
+- **Facioscapulohumeral MD** - shoulder girdle weakness impairs arm positioning; Svalboard removes unsupported posture demands
+- **Myotonic dystrophy** - distal weakness and myotonia affect grip/release; low force and short travel reduce both
+- **Other progressive neuromuscular conditions** - any declining-strength condition benefits from the same energy minimization principle
 
 **When to consider Svalboard:**
 

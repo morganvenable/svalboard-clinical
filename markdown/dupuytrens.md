@@ -43,7 +43,7 @@ The affected digit cannot reach the resting plane of a flat keyboard. Compensato
 
 ## Mechanical Issue in Conventional Typing
 
-Standard keyboards demand a biomechanical profile that directly conflicts with Dupuytren's:
+Standard keyboards demand a biomechanical profile that conflicts with Dupuytren's:
 
 - **Repetitive full extension**  -  every keystroke loads the shortened fascia against its mechanical limit
 - **Large motion arcs**  -  3-4mm travel plus inter-key reach requires full flexion-extension range
@@ -77,7 +77,7 @@ Repetitive fascial loading in a hand with active fibroproliferation may accelera
 - 1-2 mm key activation travel
 - Keys are immediately adjacent  -  no reaching
 - Operates within the available ROM of a contracted digit
-- Minimal fascial loading per keystroke
+- Low fascial loading per keystroke
 - Each digit works independently in its own key cluster
 - Hand rests in supported neutral posture  -  no grip, no hover
 
@@ -91,7 +91,7 @@ Repetitive fascial loading in a hand with active fibroproliferation may accelera
 
 ## What Svalboard Changes
 
-Svalboard does not reverse fibrosis, dissolve cords, or restore extension. It **eliminates the biomechanical demands a contracted hand cannot meet** and works within available ROM.
+Svalboard does not reverse fibrosis, dissolve cords, or restore extension. It **sidesteps the biomechanical demands a contracted hand cannot meet** and works within available ROM.
 
 ### Reduced Movement Amplitude
 
@@ -109,9 +109,9 @@ Svalboard keys activate at a fraction of the force of mechanical switches. Over 
 
 Each finger operates its own key cluster. A contracted ring finger does not compromise adjacent digits  -  there is no shared surface to reach across.
 
-### Minimized Fascial Strain
+### Reduced Fascial Strain
 
-Low travel (1-2 mm), minimal force, supported resting posture, and no extension requirement mean the palmar fascia is effectively unloaded during typing.
+Low travel (1-2 mm), low force, supported resting posture, and no extension requirement mean the palmar fascia is effectively unloaded during typing.
 
 <div class="diagram-container">
 <svg viewBox="0 0 800 320" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Range of motion comparison between conventional typing and Svalboard typing with Dupuytren's contracture">
@@ -245,14 +245,14 @@ Low travel (1-2 mm), minimal force, supported resting posture, and no extension 
 
 ### Clinical Summary
 
-Svalboard preserves function through **biomechanical adaptation**. As contracture progresses, conventional typing becomes impossible for affected digits. Svalboard sidesteps this by eliminating the demands the contracture restricts.
+Svalboard preserves function through **biomechanical adaptation**. As contracture progresses, conventional typing becomes impossible for affected digits. Svalboard sidesteps this by removing the demands the contracture restricts.
 
 Relevant across the disease spectrum:
 
-- **Early disease** (nodules, minimal contracture)  -  reduces repetitive fascial loading that may accelerate cord maturation
+- **Early disease** (nodules, mild contracture)  -  reduces repetitive fascial loading that may accelerate cord maturation
 - **Moderate disease** (30-60 degree MCP contracture)  -  enables continued typing when conventional keyboards fail
 - **Severe disease** (MCP + PIP contracture)  -  sufficient micro-movement remains to operate a key cluster
-- **Post-intervention** (fasciectomy, needle aponeurotomy, collagenase)  -  typing resumes with minimal demand on healing tissue
+- **Post-intervention** (fasciectomy, needle aponeurotomy, collagenase)  -  typing resumes with reduced demand on healing tissue
 
 <div class="callout warning" markdown="1">
 <strong>Adaptation, Not Treatment</strong>
@@ -283,13 +283,13 @@ Svalboard addresses the functional consequence of Dupuytren's  -  inability to t
 
 - **Post-collagenase injection**  -  typing without gripping or forceful extension during recovery
 
-- **Patients deferring intervention**  -  eliminates the primary functional limitation without procedural intervention
+- **Patients deferring intervention**  -  removes the main functional limitation without procedural intervention
 
 - **Bilateral disease**  -  split design with independent key clusters accommodates contracture in both hands
 
 ### What to Expect
 
-Patients typically adapt within 1-4 weeks. The 1-2 mm activation distance means even significantly contracted fingers retain sufficient ROM for all key activations. Patients consistently report the affected digit is more functional on Svalboard than on any conventional input device.
+Patients typically adapt within 1-4 weeks. The 1-2 mm activation distance means even substantially contracted fingers retain sufficient ROM for all key activations. Patients report the affected digit is more functional on Svalboard than on any conventional input device.
 
 ### Complementary to Standard Care
 

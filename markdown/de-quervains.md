@@ -1,7 +1,7 @@
 ---
 title: De Quervain's Tenosynovitis
 hero_title: Reduce Thumb Tendon Friction at the Source
-hero_subtitle: Svalboard directly targets the mechanism of De Quervain's irritation by reducing both tendon excursion and stabilization demands on the thumb.
+hero_subtitle: Svalboard reduces tendon excursion and stabilization demands on the thumb - the two factors that sustain De Quervain's irritation.
 ---
 
 <div class="section problem" markdown="1">
@@ -10,8 +10,8 @@ hero_subtitle: Svalboard directly targets the mechanism of De Quervain's irritat
 
 De Quervain's tenosynovitis is a stenosing tenosynovitis of the **first dorsal compartment** containing two tendons:
 
-- **APL (Abductor Pollicis Longus)** -- abducts and extends the thumb at the CMC joint
-- **EPB (Extensor Pollicis Brevis)** -- extends the thumb at the MCP joint
+- **APL (Abductor Pollicis Longus)** - abducts and extends the thumb at the CMC joint
+- **EPB (Extensor Pollicis Brevis)** - extends the thumb at the MCP joint
 
 These tendons travel through a fibro-osseous tunnel at the radial styloid, constrained by the **extensor retinaculum**. Repetitive thumb motion slides them through this tight space, generating friction. The sheath thickens, the space narrows, and each glide cycle becomes more painful.
 
@@ -23,7 +23,7 @@ These tendons travel through a fibro-osseous tunnel at the radial styloid, const
 - Pain with gripping, pinching, or thumb manipulation
 - Possible crepitus over the tendon sheath
 
-High-frequency tendon glide through a constrained space produces friction, inflammation, and progressive stenosis. Any activity demanding repeated thumb extension and abduction -- typing, trackpad use, mouse operation -- sustains the cycle.
+High-frequency tendon glide through a constrained space produces friction, inflammation, and progressive stenosis. Any activity demanding repeated thumb extension and abduction - typing, trackpad use, mouse operation - sustains the cycle.
 
 <div class="diagram-container">
 <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Gray419.png" alt="Posterior forearm showing extensor tendons including the first dorsal compartment" style="max-width:100%; height:auto; border-radius:8px;">
@@ -41,7 +41,7 @@ Every conventional input device demands sustained, repetitive thumb activity:
 - **Spacebar**: The thumb extends and abducts to strike the highest-frequency key. Each press loads APL and EPB through the first dorsal compartment.
 - **Trackpad gestures**: Scrolling, swiping, and pinch-to-zoom drive continuous thumb abduction/adduction and high-frequency tendon excursion.
 - **Mouse grip**: The thumb stabilizes the mouse against lateral forces, sustaining APL/EPB tension all day.
-- **Smartphone use**: One of the strongest drivers. The thumb sweeps a large arc while fingers grip -- high excursion plus high stabilization force.
+- **Smartphone use**: One of the strongest drivers. The thumb sweeps a large arc while fingers grip - high excursion plus high stabilization force.
 
 The shared pathomechanic: **repeated tendon glide through the first dorsal compartment** plus **stabilization demands** keeping the tendons under tension at rest.
 
@@ -59,7 +59,7 @@ The shared pathomechanic: **repeated tendon glide through the first dorsal compa
 - Hand hovers unsupported, increasing stabilization load
 - Thumb serves as both primary actuator and stabilizer
 
-**Result:** Hundreds to thousands of glide cycles per hour through the inflamed compartment
+Hundreds to thousands of glide cycles per hour through the inflamed compartment
 
 </div>
 
@@ -67,15 +67,15 @@ The shared pathomechanic: **repeated tendon glide through the first dorsal compa
 
 ### Svalboard
 
-**Thumb demands:** Minimal excursion, minimal stabilization
+**Thumb demands:** Low excursion, low stabilization
 
-- Thumb keys activate with 1-2 mm travel and ultra-low force
-- No spacebar -- thumb is not a primary text-entry actuator
-- No trackpad or mouse grip -- pointing handled by key clusters
+- Thumb keys activate with 1-2 mm travel and low force
+- No spacebar - thumb is not a primary text-entry actuator
+- No trackpad or mouse grip - pointing handled by key clusters
 - Hand rests fully supported in the palm cradle
-- Thumb unloaded between activations -- no sustained tension
+- Thumb unloaded between activations - no sustained tension
 
-**Result:** Near-zero tendon excursion through the first dorsal compartment; APL and EPB effectively at rest
+Near-zero tendon excursion through the first dorsal compartment; APL and EPB effectively at rest
 
 </div>
 
@@ -87,15 +87,15 @@ The shared pathomechanic: **repeated tendon glide through the first dorsal compa
 
 ## What Svalboard Changes
 
-Svalboard eliminates the mechanical demands that drive De Quervain's pathology:
+Svalboard removes the mechanical demands that drive De Quervain's pathology:
 
-**Reduced thumb-driven input.** The thumb cluster handles only a few low-frequency functions. This alone eliminates most tendon glide cycles through the first dorsal compartment.
+**Reduced thumb-driven input.** The thumb cluster handles only a few low-frequency functions, which alone drops most tendon glide cycles through the first dorsal compartment.
 
-**Minimal excursion.** Keys activate with 1-2 mm of travel. Tendon displacement is a fraction of a spacebar press. Less excursion, less friction against the inflamed sheath.
+**Short excursion.** Keys activate with 1-2 mm of travel. Tendon displacement is a fraction of a spacebar press. Less excursion, less friction against the inflamed sheath.
 
-**Lower force.** Activation force is far below any mechanical switch. Lower tendon tension reduces the normal force between tendon and sheath -- the direct driver of frictional irritation.
+**Lower force.** Activation force is well below any mechanical switch. Lower tendon tension reduces the normal force between tendon and sheath - what drives frictional irritation.
 
-**Palm support eliminates stabilization demands.** The hand rests in a cradle. No hover, no grip, no lateral stabilization. Thumb tendons remain slack between activations.
+**Palm support removes stabilization demands.** The hand rests in a cradle. No hover, no grip, no lateral stabilization. Thumb tendons remain slack between activations.
 
 <div class="diagram-container">
 <img src="https://upload.wikimedia.org/wikipedia/commons/0/02/Gray423.png" alt="Muscles and tendons of the palm" style="max-width:100%; height:auto; border-radius:8px;">
@@ -119,7 +119,7 @@ Svalboard eliminates the mechanical demands that drive De Quervain's pathology:
 <div class="stat-card" markdown="1">
 <span class="stat-arrow down"></span>
 <strong>Thumb Force</strong>
-<p>Ultra-low activation force eliminates tendon tension driving friction against the sheath</p>
+<p>Low activation force removes the tendon tension driving friction against the sheath</p>
 </div>
 
 <div class="stat-card" markdown="1">
@@ -131,14 +131,14 @@ Svalboard eliminates the mechanical demands that drive De Quervain's pathology:
 <div class="stat-card" markdown="1">
 <span class="stat-arrow down"></span>
 <strong>Sheath Irritation</strong>
-<p>Reduced excursion and force eliminate the friction that thickens the retinaculum</p>
+<p>Reduced excursion and force drop the friction that thickens the retinaculum</p>
 </div>
 
 </div>
 
 <div class="callout" markdown="1">
 
-**Clinical summary:** De Quervain's is driven by repetitive tendon glide through a constrained compartment. Svalboard eliminates the thumb as a primary actuator, reduces excursion to 1-2 mm, and removes the stabilization demands keeping APL and EPB under tension. This addresses the mechanical cause directly.
+**Clinical summary:** De Quervain's is driven by repetitive tendon glide through a constrained compartment. Svalboard removes the thumb as a primary actuator, reduces excursion to 1-2 mm, and drops the stabilization demands keeping APL and EPB under tension.
 
 </div>
 
@@ -154,22 +154,22 @@ Svalboard eliminates the mechanical demands that drive De Quervain's pathology:
 
 **Structures involved:**
 
-- **APL (Abductor Pollicis Longus)** -- primary thumb abductor, high-frequency loading during spacebar and trackpad use
-- **EPB (Extensor Pollicis Brevis)** -- thumb extensor, co-contracts with APL during grip and keystroke stabilization
-- **First dorsal compartment** -- fibro-osseous tunnel at the radial styloid, site of friction and stenosis
-- **Extensor retinaculum** -- thickens with repetitive friction, narrowing the compartment
+- **APL (Abductor Pollicis Longus)** - primary thumb abductor, high-frequency loading during spacebar and trackpad use
+- **EPB (Extensor Pollicis Brevis)** - thumb extensor, co-contracts with APL during grip and keystroke stabilization
+- **First dorsal compartment** - fibro-osseous tunnel at the radial styloid, site of friction and stenosis
+- **Extensor retinaculum** - thickens with repetitive friction, narrowing the compartment
 
 **Key mechanical change with Svalboard:**
 
-The thumb is offloaded as a primary input and stabilization digit. APL and EPB excursion drops to near zero. Tendon tension is minimal due to ultra-low activation force and full palmar support.
+The thumb is offloaded as a primary input and stabilization digit. APL and EPB excursion drops to near zero. Tendon tension is low due to low activation force and full palmar support.
 
 **Clinical use cases:**
 
-- **Active De Quervain's** -- reduce the mechanical irritant while the patient works; avoid exacerbation during conservative management
-- **Post-corticosteroid injection** -- maintain reduced load during the therapeutic window
-- **Chronic thumb tendinopathy** -- recurrent or refractory compartment pain after failed splinting, NSAIDs, and ergonomic modifications
-- **Post-surgical rehabilitation** -- graded return to typing after compartment release with near-zero thumb load
-- **Prevention in high-risk populations** -- new parents, high-volume typists, patients with anatomic variants (separate APL/EPB sub-compartments)
+- **Active De Quervain's** - reduce the mechanical irritant while the patient works; avoid exacerbation during conservative management
+- **Post-corticosteroid injection** - maintain reduced load during the therapeutic window
+- **Chronic thumb tendinopathy** - recurrent or refractory compartment pain after failed splinting, NSAIDs, and ergonomic modifications
+- **Post-surgical rehabilitation** - graded return to typing after compartment release with near-zero thumb load
+- **Prevention in high-risk populations** - new parents, high-volume typists, patients with anatomic variants (separate APL/EPB sub-compartments)
 
 **Complementary interventions:**
 
