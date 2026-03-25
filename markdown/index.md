@@ -105,7 +105,7 @@ For conditions driven by cumulative load, this is an order-of-magnitude shift.
 
 ### Available Force Options
 
-Standard activation: ~**20 gf**, tunable to **8-10 gf** for significant weakness or pain sensitivity. Set mechanically during manufacturing; breakaway profile preserved at every level.
+Standard activation: ~**20 gf**, tunable to **8-10 gf** for significant weakness or pain sensitivity. Force is set by the key itself - swapping keys is a no-tool operation, so force can be tuned per-finger and adjusted as clinical needs change. Breakaway profile preserved at every level.
 
 ## Muscle Utilization Shift
 
