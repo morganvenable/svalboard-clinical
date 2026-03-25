@@ -10,7 +10,7 @@ hero_subtitle: For hypermobility conditions, Svalboard replaces active stabiliza
 
 EDS and related hypermobility spectrum disorders affect connective tissue integrity. In the hands, this creates compounding mechanical problems during repetitive tasks like typing. The central issue for typing is not joint laxity itself, but what the neuromuscular system does to compensate.
 
-**Compensatory muscle co-contraction.** When passive structures fail, the nervous system activates muscles on both sides of the joint simultaneously. Flexors and extensors fire together to prevent collapse - stabilization that healthy ligaments handle passively. The metabolic and fatigue cost is enormous.
+**Compensatory muscle co-contraction.** When passive structures fail, the nervous system activates muscles on both sides of the joint simultaneously. Flexors and extensors fire together to prevent collapse - stabilization that healthy ligaments handle passively. This carries a high metabolic and fatigue cost.
 
 **Ligamentous laxity and joint instability.** Collateral ligaments, volar plates, and joint capsules are structurally insufficient. MCP, PIP, and DIP joints may hyperextend, deviate, or sublux under normal typing loads. The wrist may also be unstable.
 
@@ -40,7 +40,7 @@ Conventional keyboards are poorly matched to hypermobile connective tissue.
 
 **Continuous joint stabilization via muscle activation.** The hand hovers with no support. Every joint from wrist to fingertips must be actively stabilized. In a hypermobile hand, muscles must prevent joints from collapsing into hyperextension on every keystroke.
 
-**Repetitive motion through unstable joints.** Each keystroke requires 2-4mm of travel through joints lacking passive end-range constraint. Joints may hyperextend at the bottom of the press. Over thousands of keystrokes per hour, the correction demand compounds into profound fatigue.
+**Repetitive motion through unstable joints.** Each keystroke requires 2-4mm of travel through joints lacking passive end-range constraint. Joints may hyperextend at the bottom of the press. Over thousands of keystrokes per hour, the correction demand compounds into early fatigue.
 
 **High reliance on extrinsic multi-joint muscles.** Conventional typing recruits FDP and FDS - long muscles crossing the wrist, MCP, PIP, and DIP joints. In a hypermobile hand, these muscles must simultaneously produce fingertip motion and resist hyperextension at every joint they cross.
 
