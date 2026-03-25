@@ -48,9 +48,9 @@ Standard ergonomic interventions for mouse-related shoulder pain include:
 - **Centering the mouse** - places it closer, but reaching is still required
 - **Trackball mice** - reduce wrist motion but the arm still reaches laterally
 - **Vertical mice** - change forearm posture but don't address the reach
-- **Keyboard-mounted trackpoints** - help, but still require lifting a hand to switch modes
+- **Keyboard-mounted trackpoints** - effective for some users and pair well with gaze-based cursor warping, but proportional force input on the fingertip can aggravate DIP joint pathology in patients with existing distal phalanx issues
 
-All of these reduce some aspect of the problem. None of them remove the reach cycle itself.
+Each of these reduces some aspect of the problem. Svalboard's approach is to integrate a trackball directly into the palm rest, keeping the hand fully supported and the shoulder at rest.
 
 <div class="comparison" markdown="1">
 

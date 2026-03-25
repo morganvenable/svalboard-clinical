@@ -97,6 +97,7 @@ HERO_COLORS = {
     "trigger-finger": "background: linear-gradient(135deg, #121212 0%, #1a1a2e 100%);",
     "shoulder-neck": "background: linear-gradient(135deg, #121212 0%, #1a1a2e 100%);",
     "index": "background: #121212;",
+    "future-of-writing": "background: linear-gradient(135deg, #121212 0%, #1a2e1a 100%);",
 }
 
 def process_markdown(md_text):
