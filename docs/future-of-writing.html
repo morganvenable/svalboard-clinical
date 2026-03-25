@@ -14,19 +14,16 @@
       <span class="brand-text">Workflow</span>
     </a>
     <a href="future-of-writing.html" style="color:#fff;font-weight:700">Home</a>
-    <a href="future-of-writing.html#speech">Speech</a>
-    <a href="future-of-writing.html#gaze">Gaze</a>
-    <a href="future-of-writing.html#motor-input">Motor Input</a>
-    <a href="future-of-writing.html#memory">Memory</a>
+    <a href="speech.html">Speech</a>
+    <a href="gaze.html">Gaze</a>
+    <a href="motor-input.html">Motor Input</a>
+    <a href="memory.html">Memory</a>
   </nav>
 
   <div class="hero" style="background: linear-gradient(135deg, #121212 0%, #1a2e1a 100%);">
     <h1>The Future of Writing in an AI World</h1>
     <p class="subtitle">Why the way you interact with your tools matters more than ever, and how to think about your own workflow.</p>
-    <div class="cta-group">
-      <a href="#writing-is-thinking" class="btn btn-primary">Read the Research</a>
-      <a href="#the-question-is-how-you-want-to-work" class="btn btn-outline">Skip to the Synthesis</a>
-    </div>
+    
   </div>
 
   <div class="content">
@@ -226,82 +223,13 @@
 <p>If typing is a cognitive tool, then anything that disrupts typing disrupts thinking. The DataHand evidence (71% pain reduction over 3.3 months, Harrington Arthritis Research Center) and Svalboard's improvements on that design (lower force, shorter travel, per-key tunability, integrated pointing) directly support sustained cognitive performance for people who choose typing as their primary input method.</p>
 </div>
 <hr />
-<div class="section mechanism">
-<h2 id="speech">Speech</h2>
-<p>Voice input has come a long way from rigid command grammars. Modern local speech recognition, combined with LLM understanding of context, is making voice a genuinely powerful input modality for knowledge work.</p>
-<h3 id="handy-local-speech-recognition-done-right">Handy: Local Speech Recognition Done Right</h3>
-<p><a href="https://github.com/cjpais/Handy">Handy</a> is a free, open-source speech-to-text application that runs entirely offline. Built with Tauri (Rust + React/TypeScript), it performs all recognition locally without sending audio to cloud servers.</p>
-<p>What makes Handy particularly interesting for workflow optimization:</p>
-<ul>
-<li><strong>Model switching</strong>: Handy supports multiple recognition backends, including OpenAI's Whisper models (GPU-accelerated) and Parakeet V3 (efficient CPU-only with automatic language detection). Users can seamlessly switch between models to find what works best for their voice, accent, and vocabulary.</li>
-<li><strong>Vocabulary customization</strong>: The ability to tune recognition for domain-specific terminology matters enormously for technical users. Medical, legal, and engineering vocabularies are poorly served by generic models.</li>
-<li><strong>Press-to-record workflow</strong>: A configurable keyboard shortcut starts recording; releasing transcribes and pastes into whatever text field is active. This tight integration with typing workflows means voice and keyboard complement each other rather than competing.</li>
-<li><strong>Privacy</strong>: All processing stays on your machine. For professionals working with confidential content, this is not optional.</li>
-</ul>
-<h3 id="voice-llm-beyond-transcription">Voice + LLM: Beyond Transcription</h3>
-<p>Raw transcription is just the beginning. When a local speech model feeds into an LLM that understands your project context, the voice channel becomes dramatically more powerful. You can speak loosely and have the AI interpret your intent, resolve ambiguities, and produce structured output. This is the workflow that produced much of this page: voice direction to an AI assistant that understands the project deeply enough to act on imprecise instructions.</p>
-<p>The tools like Wispr Flow and the emerging "vibe coding" pattern point toward a future where voice is not a replacement for typing but a complementary channel optimized for different cognitive modes: ideation, high-level direction, and rapid rough-drafting.</p>
-<h3 id="talon-voice-and-cursorless">Talon Voice and Cursorless</h3>
-<p>For users who need or prefer hands-free operation, Talon Voice provides comprehensive computer control by voice, and Cursorless extends this to structural code editing at the AST level. These tools have steep learning curves but demonstrate that voice can achieve typing-equivalent speeds for experienced users. Both were created by developers who developed RSI, which speaks to the real demand.</p>
-</div>
-<hr />
 <div class="section clinical">
-<h2 id="gaze">Gaze</h2>
-<p>Eye tracking is rapidly evolving from a specialized accessibility tool to a general-purpose input complement that can make every other modality more efficient.</p>
-<h3 id="tobii-eye-trackers">Tobii Eye Trackers</h3>
-<p>Tobii's hardware eye trackers (particularly the Tobii Eye Tracker 5 and its successors) provide high-precision gaze tracking that integrates with Talon Voice and other assistive tools. The core value proposition: your eyes already look at what you want to interact with. Gaze tracking turns that natural behavior into an input signal, positioning the cursor roughly where you're looking so that fine adjustment (via head tracking, voice, or minimal hand movement) takes over from there.</p>
-<p>For Svalboard users, this is particularly interesting because fingers never leave their wells. Gaze-to-approximate-position + Trackpoint/trackball fine adjustment could eliminate even the small pointing movements currently needed.</p>
-<h3 id="open-source-webcam-gaze-tracking">Open-Source Webcam Gaze Tracking</h3>
-<p>Dedicated hardware like Tobii offers the best accuracy, but webcam-based alternatives are becoming viable:</p>
-<ul>
-<li><strong>GazePointer</strong> uses a standard webcam to estimate gaze direction and move the mouse cursor accordingly</li>
-<li><strong>Precision Gaze Mouse</strong> combines eye tracking with face tracking for speed-of-gaze plus precision-of-head movement</li>
-<li><strong>WebGazer.js</strong> provides browser-based eye tracking that self-calibrates by watching user interactions</li>
-<li><strong>Enable Viacam (eViacam)</strong> uses head tracking via webcam for cursor control</li>
-</ul>
-<p>These solutions provide "warping" to reduce ballistic motion in pointing: instead of moving your hand across a desk to reach a screen target, your gaze jumps the cursor to the approximate region, and a secondary input refines the position.</p>
-<h3 id="the-llm-opportunity">The LLM Opportunity</h3>
-<p>Here is what gets genuinely exciting: combine a webcam gaze tracker with an LLM that has screen context (understanding what's on screen, what the application state is, what the user has been working on), and you may get a large fraction of the way to Tobii-level utility without dedicated hardware. The LLM can disambiguate where you're looking based on what makes sense in context. GazePointAR (CHI 2024) demonstrated exactly this principle: gaze + AI context understanding + voice resolving ambiguity together.</p>
-<p>This is not production-ready today. But the trajectory suggests that the combination of cheap webcam input, LLM context understanding, and multimodal fusion could democratize gaze-assisted workflows within a few years.</p>
-</div>
-<hr />
-<div class="section mechanism">
-<h2 id="motor-input">Motor Input</h2>
-<p>The physical interface between human and computer remains the critical link in every workflow, and the one most likely to fail over a career.</p>
-<h3 id="svalboards-approach">Svalboard's Approach</h3>
-<p>Svalboard's design philosophy is relevant here not as a product pitch but as an example of principled workflow optimization:</p>
-<ul>
-<li><strong>Fingers never leave their wells</strong>: Five directional keys per finger, activated by movements of a few millimeters. No hand movement, no finger extension, no reaching.</li>
-<li><strong>Integrated pointing</strong>: Trackpoint and/or trackball built into the same hand position. No homing cost between keyboard and mouse. This directly addresses the Fitts' Law switching penalty that costs knowledge workers significant time daily.</li>
-<li><strong>Low force, short travel</strong>: ~20 grams on most keys, ~12 grams on North keys (extension) to reduce extensor load. Tunable down to 8-10 grams per key per direction. ~1-2mm travel. Optical sensing with a front-loaded force profile and clean breakaway.</li>
-<li><strong>Per-key tunability</strong>: Force and actuation characteristics adjustable per key, accommodating individual hand anatomy and injury patterns.</li>
-</ul>
-<p>These are workflow optimizations backed by the DataHand clinical evidence (71% pain reduction, sustained productivity, fatigue resistance) and refined with modern sensing and materials.</p>
-<h3 id="the-integration-principle">The Integration Principle</h3>
-<p>The deeper point is that motor input should integrate with other modalities rather than competing with them. A keyboard that also handles pointing eliminates one modality switch. A keyboard that works alongside voice (press-to-record with Handy, for instance) and gaze (cursor warped to approximate position before fine trackpoint adjustment) creates a fluid multimodal workspace where the human moves between channels based on what the task demands and what their body can sustain.</p>
-</div>
-<hr />
-<div class="section problem">
-<h2 id="memory">Memory</h2>
-<p>This may be the most important and least addressed dimension of workflow optimization.</p>
-<h3 id="the-capture-problem">The Capture Problem</h3>
-<p>Throughout the day, we have insights, ideas, and realizations that we fail to capture because there is no sufficiently low-friction way to do so. You're walking the dog, taking a shower, driving to the store, and your brain connects two things you've been thinking about. Unless you can record that connection within seconds, in whatever context you're in, the idea simply vanishes. You may have it again. You may not.</p>
-<p>This is not a hypothetical concern. Research on prospective memory (remembering to do things in the future) consistently shows that external capture dramatically outperforms attempts to simply remember. The value of an idea depends not just on having it but on being able to act on it later. A frictionless capture system turns fleeting cognition into durable knowledge.</p>
-<h3 id="breaking-free-from-the-session">Breaking Free from the Session</h3>
-<p>Most knowledge tools today are session-bound. You sit down, open your IDE or document, do focused work, and close it. The tool forgets about you between sessions. But your brain doesn't stop working when you stand up. Background processing, incubation, and spontaneous insight are well-documented cognitive phenomena. Some of the most valuable thinking happens when you're <em>not</em> at your desk.</p>
-<p>The challenge is bridging the gap between insight (which happens anywhere) and action (which traditionally requires being at a workstation). This is an area that deserves much more attention from tool designers.</p>
-<h3 id="ambient-ai-as-a-starting-point">Ambient AI as a Starting Point</h3>
-<p>Features like remote triggers in Claude Code point toward a model where an AI assistant is not session-bound but ambient, accessible from a phone, a watch, or a voice command while you're away from your desk. You can fire off a thought, a question, or a direction, and the AI captures it, contextualizes it within your ongoing work, and either acts on it or queues it for your next focused session.</p>
-<p>This is a starting point, not a solution. The real vision is a system that:</p>
-<ul>
-<li><strong>Captures</strong> insights with near-zero friction from any context (voice memo, quick text, even a gesture)</li>
-<li><strong>Contextualizes</strong> them within your active projects and ongoing thinking</li>
-<li><strong>Surfaces</strong> them at the right moment when you're back in focused work mode</li>
-<li><strong>Connects</strong> ideas across time, linking today's shower insight to last week's code review and next month's design decision</li>
-</ul>
-<h3 id="why-this-matters-for-workflow-design">Why This Matters for Workflow Design</h3>
-<p>The keyboard, the voice interface, the gaze tracker: these are all tools for the focused session. Memory and capture are tools for the space <em>between</em> sessions. A truly optimized workflow addresses both. The person who can capture ideas while walking, process them with AI while commuting, and execute on them with fluid multimodal input when they sit down is doing fundamentally different work than someone who loses half their insights to the gap between thinking and typing.</p>
-<p>This is still early territory. But the convergence of ambient AI, always-on voice capture, and intelligent context management suggests that the workflow of the near future will extend far beyond the desk.</p>
+<h2 id="the-modalities">The Modalities</h2>
+<p>The rest of this site explores four dimensions of workflow in depth. Each has its own page.</p>
+<p><strong><a href="speech.html">Speech</a></strong> is not a replacement for typing. It is a complementary channel optimized for different cognitive modes: ideation, high-level direction, and rapid rough-drafting. Local tools like Handy provide private, model-switchable recognition. Talon Voice and Cursorless demonstrate that voice can achieve typing-equivalent speeds for structural code editing. LLMs dissolve the old rigid-command-grammar barrier, letting you speak <em>intent</em> rather than dictation.</p>
+<p><strong><a href="gaze.html">Gaze</a></strong> tracking turns a natural behavior (looking at what you want to interact with) into an input signal. Tobii hardware provides the gold standard; open-source alternatives like Project Gameface and EyeTrax are emerging. The most exciting near-term possibility: combining imprecise webcam gaze with LLM screen context to resolve ambiguity without dedicated hardware.</p>
+<p><strong><a href="motor-input.html">Motor Input</a></strong> is where the human body is most directly at risk and where the interaction between physical and cognitive performance is best documented. Svalboard's finger-well design, backed by DataHand's clinical evidence, protects the hand-mind connection over a career. Pain doesn't just hurt; it consumes the cognitive resources that make writing a thinking tool.</p>
+<p><strong><a href="memory.html">Memory and Attention</a></strong> address what happens between focused sessions and what governs the quality of attention within them. Capturing fleeting insights, contextualizing them with AI, and protecting focused work from interruption are three sides of the same design problem.</p>
 </div>
 <hr />
 <div class="section provider">

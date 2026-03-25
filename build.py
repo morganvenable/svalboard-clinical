@@ -127,6 +127,10 @@ HERO_COLORS = {
     "shoulder-neck": "background: linear-gradient(135deg, #121212 0%, #1a1a2e 100%);",
     "index": "background: #121212;",
     "future-of-writing": "background: linear-gradient(135deg, #121212 0%, #1a2e1a 100%);",
+    "speech": "background: linear-gradient(135deg, #121212 0%, #1a1a2e 100%);",
+    "gaze": "background: linear-gradient(135deg, #121212 0%, #2e1a2e 100%);",
+    "motor-input": "background: linear-gradient(135deg, #121212 0%, #1a2e1a 100%);",
+    "memory": "background: linear-gradient(135deg, #121212 0%, #2e2a1a 100%);",
 }
 
 def process_markdown(md_text):
@@ -141,10 +145,38 @@ def process_markdown(md_text):
 PAGE_NAV = {
     "future-of-writing": [
         ("future-of-writing.html", "Home"),
-        ("future-of-writing.html#speech", "Speech"),
-        ("future-of-writing.html#gaze", "Gaze"),
-        ("future-of-writing.html#motor-input", "Motor Input"),
-        ("future-of-writing.html#memory", "Memory"),
+        ("speech.html", "Speech"),
+        ("gaze.html", "Gaze"),
+        ("motor-input.html", "Motor Input"),
+        ("memory.html", "Memory"),
+    ],
+    "speech": [
+        ("future-of-writing.html", "Home"),
+        ("speech.html", "Speech"),
+        ("gaze.html", "Gaze"),
+        ("motor-input.html", "Motor Input"),
+        ("memory.html", "Memory"),
+    ],
+    "gaze": [
+        ("future-of-writing.html", "Home"),
+        ("speech.html", "Speech"),
+        ("gaze.html", "Gaze"),
+        ("motor-input.html", "Motor Input"),
+        ("memory.html", "Memory"),
+    ],
+    "motor-input": [
+        ("future-of-writing.html", "Home"),
+        ("speech.html", "Speech"),
+        ("gaze.html", "Gaze"),
+        ("motor-input.html", "Motor Input"),
+        ("memory.html", "Memory"),
+    ],
+    "memory": [
+        ("future-of-writing.html", "Home"),
+        ("speech.html", "Speech"),
+        ("gaze.html", "Gaze"),
+        ("motor-input.html", "Motor Input"),
+        ("memory.html", "Memory"),
     ],
 }
 
@@ -152,6 +184,30 @@ PAGE_NAV = {
 # Keys: brand_text, brand_href, site_name, footer_text
 PAGE_IDENTITY = {
     "future-of-writing": {
+        "brand_text": "Workflow",
+        "brand_href": "future-of-writing.html",
+        "site_name": "Svalboard Workflow",
+        "footer_text": "Svalboard Workflow - Tools and workflows for sustainable knowledge work",
+    },
+    "speech": {
+        "brand_text": "Workflow",
+        "brand_href": "future-of-writing.html",
+        "site_name": "Svalboard Workflow",
+        "footer_text": "Svalboard Workflow - Tools and workflows for sustainable knowledge work",
+    },
+    "gaze": {
+        "brand_text": "Workflow",
+        "brand_href": "future-of-writing.html",
+        "site_name": "Svalboard Workflow",
+        "footer_text": "Svalboard Workflow - Tools and workflows for sustainable knowledge work",
+    },
+    "motor-input": {
+        "brand_text": "Workflow",
+        "brand_href": "future-of-writing.html",
+        "site_name": "Svalboard Workflow",
+        "footer_text": "Svalboard Workflow - Tools and workflows for sustainable knowledge work",
+    },
+    "memory": {
         "brand_text": "Workflow",
         "brand_href": "future-of-writing.html",
         "site_name": "Svalboard Workflow",
