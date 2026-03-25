@@ -51,7 +51,7 @@ TEMPLATE = """<!DOCTYPE html>
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>{title} — Svalboard Clinical</title>
+  <title>{title} - Svalboard Clinical</title>
   <link rel="stylesheet" href="{css}">
 </head>
 <body>
@@ -78,7 +78,7 @@ TEMPLATE = """<!DOCTYPE html>
   </div>
 
   <footer class="footer">
-    <p>Svalboard Clinical Resources &mdash; For healthcare providers and patients</p>
+    <p>Svalboard Clinical Resources - For healthcare providers and patients</p>
     <p><a href="https://svalboard.com">svalboard.com</a> &middot; <a href="https://svalboard.substack.com">Substack</a></p>
   </footer>
 </body>
