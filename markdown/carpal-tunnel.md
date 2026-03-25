@@ -8,20 +8,20 @@ hero_subtitle: Svalboard minimizes tendon excursion and wrist extension — two 
 
 ## The Clinical Problem
 
-Carpal tunnel syndrome (CTS) is the most common compressive neuropathy of the upper extremity, affecting an estimated 3-6% of the general adult population and carrying a lifetime prevalence approaching 10% in occupations involving sustained hand-intensive work. It is the single largest contributor to lost work-days among repetitive strain injuries in the United States.
+Carpal tunnel syndrome (CTS) is the most common compressive neuropathy of the upper extremity, affecting 3-6% of adults with ~10% lifetime prevalence in hand-intensive occupations. It is the largest contributor to RSI-related lost work-days in the United States.
 
 ### Anatomy of the Carpal Tunnel
 
-The carpal tunnel is a narrow, inextensible **fibro-osseous canal** at the base of the palm. Its boundaries are rigid on three sides and semi-rigid on the fourth:
+The carpal tunnel is a narrow, inextensible **fibro-osseous canal** at the base of the palm -- rigid on three sides, semi-rigid on the fourth:
 
-- **Floor (dorsal):** The carpal bones --- scaphoid and trapezium on the radial side; hamate and triquetrum on the ulnar side --- form a concave arch of cortical bone.
-- **Roof (volar):** The **transverse carpal ligament** (flexor retinaculum), a thick band of dense connective tissue spanning from the scaphoid tubercle and trapezium to the hook of the hamate and pisiform, seals the tunnel anteriorly.
+- **Floor (dorsal):** Carpal bones (scaphoid/trapezium radially; hamate/triquetrum ulnarly) form a concave cortical arch.
+- **Roof (volar):** The **transverse carpal ligament** (flexor retinaculum) spans from the scaphoid tubercle and trapezium to the hook of the hamate and pisiform.
 
-Because the tunnel walls cannot expand, any increase in the volume of its contents or decrease in available space directly elevates **intracarpal pressure**.
+The walls cannot expand. Any increase in content volume directly elevates **intracarpal pressure**.
 
 ### Contents of the Tunnel
 
-Nine flexor tendons and one nerve pass through this confined space:
+Nine flexor tendons and one nerve pass through this space:
 
 | Structure | Count | Function |
 |---|---|---|
@@ -30,23 +30,23 @@ Nine flexor tendons and one nerve pass through this confined space:
 | **Flexor Pollicis Longus (FPL)** | 1 tendon | IP flexion of the thumb |
 | **Median Nerve** | 1 nerve | Sensory to thumb, index, middle, radial ring finger; motor to thenar muscles |
 
-The median nerve typically lies just deep to the transverse carpal ligament and superficial to the FDS tendons, making it particularly vulnerable to compression from any volumetric increase within the tunnel.
+The median nerve lies just deep to the transverse carpal ligament and superficial to FDS, making it vulnerable to any volumetric increase.
 
 ### Pathophysiology
 
 Symptoms arise through a well-characterized cascade:
 
-1. **Increased intracarpal pressure** --- Normal resting pressure in the carpal tunnel is approximately 2-10 mmHg. Wrist extension to 30 degrees can elevate this to 30-40 mmHg; combined wrist extension and finger flexion (as in typing) can exceed 60 mmHg.
-2. **Repetitive tendon gliding** --- Each keystroke requires FDP and FDS excursion through the tunnel. Repetitive gliding generates friction against the synovial sheath, provoking tenosynovial thickening and edema.
-3. **Synovial hypertrophy** --- Chronic irritation leads to fibrosis and thickening of the tenosynovium surrounding the flexor tendons, further reducing the available space.
-4. **Sustained non-neutral wrist posture** --- Prolonged wrist extension or flexion tensions the transverse carpal ligament and displaces the tunnel contents, compressing the median nerve against rigid bony walls.
+1. **Increased intracarpal pressure** --- Resting pressure is ~2-10 mmHg. Wrist extension to 30 degrees raises this to 30-40 mmHg; combined extension and finger flexion can exceed 60 mmHg.
+2. **Repetitive tendon gliding** --- Each keystroke drives FDP/FDS excursion through the tunnel, generating friction that provokes tenosynovial thickening and edema.
+3. **Synovial hypertrophy** --- Chronic irritation causes fibrosis, further reducing available space.
+4. **Sustained non-neutral posture** --- Prolonged extension tensions the transverse carpal ligament and displaces tunnel contents against rigid bony walls.
 
-The result is **median nerve compression**, producing:
+The result is **median nerve compression**:
 
-- **Paresthesia** --- numbness and tingling in the median nerve distribution (thumb, index, middle, and radial half of ring finger)
-- **Pain** --- often nocturnal, radiating proximally into the forearm
+- **Paresthesia** --- numbness/tingling in thumb, index, middle, radial ring finger
+- **Pain** --- often nocturnal, radiating into the forearm
 - **Weakness** --- reduced grip and pinch strength
-- **Thenar atrophy** --- in advanced cases, wasting of the abductor pollicis brevis, opponens pollicis, and superficial head of the flexor pollicis brevis
+- **Thenar atrophy** --- in advanced cases, wasting of APB, opponens pollicis, and superficial FPB
 
 <div class="diagram-container">
 
@@ -63,21 +63,19 @@ The result is **median nerve compression**, producing:
 
 ## Mechanical Drivers in Conventional Typing
 
-Standard keyboards impose a specific biomechanical pattern that directly loads the structures within the carpal tunnel. This is not a matter of poor ergonomics at the margins --- it is an intrinsic consequence of the input method.
+Standard keyboards impose a biomechanical pattern that directly loads the carpal tunnel. This is intrinsic to the input method.
 
 ### High-Repetition Tendon Excursion
 
-Every keystroke on a conventional keyboard requires the **flexor digitorum profundus** and **flexor digitorum superficialis** to contract and shorten, pulling their tendons through the carpal tunnel. A professional typist performing 60-80 words per minute generates approximately **18,000-24,000 individual tendon excursions per hour** through the tunnel.
+Every keystroke pulls FDP and FDS tendons through the carpal tunnel. At 60-80 WPM, that is ~**18,000-24,000 tendon excursions per hour**. Each generates friction against the synovial sheath. This accumulates:
 
-Each excursion produces friction between the tendon surface and its surrounding synovial sheath. Over thousands of repetitions, this microtrauma accumulates:
-
-- **Synovial sheath irritation** leads to fluid accumulation and inflammatory thickening
-- **Tenosynovial fibrosis** develops over weeks and months of sustained loading
-- **Volumetric increase** within the fixed-volume tunnel directly compresses the median nerve
+- **Synovial irritation** -- fluid accumulation and inflammatory thickening
+- **Tenosynovial fibrosis** -- progressive over weeks and months
+- **Volumetric increase** -- compresses the median nerve in a fixed-volume space
 
 ### Sustained Wrist Extension
 
-Conventional keyboard geometry forces the wrist into **20-30 degrees of extension** during typing. Research consistently demonstrates the pressure consequences:
+Conventional keyboards force **20-30 degrees of wrist extension**:
 
 | Wrist Position | Intracarpal Pressure | Source |
 |---|---|---|
@@ -86,22 +84,20 @@ Conventional keyboard geometry forces the wrist into **20-30 degrees of extensio
 | 30 degrees extension | 30-42 mmHg | Rempel et al., 1997 |
 | 30 degrees extension + finger flexion | 45-65 mmHg | Keir et al., 1998 |
 
-The threshold for median nerve dysfunction is estimated at **20-30 mmHg** of sustained pressure. Standard typing posture routinely exceeds this.
+Median nerve dysfunction threshold: **20-30 mmHg** sustained. Standard typing routinely exceeds this.
 
 ### Extrinsic Flexor Dependence
 
-On a conventional keyboard, the force required to depress a key (typically 45-60 cN for mechanical switches) is generated almost entirely by the **extrinsic flexor muscles** --- the FDP and FDS --- whose muscle bellies reside in the forearm and whose tendons cross the wrist through the carpal tunnel.
-
-This creates an unavoidable coupling: **every unit of finger force requires tendon loading inside the tunnel.**
+Key force (45-60 cN) is generated almost entirely by the **extrinsic flexors** --- FDP and FDS --- whose tendons cross the wrist through the carpal tunnel. Every unit of finger force requires tendon loading inside the tunnel.
 
 ### Extensor Co-contraction
 
-To stabilize the wrist in extension while the flexors fire, the wrist extensors (ECRL, ECRB, ECU) must co-contract. This co-contraction:
+Wrist extensors (ECRL, ECRB, ECU) co-contract to stabilize the wrist in extension. This:
 
-- Increases compressive force across the wrist joint
+- Increases wrist joint compression
 - Tightens the transverse carpal ligament
-- Further elevates intracarpal pressure
-- Adds to overall muscle fatigue and metabolic demand
+- Elevates intracarpal pressure
+- Adds to fatigue and metabolic demand
 
 <div class="comparison" markdown="1">
 
@@ -145,54 +141,48 @@ To stabilize the wrist in extension while the flexors fire, the wrist extensors 
 
 ## What Svalboard Changes
 
-The Svalboard is not a conventional keyboard with a different shape. It is a fundamentally different input mechanism that alters which anatomical structures are loaded, how much they are loaded, and in what posture the loading occurs. Each of these changes has a direct, measurable consequence for carpal tunnel pressure.
+Svalboard alters which structures are loaded, how much, and in what posture. Each change directly affects carpal tunnel pressure.
 
 ### 1. Reduced Tendon Excursion
 
-On the Svalboard, keys are activated by **small-amplitude finger movements** --- tilting motions of approximately 2-4 mm of travel, compared to the 3-4 mm of travel plus the full arc of finger flexion on a conventional key. This dramatically reduces the distance that FDP and FDS tendons must glide through the carpal tunnel per actuation.
+Keys activate via **small-amplitude tilts** (~2-4 mm), versus 3-4 mm travel plus full finger flexion arc on a conventional key. FDP/FDS glide distance drops dramatically.
 
-Less tendon excursion means:
-
-- **Less friction** between tendon surfaces and synovial sheaths
-- **Less cumulative microtrauma** per hour of use
-- **Reduced tenosynovial inflammatory response**
-- **Lower volumetric swelling** inside the tunnel
+- Less friction between tendons and synovial sheaths
+- Less cumulative microtrauma per hour
+- Reduced tenosynovial inflammation
+- Lower volumetric swelling in the tunnel
 
 ### 2. Minimal Force Requirement
 
-The Svalboard's key switches require significantly less force to actuate than conventional mechanical or membrane switches. The practical consequence is a substantial decrease in **FDP and FDS contractile demand**.
+Far less actuation force than conventional switches, substantially decreasing **FDP/FDS contractile demand**.
 
-Lower muscle activation means:
-
-- **Reduced tendon tension** at the wrist
-- **Less compressive load** transmitted through the tunnel
-- **Lower metabolic demand** on the extrinsic flexors
-- **Decreased fatigue-driven co-contraction**
+- Reduced tendon tension at the wrist
+- Less compressive load through the tunnel
+- Lower metabolic demand on extrinsic flexors
+- Decreased fatigue-driven co-contraction
 
 ### 3. Neutral Wrist Posture
 
-The Svalboard's design positions each hand in a **fully neutral wrist posture** --- neither extended, flexed, nor deviated. The fingers rest in their natural cascade, and key activations occur within the range of motion that maintains this neutral alignment.
+Each hand rests **fully neutral** --- neither extended, flexed, nor deviated. Activations stay within the range that maintains this alignment.
 
-Neutral posture directly addresses the single largest modifiable risk factor for elevated intracarpal pressure. Moving from 30 degrees of wrist extension to neutral can reduce tunnel pressure by **30-50 mmHg** during active finger use.
+This addresses the single largest modifiable risk factor for elevated intracarpal pressure. Moving from 30 degrees extension to neutral can reduce tunnel pressure by **30-50 mmHg** during active use.
 
 ### 4. Palmar Support Eliminates Co-contraction
 
-Because the hand rests in a supported cradle, the wrist extensors no longer need to fire continuously to hold the hand in position above the keyboard. This eliminates the **extensor co-contraction** that adds compressive load to the carpal tunnel during conventional typing.
-
-The wrist is not working as a stabilizer. It is at rest.
+The hand rests in a supported cradle. Wrist extensors no longer fire to hold the hand above a keyboard, eliminating **extensor co-contraction** and its compressive load.
 
 ### 5. Shift Toward Intrinsic Muscles
 
-Perhaps the most significant biomechanical change: the Svalboard's tilt-based input shifts the primary movers from the **extrinsic flexors** (FDP, FDS) to the **intrinsic muscles of the hand** --- specifically the **lumbricals** and **interossei**.
+Tilt-based input shifts primary movers from **extrinsic flexors** (FDP, FDS) to **intrinsic muscles** --- the **lumbricals** and **interossei**.
 
-This distinction is anatomically critical:
+This is anatomically critical:
 
-- **Lumbricals** originate from the FDP tendons *within the palm*, distal to the carpal tunnel
-- **Interossei** originate from the metacarpal bones, entirely outside the tunnel
-- Neither muscle group sends tendons through the carpal tunnel
-- Activation of these muscles does **not increase intracarpal pressure**
+- **Lumbricals** originate from FDP tendons *in the palm*, distal to the tunnel
+- **Interossei** originate from metacarpal bones, entirely outside the tunnel
+- Neither sends tendons through the carpal tunnel
+- Their activation **does not increase intracarpal pressure**
 
-By shifting the workload to muscles whose anatomy bypasses the tunnel entirely, the Svalboard decouples finger input from carpal tunnel loading.
+This decouples finger input from carpal tunnel loading.
 
 <div class="diagram-container">
 
@@ -210,7 +200,7 @@ By shifting the workload to muscles whose anatomy bypasses the tunnel entirely, 
 
 ## Clinical Impact
 
-The biomechanical changes introduced by the Svalboard converge on a single clinical objective: **reduce the mechanical load on the median nerve within the carpal tunnel** during sustained keyboard use.
+These changes converge on one objective: **reduce mechanical load on the median nerve** during sustained keyboard use.
 
 <div class="stats-row" markdown="1">
 
@@ -218,7 +208,7 @@ The biomechanical changes introduced by the Svalboard converge on a single clini
 
 ### Median Nerve Compression
 
-Neutral wrist posture returns intracarpal pressure to near-resting levels (2-10 mmHg), well below the 20-30 mmHg threshold for median nerve dysfunction. The nerve is no longer compressed between swollen tendons and the transverse carpal ligament.
+Neutral posture returns intracarpal pressure to near-resting levels (2-10 mmHg), well below the 20-30 mmHg dysfunction threshold.
 
 </div>
 
@@ -226,7 +216,7 @@ Neutral wrist posture returns intracarpal pressure to near-resting levels (2-10 
 
 ### Tendon Irritation
 
-Reduced excursion amplitude and frequency dramatically lowers cumulative friction between flexor tendons and their synovial sheaths. Less friction means less tenosynovial inflammation, less edema, and less volumetric encroachment within the tunnel.
+Reduced excursion amplitude and frequency lowers cumulative tendon-sheath friction. Less friction, less tenosynovial inflammation, less volumetric encroachment.
 
 </div>
 
@@ -234,7 +224,7 @@ Reduced excursion amplitude and frequency dramatically lowers cumulative frictio
 
 ### Symptom Provocation
 
-Many CTS patients find that conventional typing is the single activity most likely to provoke or exacerbate symptoms. By eliminating the sustained wrist extension and high-repetition tendon loading that drive symptom provocation, the Svalboard allows continued productivity without triggering the pain-paresthesia cycle.
+For many CTS patients, typing is the primary symptom trigger. Eliminating sustained extension and high-repetition tendon loading allows continued work without the pain-paresthesia cycle.
 
 </div>
 
@@ -242,17 +232,17 @@ Many CTS patients find that conventional typing is the single activity most like
 
 ### Co-contraction
 
-Eliminating the need for extensor co-contraction removes a significant source of compressive load across the wrist. This reduces overall joint reaction force and lowers the baseline pressure within the tunnel, even before accounting for the reduction in flexor tendon activity.
+Eliminating extensor co-contraction removes compressive load across the wrist, lowering baseline tunnel pressure independent of flexor tendon changes.
 
 </div>
 
 </div>
 
-### Clinical Relevance for Conservative Management
+### Conservative Management
 
-For patients in whom CTS is managed conservatively --- splinting, activity modification, corticosteroid injection --- the Svalboard addresses the **ongoing mechanical provocation** that these interventions do not. A night splint holds the wrist neutral during sleep but offers no protection during 8 hours of typing. The Svalboard extends the principle of neutral wrist positioning into the activity that generates the most cumulative load.
+For patients managed conservatively --- splinting, activity modification, injection --- Svalboard addresses the **ongoing mechanical provocation** these interventions do not. A night splint holds the wrist neutral during sleep. Svalboard extends that principle into 8 hours of typing.
 
-For clinicians prescribing activity modification, the Svalboard represents a concrete, implementable change that does not require the patient to stop working.
+A concrete activity modification that does not require work cessation.
 
 </div>
 
@@ -262,56 +252,56 @@ For clinicians prescribing activity modification, the Svalboard represents a con
 
 ## Still Effective --- Before and After Surgery
 
-The Svalboard is **not a substitute for surgical intervention** when carpal tunnel release is clinically indicated. Severe CTS with thenar atrophy, persistent sensory loss, or electrodiagnostic evidence of axonal degeneration requires surgical decompression. No input device changes that calculus.
+Svalboard is **not a substitute for surgery** when indicated. Severe CTS with thenar atrophy, persistent sensory loss, or axonal degeneration requires surgical decompression.
 
-However, surgery addresses only one part of the problem.
+Surgery addresses only part of the problem.
 
 ### What Surgery Does
 
-**Carpal tunnel release** (open or endoscopic) divides the transverse carpal ligament, expanding the volume of the tunnel and relieving structural compression of the median nerve. This is highly effective: success rates for symptom relief range from 75-90%.
+**Carpal tunnel release** divides the transverse carpal ligament, expanding tunnel volume. Symptom relief rates: 75-90%.
 
 ### What Surgery Does Not Do
 
-Surgical decompression **does not eliminate the mechanical workload** that contributed to the condition:
+Decompression **does not eliminate the mechanical workload**:
 
-- **Tendon friction continues.** The FDP, FDS, and FPL tendons still glide through the same anatomical space during typing. Repetitive excursion still generates friction.
-- **Tenosynovial inflammation can recur.** Without the rigid constraint of the intact ligament, post-surgical tunnel pressure is lower --- but chronic tendon loading can still provoke synovial thickening and scar tissue formation.
-- **Patients return to the same input devices.** After recovery, most patients resume typing on the same keyboards that contributed to their condition, re-establishing the same biomechanical loading pattern.
+- **Tendon friction continues.** FDP, FDS, and FPL still glide through the same space.
+- **Inflammation can recur.** Chronic loading still provokes synovial thickening and scar tissue.
+- **Patients return to the same keyboards** and the same loading pattern.
 
-Recurrence rates for CTS after surgical release range from **3-12%**, with a significant proportion of recurrences associated with **return to high-repetition hand-intensive work**.
+Recurrence: **3-12%**, disproportionately in those returning to high-repetition hand-intensive work.
 
-### Before Surgery: Reducing Symptom-Driving Strain
+### Before Surgery
 
-For patients who are not yet surgical candidates, or who are managing symptoms conservatively, the Svalboard reduces the primary mechanical drivers of CTS symptom provocation:
+For pre-surgical or conservatively managed patients:
 
 - Eliminates sustained wrist extension
 - Reduces tendon excursion volume and frequency
 - Lowers intracarpal pressure during work
-- Allows continued productivity during conservative management
-- May extend the window before surgical intervention becomes necessary
+- Maintains productivity during conservative management
+- May extend the window before surgery
 
-### After Surgery: Protecting the Surgical Result
+### After Surgery
 
-For patients returning to work after carpal tunnel release, the Svalboard reduces the risk of recurrent inflammation:
+For patients returning to work post-release:
 
 - Less tendon friction in the post-surgical tunnel
-- Lower mechanical demand on healing tissues
-- Neutral posture avoids tension on the surgical site
-- Reduced re-exposure to the biomechanical pattern that precipitated the original condition
-- Supports a gradual, sustainable return to full-time typing
+- Lower demand on healing tissues
+- Neutral posture avoids surgical site tension
+- Reduces re-exposure to the precipitating biomechanical pattern
+- Supports graduated return to full-time typing
 
 ### User-Reported Outcomes
 
-Users with both pre-surgical and post-surgical CTS have reported clinically meaningful improvements after transitioning to the Svalboard:
+Users with pre- and post-surgical CTS report meaningful improvements:
 
-- **Pre-surgical users** report reduction in daytime paresthesia, decreased frequency of nocturnal symptoms, improved tolerance for sustained typing sessions, and in some cases, deferral of planned surgical intervention
-- **Post-surgical users** report smoother return to work, less post-operative symptom recurrence during typing, reduced need for activity modification or ergonomic accessories, and greater confidence in long-term hand health
+- **Pre-surgical:** reduced daytime paresthesia, fewer nocturnal symptoms, better typing tolerance, and in some cases deferred surgery
+- **Post-surgical:** smoother return to work, less symptom recurrence, reduced need for ergonomic accessories
 
-These are user-reported experiences and do not constitute controlled clinical evidence. They are, however, consistent with the biomechanical predictions of reduced carpal tunnel loading.
+These are user reports, not controlled evidence. They are consistent with biomechanical predictions of reduced carpal tunnel loading.
 
 <div class="callout success" markdown="1">
 
-**Clinical Summary:** Carpal tunnel release addresses the structural compression of the median nerve by expanding the tunnel. The Svalboard addresses the mechanical *workload* that drives tendon friction, synovial inflammation, and elevated intracarpal pressure. These interventions are complementary. For the patient who must continue typing --- whether before or after surgery --- reducing the biomechanical load on the carpal tunnel is a defensible clinical strategy that does not conflict with any standard treatment pathway.
+**Clinical Summary:** Carpal tunnel release expands the tunnel. Svalboard reduces the mechanical workload that drives tendon friction, inflammation, and elevated pressure. These are complementary. For patients who must keep typing --- before or after surgery --- reducing biomechanical load is a defensible strategy compatible with any standard treatment pathway.
 
 </div>
 
@@ -325,17 +315,17 @@ These are user-reported experiences and do not constitute controlled clinical ev
 
 <span class="provider-badge">For Healthcare Providers</span>
 
-This section provides a concise reference for occupational therapists, hand surgeons, orthopedists, physiatrists, and other clinical practitioners evaluating the Svalboard as a component of CTS management.
+Reference for OTs, hand surgeons, orthopedists, physiatrists, and other practitioners evaluating Svalboard for CTS management.
 
 ### Primary Structures Affected
 
 | Structure | Conventional Keyboard Loading | Svalboard Loading |
 |---|---|---|
-| **Median nerve** | Compressed by elevated intracarpal pressure (30-65 mmHg during typing); mechanical irritation from adjacent tendon swelling | Near-resting intracarpal pressure (2-10 mmHg); reduced tendon volume in tunnel |
-| **FDP tendons (x4)** | High-amplitude, high-frequency excursion; primary finger flexors for keystroke force | Minimal excursion; force generation shifted to intrinsic muscles |
-| **FDS tendons (x4)** | Contributes to PIP flexion during keystroke; adds to tunnel volume during contraction | Minimal activation; tilt-based input bypasses PIP flexion requirement |
-| **FPL tendon** | Active during thumb keystroke (spacebar, modifier keys) | Reduced activation; thumb keys accessible via minimal-excursion tilt |
-| **Transverse carpal ligament** | Under tension from wrist extension; transmits compressive force to nerve | Relaxed in neutral wrist posture; not tensioned by extension |
+| **Median nerve** | Compressed at 30-65 mmHg; irritation from adjacent tendon swelling | Near-resting pressure (2-10 mmHg); reduced tendon volume |
+| **FDP tendons (x4)** | High-amplitude, high-frequency excursion | Minimal excursion; force shifted to intrinsics |
+| **FDS tendons (x4)** | PIP flexion per keystroke; adds tunnel volume | Minimal activation; tilt bypasses PIP flexion |
+| **FPL tendon** | Active for thumb keys (spacebar, modifiers) | Reduced; thumb via minimal-excursion tilt |
+| **Transverse carpal ligament** | Tensioned by wrist extension; compresses nerve | Relaxed in neutral; not tensioned |
 
 ### Key Biomechanical Changes
 
@@ -383,7 +373,7 @@ This section provides a concise reference for occupational therapists, hand surg
 <td><strong>Forearm posture</strong></td>
 <td>Pronated</td>
 <td>Neutral rotation</td>
-<td>Reduces pronator teres compression of median nerve in forearm</td>
+<td>Reduces pronator teres compression of median nerve</td>
 </tr>
 <tr>
 <td><strong>Ulnar deviation</strong></td>
@@ -396,39 +386,34 @@ This section provides a concise reference for occupational therapists, hand surg
 
 ### Muscle Shift: From Extrinsic to Intrinsic
 
-The fundamental muscle recruitment change:
+**From:** FDP/FDS dominance (tendons transit the carpal tunnel)
 
-**From:** FDP and FDS dominance (extrinsic flexors whose tendons transit the carpal tunnel)
+**To:** Lumbricals and interossei (originate distal to the tunnel)
 
-**To:** Lumbricals and interossei (intrinsic muscles that originate distal to the carpal tunnel)
-
-This shift is the core mechanism by which the Svalboard reduces carpal tunnel loading. The lumbricals originate from the FDP tendons in the palm, and the interossei originate from the metacarpal shafts. Neither muscle group sends contractile force through the tunnel. When these muscles perform the primary work of key activation, the extrinsic flexors can remain relatively quiescent, and the tendon volume within the tunnel decreases.
+This is the core mechanism. Neither intrinsic group sends contractile force through the tunnel. When they perform key activation, extrinsic flexors remain quiescent and tendon volume decreases.
 
 ### Clinical Use Cases
 
 **Early / Mild CTS**
-- Patient presents with intermittent paresthesia in median nerve distribution
-- Electrodiagnostics show mild slowing, no axonal loss
+- Intermittent paresthesia; mild electrodiagnostic slowing, no axonal loss
 - Conservative management: splinting, activity modification, possible injection
-- **Svalboard role:** Reduces the primary mechanical provocation during work; extends conservative management window; concrete activity modification that does not require work cessation
+- **Svalboard role:** Reduces mechanical provocation during work; extends conservative window; concrete modification without work cessation
 
 **Post-Surgical Return to Work**
-- Patient has undergone carpal tunnel release (open or endoscopic)
-- Returning to keyboard-intensive work after 4-8 weeks of recovery
-- **Svalboard role:** Reduces tendon loading during return-to-work progression; lowers risk of recurrent tenosynovial inflammation; neutral posture avoids tension on healing ligament site; supports graduated increase in typing duration
+- After carpal tunnel release, returning to keyboard work at 4-8 weeks
+- **Svalboard role:** Reduces tendon loading in return-to-work progression; lowers recurrence risk; neutral posture protects healing site; supports graduated increase
 
 **Chronic RSI with Median Nerve Symptoms**
-- Patient has longstanding repetitive strain injury with CTS component
-- May have comorbid tendinopathy, De Quervain's, or proximal compression
+- Longstanding RSI with CTS component, possible comorbidities
 - Multiple failed conservative interventions
-- **Svalboard role:** Addresses the biomechanical root cause rather than managing downstream symptoms; reduces overall upper extremity loading; compatible with concurrent treatment of comorbid conditions
+- **Svalboard role:** Addresses biomechanical root cause; reduces upper extremity loading; compatible with concurrent treatments
 
 ### Prescribing Considerations
 
-- The Svalboard has a learning curve (typically 2-4 weeks to basic proficiency, 4-8 weeks to approach prior typing speed)
-- During the learning period, typing speed is reduced, which itself lowers cumulative loading
-- No contraindications for CTS patients; neutral posture and low force are inherently conservative
-- Compatible with concurrent use of night splints, anti-inflammatory protocols, and therapy programs
-- Patients should be counseled that the Svalboard is an input device change, not a medical device, and does not replace clinical treatment
+- Learning curve: 2-4 weeks to basic proficiency, 4-8 weeks to approach prior speed
+- Reduced speed during learning itself lowers cumulative loading
+- No contraindications for CTS; neutral posture and low force are inherently conservative
+- Compatible with night splints, anti-inflammatory protocols, and therapy programs
+- Counsel patients: input device change, not a medical device; does not replace clinical treatment
 
 </div>

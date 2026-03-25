@@ -8,38 +8,38 @@ hero_subtitle: Trigger finger isn't caused by typing — but typing makes it wor
 
 ## The Clinical Problem
 
-Trigger finger (stenosing tenosynovitis) occurs when the flexor tendon sheath becomes inflamed and narrowed at the **A1 pulley** — the first annular pulley at the base of the finger, located over the metacarpophalangeal (MCP) joint.
+Trigger finger (stenosing tenosynovitis) occurs when the flexor tendon sheath becomes inflamed and narrowed at the **A1 pulley** — the first annular pulley at the MCP joint.
 
 ### Etiology
 
-Trigger finger is **not typically caused by typing**. Common causes and risk factors include:
+Trigger finger is **not typically caused by typing**. Common risk factors:
 
-- **Repetitive forceful gripping** — occupations and activities involving sustained power grip (tools, instruments, steering wheels)
-- **Diabetes mellitus** — significantly elevated risk, particularly in insulin-dependent patients
+- **Repetitive forceful gripping** — sustained power grip (tools, instruments, steering wheels)
+- **Diabetes mellitus** — significantly elevated risk, especially insulin-dependent
 - **Rheumatoid arthritis** and other inflammatory joint conditions
 - **Hormonal factors** — higher prevalence in women aged 40-60
-- **Gout, amyloidosis**, and other conditions causing tendon or sheath thickening
-- **Idiopathic** — many cases have no clear precipitating factor
+- **Gout, amyloidosis** — tendon or sheath thickening
+- **Idiopathic** — many cases have no clear cause
 
 ### Anatomy
 
-The flexor tendons (FDP and FDS) pass through a series of annular and cruciform pulleys that hold the tendons close to the bone during flexion. The A1 pulley is the most proximal and the most common site of stenosis.
+The flexor tendons (FDP and FDS) pass through annular and cruciform pulleys that hold them close to bone. The A1 pulley is the most proximal and most common stenosis site.
 
-When the A1 pulley thickens or the tendon develops a nodular swelling:
+When the A1 pulley thickens or the tendon develops nodular swelling:
 
-- The tendon catches as it passes through the constricted pulley during flexion
-- The finger may **lock in a flexed position** and require passive extension to release
-- Repeated catching produces further inflammation, creating a self-reinforcing cycle
+- The tendon catches passing through the constricted pulley
+- The finger may **lock in flexion**, requiring passive extension to release
+- Repeated catching drives further inflammation — a self-reinforcing cycle
 
 ### Why Typing Aggravates It
 
-While typing does not cause trigger finger, it is one of the most problematic activities once the condition is present. The hallmark of trigger finger is that **active flexion provokes the catching**. The tendon slides smoothly in one direction but encounters resistance at the narrowed A1 pulley during the return. This means:
+Typing does not cause trigger finger, but **active flexion provokes the catching**. The tendon encounters resistance at the narrowed A1 pulley during return:
 
-- Every full flexion-extension cycle of the finger risks provoking a catching episode
-- The more frequently the finger flexes through its full range, the more irritated the pulley becomes
-- Inflammation → thickening → more catching → more inflammation
+- Every flexion-extension cycle risks a catching episode
+- Higher frequency means more pulley irritation
+- Inflammation drives thickening drives more catching
 
-Conventional typing demands exactly this motion: full flexion to press a key, full extension to release it, repeated thousands of times per hour. For a patient who needs to type for work, this sustained mechanical provocation can prevent the condition from resolving and significantly worsen symptoms.
+Conventional typing demands exactly this: full flexion to press, full extension to release, thousands of times per hour. For someone who types for work, this prevents resolution and worsens symptoms.
 
 </div>
 
@@ -47,18 +47,13 @@ Conventional typing demands exactly this motion: full flexion to press a key, fu
 
 ## Why Conventional Typing Is a Problem Once You Have It
 
-Regardless of how trigger finger originated, a patient who types for a living faces a specific mechanical problem. On a standard keyboard, each keystroke requires:
+Each keystroke requires:
 
-- **Full finger flexion** to depress the key (3-4 mm travel through the full arc of DIP/PIP flexion)
-- **Active extension** to lift the finger back to the home row position
-- **High repetition** — a typist performing 60-80 WPM generates thousands of full flexion-extension cycles per hour on the affected digit
+- **Full finger flexion** — 3-4 mm travel through the full DIP/PIP arc
+- **Active extension** — lifting back to home row
+- **High repetition** — 60-80 WPM generates thousands of cycles per hour
 
-This is the worst possible motion pattern for an inflamed A1 pulley. Each cycle:
-
-- Drags the thickened tendon or nodule through the stenotic pulley
-- Produces mechanical irritation at the site of inflammation
-- Risks triggering a catching or locking episode that interrupts work
-- Sustains the inflammatory cycle that prevents resolution
+The worst possible motion pattern for an inflamed A1 pulley. Each cycle drags the thickened tendon through the stenotic pulley, irritates the inflammation site, risks catching, and sustains the cycle preventing resolution.
 
 <div class="comparison" markdown="1">
 
@@ -96,29 +91,29 @@ This is the worst possible motion pattern for an inflamed A1 pulley. Each cycle:
 
 ## What Svalboard Changes
 
-The fundamental advantage of Svalboard for trigger finger is that **it eliminates the flexion-extension cycle entirely**.
+Svalboard **eliminates the flexion-extension cycle entirely**.
 
 ### No Full Flexion Required
 
-Svalboard keys activate via small lateral tilting movements — north, south, east, west — not by pressing downward through a flexion arc. The finger moves approximately 1-2 mm in any direction from its resting position. At no point does the finger need to flex through the range where the tendon catches at the A1 pulley.
+Keys activate via small lateral tilts — north, south, east, west — roughly 1-2 mm from resting position. The finger never flexes through the range where tendon catching occurs.
 
 ### No Active Extension Required
 
-On a conventional keyboard, the finger must actively extend after each keystroke to return to the home row. This is the phase where catching most often occurs — the thickened tendon or nodule struggles to slide back through the narrowed pulley.
+On a conventional keyboard, the finger must actively extend after each keystroke. This is when catching most often occurs — the thickened tendon struggles through the narrowed pulley.
 
-On Svalboard, the finger rests in its key cluster at all times. There is no "return to home row" motion. The finger never needs to extend against the resistance of the inflamed pulley.
+On Svalboard, the finger rests in its key cluster at all times. No "return to home row" motion. No extension against the inflamed pulley.
 
-### Custom Cluster Modifications for Trigger Finger
+### Custom Cluster Modifications
 
-The standard Svalboard design already eliminates most of the flexion-extension demand. For acute trigger finger episodes, an additional modification is available: the key cluster for the affected finger can be rebuilt with a **custom pitchable tower** that angles the cluster to further minimize any residual flexion demand on that specific digit.
+For acute episodes, the affected finger's key cluster can be rebuilt with a **custom pitchable tower** that angles the cluster to further minimize residual flexion demand.
 
-This is a targeted modification to the standard design, built for the specific finger experiencing the episode. In one documented case, this modification allowed a user to type through a month-long trigger finger episode without provoking catching. The ability to adjust the input surface to the finger — rather than forcing the finger to adapt to a flat keyboard — is a significant advantage during active episodes.
+One documented case: this modification allowed typing through a month-long episode without provoking catching.
 
 <!-- TODO: Add photos of the custom pitchable tower from Morgan -->
 
 ### Reduced Tendon Loading
 
-Even when the finger does move, the force required is approximately 20 gf (customizable down to 8-10 gf) with a breakaway profile that drops off steeply after initial actuation. The total mechanical work per keystroke is roughly 90% lower than a conventional switch. Less force means less tendon tension, less friction at the A1 pulley, and less provocation of the inflammatory cycle.
+Actuation force is approximately 20 gf (customizable to 8-10 gf) with a breakaway profile. Total mechanical work per keystroke is roughly 90% lower than a conventional switch. Less force, less tendon tension, less A1 pulley friction.
 
 </div>
 
@@ -132,7 +127,7 @@ Even when the finger does move, the force required is approximately 20 gf (custo
 
 ### Flexion-Extension Cycles
 
-Eliminated entirely — input uses lateral micro-movements, not the full flexion arc that provokes catching at the A1 pulley
+Eliminated — lateral micro-movements replace the full flexion arc that provokes catching
 
 </div>
 
@@ -140,7 +135,7 @@ Eliminated entirely — input uses lateral micro-movements, not the full flexion
 
 ### A1 Pulley Loading
 
-Near-zero tendon excursion through the A1 pulley during typing — the primary mechanical driver of stenosing tenosynovitis is removed
+Near-zero tendon excursion through the A1 pulley — the primary mechanical driver is removed
 
 </div>
 
@@ -148,7 +143,7 @@ Near-zero tendon excursion through the A1 pulley during typing — the primary m
 
 ### Typing Continuity
 
-Users can continue working through active trigger finger episodes without provoking catching or locking
+Users continue working through active episodes without provoking catching or locking
 
 </div>
 
@@ -156,7 +151,7 @@ Users can continue working through active trigger finger episodes without provok
 
 ### Recovery Support
 
-By eliminating the repetitive mechanical irritation, Svalboard supports the conditions needed for the inflammatory cycle to resolve
+Removing repetitive mechanical irritation lets the inflammatory cycle resolve
 
 </div>
 
@@ -164,7 +159,7 @@ By eliminating the repetitive mechanical irritation, Svalboard supports the cond
 
 <div class="callout success" markdown="1">
 
-**Clinical summary:** Trigger finger is driven by repetitive tendon excursion through a stenotic A1 pulley. Svalboard eliminates this motion entirely by replacing full-flexion keystrokes with lateral micro-movements. The finger never enters the range of motion where catching occurs, allowing continued typing during active episodes and supporting recovery by removing the mechanical provocation.
+**Clinical summary:** Trigger finger is driven by repetitive tendon excursion through a stenotic A1 pulley. Svalboard replaces full-flexion keystrokes with lateral micro-movements. The finger never enters the catching range, enabling continued typing and supporting recovery.
 
 </div>
 
@@ -184,18 +179,18 @@ By eliminating the repetitive mechanical irritation, Svalboard supports the cond
 - A1 pulley (annular pulley at the MCP joint)
 - Flexor tendon sheath
 
-**Key biomechanical change:** Svalboard eliminates the repetitive full flexion-extension cycle that drags the tendon through the stenotic A1 pulley. Input is achieved via 1-2 mm lateral tilting movements that do not require the finger to flex through its catching range.
+**Key biomechanical change:** Eliminates the repetitive full flexion-extension cycle. Input uses 1-2 mm lateral tilts that keep the finger out of its catching range.
 
 **Clinical use cases:**
 
-- **Active trigger finger episodes** — patients who need to continue typing during a flare without worsening the condition or provoking catching/locking
-- **Post-injection management** — after corticosteroid injection, reducing mechanical provocation supports the anti-inflammatory effect and reduces recurrence risk
-- **Conservative management** — for patients managing trigger finger with splinting and activity modification, Svalboard provides a concrete activity modification for the highest-repetition task
-- **Post-surgical recovery** — after A1 pulley release, Svalboard reduces tendon loading during return to keyboard work
-- **Recurrent trigger finger** — for patients with repeated episodes, eliminating the mechanical driver during typing may reduce recurrence frequency
+- **Active episodes** — continued typing without provoking catching/locking
+- **Post-injection** — reduced mechanical provocation supports anti-inflammatory effect
+- **Conservative management** — concrete activity modification for the highest-repetition task
+- **Post-surgical** — reduced tendon loading after A1 pulley release
+- **Recurrent trigger finger** — eliminating the mechanical driver may reduce recurrence
 
-**Customization note:** The standard Svalboard eliminates most flexion-extension demand. For acute episodes, a **custom pitchable tower modification** can be built for the specific affected finger, angling the key cluster to further reduce any residual flexion. This is a targeted modification to the standard design, not a standard feature. It has been used successfully in practice to allow a user to type through a month-long trigger finger episode without provoking catching.
+**Customization note:** For acute episodes, a **custom pitchable tower** can be built for the affected finger. Used successfully for a month-long episode without provoking catching.
 
-**Complementary interventions:** Svalboard is compatible with concurrent use of night splints, corticosteroid injections, and hand therapy protocols. It addresses the specific mechanical provocation of typing and does not replace clinical treatment.
+**Complementary interventions:** Compatible with night splints, corticosteroid injections, and hand therapy. Addresses the mechanical provocation of typing without replacing clinical treatment.
 
 </div>

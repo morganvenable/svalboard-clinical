@@ -32,7 +32,9 @@
       "Bash(curl:*)",
       "Bash(python3 -m json.tool)",
       "Bash(python -m json.tool)",
-      "WebFetch(domain:smart.servier.com)"
+      "WebFetch(domain:smart.servier.com)",
+      "Bash(echo \"---:*)",
+      "Bash(python3:*)"
     ]
   }
 }

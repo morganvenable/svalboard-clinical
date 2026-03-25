@@ -8,26 +8,26 @@ hero_subtitle: For hypermobility conditions, Svalboard replaces active stabiliza
 
 ## The Clinical Problem
 
-Ehlers-Danlos Syndrome and related hypermobility spectrum disorders are defined by deficient or dysfunctional connective tissue. In the hands and upper extremities, this produces a cascade of mechanical consequences that compound during sustained, repetitive tasks like typing.
+EDS and related hypermobility spectrum disorders produce deficient connective tissue. In the hands, this creates compounding mechanical problems during repetitive tasks like typing.
 
-**Ligamentous laxity and joint instability.** The collateral ligaments, volar plates, and joint capsules that passively constrain digit joints are structurally insufficient. MCP, PIP, and DIP joints may hyperextend, deviate laterally, or sublux under loads that a normal hand absorbs without effort. The wrist itself may be unstable, with excessive carpal translation and reduced passive constraint from the scapholunate and lunotriquetral ligaments.
+**Ligamentous laxity and joint instability.** Collateral ligaments, volar plates, and joint capsules are structurally insufficient. MCP, PIP, and DIP joints may hyperextend, deviate, or sublux under normal typing loads. The wrist may also be unstable.
 
-**Compensatory muscle co-contraction.** When passive structures cannot stabilize a joint, the nervous system compensates by activating muscles on both sides of the joint simultaneously. This co-contraction strategy works -- but at enormous metabolic and fatigue cost. Flexors and extensors fire together not to produce movement, but simply to prevent collapse. Every keystroke is preceded by a stabilization phase that a healthy hand performs passively via ligaments.
+**Compensatory muscle co-contraction.** When passive structures fail, the nervous system activates muscles on both sides of the joint simultaneously. Flexors and extensors fire together to prevent collapse -- a stabilization phase that a healthy hand handles passively via ligaments. The metabolic and fatigue cost is enormous.
 
-**Chronic fatigue and pain from overuse.** The muscles recruited for co-contraction were not designed for sustained isometric holds. They fatigue rapidly, develop trigger points, and generate chronic myofascial pain. The tendons crossing these joints experience increased friction and loading from the constant baseline tension. Patients report hand fatigue disproportionate to the apparent effort of typing.
+**Chronic fatigue and pain.** Co-contraction muscles fatigue rapidly, develop trigger points, and generate chronic myofascial pain. Tendons see increased friction from constant baseline tension. Patients report fatigue disproportionate to the apparent effort.
 
 **Common clinical findings in hypermobile typists:**
 
 - Wrist instability with pain on loading, especially in extension
-- MCP hyperextension during finger press, requiring active correction
+- MCP hyperextension during finger press
 - PIP swan-neck or hyperextension postures under load
 - Chronic tendon irritation at the wrist and digit flexor sheaths
 - Rapid fatigue of intrinsic and extrinsic hand muscles
-- Compensatory proximal tension -- forearm, shoulder, and cervical guarding
+- Compensatory proximal tension -- forearm, shoulder, cervical guarding
 
 <div class="diagram-container">
 <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Gray330.png" alt="Metacarpophalangeal joint anatomy showing collateral ligaments" style="max-width:100%; height:auto; border-radius:8px;">
-<p class="diagram-caption">Metacarpophalangeal (MCP) joint showing collateral ligaments and joint capsule. In Ehlers-Danlos syndrome, these ligaments are structurally insufficient, requiring compensatory muscle co-contraction for joint stability. <em>Source: Gray's Anatomy (1918), public domain</em></p>
+<p class="diagram-caption">MCP joint showing collateral ligaments and joint capsule. In EDS, these ligaments are structurally insufficient, requiring compensatory muscle co-contraction for stability. <em>Source: Gray's Anatomy (1918), public domain</em></p>
 </div>
 
 </div>
@@ -36,13 +36,13 @@ Ehlers-Danlos Syndrome and related hypermobility spectrum disorders are defined 
 
 ## Mechanical Issue in Conventional Typing
 
-Conventional keyboards demand a mode of hand use that is fundamentally incompatible with hypermobile connective tissue.
+Conventional keyboards are fundamentally incompatible with hypermobile connective tissue.
 
-**Continuous joint stabilization via muscle activation.** On a standard keyboard, the hand hovers above the keys with no structural support. Every joint from the wrist through the fingertips must be actively stabilized by muscle contraction. In a hypermobile hand, this stabilization load is dramatically amplified -- the muscles are not just positioning the fingers, they are preventing the joints from collapsing into hyperextension on every keystroke.
+**Continuous joint stabilization via muscle activation.** The hand hovers with no support. Every joint from wrist to fingertips must be actively stabilized. In a hypermobile hand, muscles must prevent joints from collapsing into hyperextension on every keystroke.
 
-**Repetitive motion through unstable joints.** Each keystroke requires the digit to travel 2-4mm through a full press-and-release cycle. In a hypermobile hand, this excursion occurs through joints that lack passive end-range constraint. The joint may hyperextend at the bottom of the press, requiring active muscular correction on every cycle. Over thousands of keystrokes per hour, this correction demand accumulates into profound fatigue.
+**Repetitive motion through unstable joints.** Each keystroke requires 2-4mm of travel through joints lacking passive end-range constraint. Joints may hyperextend at the bottom of the press. Over thousands of keystrokes per hour, the correction demand compounds into profound fatigue.
 
-**High reliance on extrinsic muscles crossing multiple joints.** Conventional typing recruits the flexor digitorum profundus and superficialis -- long muscles whose tendons cross the wrist, MCP, PIP, and DIP joints. In a hypermobile hand, these multi-joint muscles must simultaneously produce motion at the fingertip and resist hyperextension at every joint they cross. The control problem is dramatically more complex and energy-intensive than in a normally constrained hand.
+**High reliance on extrinsic multi-joint muscles.** Conventional typing recruits FDP and FDS -- long muscles crossing the wrist, MCP, PIP, and DIP joints. In a hypermobile hand, these muscles must simultaneously produce fingertip motion and resist hyperextension at every joint they cross.
 
 <div class="comparison" markdown="1">
 
@@ -50,13 +50,13 @@ Conventional keyboards demand a mode of hand use that is fundamentally incompati
 
 ### Conventional Keyboard + Hypermobile Hand
 
-- Hand hovers unsupported -- every joint must be actively stabilized
+- Hand hovers unsupported -- every joint actively stabilized
 - 2-4mm key travel through passively unstable joints
 - MCP joints tend toward hyperextension on each press
-- Extrinsic flexors must both move the finger and stabilize intermediate joints
-- Co-contraction of flexors and extensors required throughout the keystroke cycle
-- Wrist instability amplified by sustained extension posture
-- Rapid fatigue, pain, and subluxation risk with sustained typing
+- Extrinsic flexors must move the finger and stabilize intermediate joints
+- Flexor/extensor co-contraction required throughout the keystroke cycle
+- Wrist instability amplified by sustained extension
+- Rapid fatigue, pain, and subluxation risk
 
 </div>
 
@@ -67,10 +67,10 @@ Conventional keyboards demand a mode of hand use that is fundamentally incompati
 - Hand rests fully supported in a contoured cup -- no hover, no active stabilization
 - 1-2 mm key travel -- joints barely move
 - MCP joints remain in neutral, supported position
-- Minimal extrinsic flexor recruitment -- intrinsic muscles handle the tiny forces required
-- Co-contraction demand drops dramatically with external structural support
-- Wrist in neutral posture, continuously supported
-- Sustained typing becomes feasible without fatigue spiral
+- Minimal extrinsic flexor recruitment -- intrinsics handle the tiny forces
+- Co-contraction demand drops dramatically
+- Wrist in neutral, continuously supported
+- Sustained typing feasible without fatigue spiral
 
 </div>
 
@@ -82,17 +82,17 @@ Conventional keyboards demand a mode of hand use that is fundamentally incompati
 
 ## What Svalboard Changes
 
-The central intervention for hypermobile hands is replacing active muscular stabilization with passive structural stabilization provided by the device itself. This is not a minor ergonomic adjustment -- it is a fundamental change in the mechanical strategy the hand uses to type.
+The core intervention: replace active muscular stabilization with passive structural stabilization provided by the device.
 
-**External stabilization via palm support.** The hand rests in a contoured cup that supports the palm, thenar eminence, and hypothenar eminence continuously. The wrist is held in neutral. The hand does not hover, reach, or grip. This external support structure performs the role that intact ligaments would perform in a non-hypermobile hand: it constrains the joints passively so the muscles do not have to.
+**External stabilization via palm support.** The hand rests in a contoured cup supporting the palm, thenar eminence, and hypothenar eminence. Wrist stays neutral. No hovering, reaching, or gripping. The device constrains joints passively so muscles do not have to.
 
-**Reduces need for muscular co-contraction.** When the device provides structural constraint, the nervous system can reduce or eliminate the co-contraction strategy. Flexors and extensors no longer need to fire simultaneously to prevent joint collapse. This directly reduces the metabolic cost of typing and eliminates the primary fatigue driver for hypermobile patients.
+**Reduces co-contraction demand.** With structural constraint from the device, the nervous system can drop co-contraction. Flexors and extensors no longer fire simultaneously to prevent collapse. This directly cuts the metabolic cost of typing and eliminates the primary fatigue driver.
 
-**Minimal joint excursion reduces stress on unstable MCP/PIP joints.** Key activation requires only 1-2 mm of travel. The digits barely move. Joints that would hyperextend or sublux through a full conventional keystroke never reach their unstable end range. The entire keystroke occurs within the safe, mid-range zone where even lax ligaments provide some constraint.
+**Minimal joint excursion protects unstable joints.** Key activation requires 1-2 mm of travel. Joints never reach their unstable end range. The entire keystroke stays within the safe mid-range zone where even lax ligaments provide some constraint.
 
-**Encourages short-range intrinsic muscle use.** The minimal force and excursion requirements shift effort from long extrinsic muscles to short intrinsic muscles (lumbricals, interossei). Intrinsic muscles act within the hand, cross fewer joints, and are inherently more stabilizing because they produce MCP flexion with IP extension -- the opposite of the hyperextension pattern that plagues hypermobile typists.
+**Encourages intrinsic muscle use.** Low force and minimal excursion shift effort from long extrinsic muscles to lumbricals and interossei. These muscles cross fewer joints and produce MCP flexion with IP extension -- the opposite of the hyperextension pattern.
 
-**Reduces shear forces across lax connective tissues.** With minimal excursion, minimal force, and continuous support, the shear and translational forces across joint capsules, volar plates, and collateral ligaments are dramatically reduced. This is directly protective for tissues that are structurally insufficient and vulnerable to microtrauma and progressive laxity.
+**Reduces shear forces across lax tissues.** Minimal excursion, minimal force, and continuous support dramatically reduce shear and translational forces across joint capsules, volar plates, and collateral ligaments.
 
 
 
@@ -107,32 +107,32 @@ The central intervention for hypermobile hands is replacing active muscular stab
 <div class="stat-card" markdown="1">
 <span class="stat-arrow down"></span>
 <strong>Joint Strain</strong>
-<p>1-2 mm travel keeps joints in mid-range where even lax ligaments provide some passive constraint</p>
+<p>1-2 mm travel keeps joints in mid-range where even lax ligaments provide passive constraint</p>
 </div>
 
 <div class="stat-card" markdown="1">
 <span class="stat-arrow down"></span>
 <strong>Muscle Fatigue</strong>
-<p>External support eliminates the co-contraction stabilization strategy that drains hypermobile patients during typing</p>
+<p>External support eliminates co-contraction, the primary fatigue driver for hypermobile patients</p>
 </div>
 
 <div class="stat-card" markdown="1">
 <span class="stat-arrow down"></span>
 <strong>Co-contraction Demand</strong>
-<p>Device-provided structural constraint replaces bilateral muscle firing, reducing metabolic cost per keystroke by an order of magnitude</p>
+<p>Structural constraint replaces bilateral muscle firing, reducing metabolic cost per keystroke by an order of magnitude</p>
 </div>
 
 <div class="stat-card" markdown="1">
 <span class="stat-arrow up"></span>
 <strong>Typing Tolerance</strong>
-<p>Patients who could type for 10-15 minutes before fatigue report sustained sessions of an hour or more without the characteristic EDS hand fatigue</p>
+<p>Patients limited to 10-15 minutes report sustained sessions of an hour or more without characteristic EDS hand fatigue</p>
 </div>
 
 </div>
 
 <div class="callout clinical-summary" markdown="1">
 
-**The fundamental shift**: In hypermobility conditions, the central problem is that passive structures (ligaments, joint capsules, volar plates) cannot do their job. The body compensates by converting a passive stabilization problem into an active one -- using muscles to do what connective tissue should. This works, but at unsustainable cost. Svalboard converts the problem back: it provides passive, external, structural stabilization so the muscles can return to their intended role of producing movement rather than preventing collapse. The hand does not need to be strong to type on Svalboard. It needs to be present.
+**The fundamental shift**: Passive structures (ligaments, capsules, volar plates) cannot do their job. The body compensates with active stabilization -- muscles doing what connective tissue should. This works, but at unsustainable cost. Svalboard provides passive, external stabilization so muscles can return to producing movement. The hand does not need to be strong to type. It needs to be present.
 
 </div>
 
@@ -146,19 +146,19 @@ The central intervention for hypermobile hands is replacing active muscular stab
 
 **Condition family:** Ehlers-Danlos Syndrome (all subtypes), Hypermobility Spectrum Disorders, Marfan Syndrome, and other heritable connective tissue disorders affecting joint stability.
 
-**Structures involved:** MCP joints, PIP joints, DIP joints, wrist carpal complex, collateral ligaments, volar plates, joint capsules, flexor and extensor tendons, intrinsic and extrinsic hand muscles.
+**Structures involved:** MCP, PIP, and DIP joints; wrist carpal complex; collateral ligaments; volar plates; joint capsules; flexor/extensor tendons; intrinsic and extrinsic hand muscles.
 
-**Core mechanical problem:** Ligamentous laxity prevents passive joint stabilization. The neuromuscular system compensates with continuous co-contraction of antagonist muscle groups, producing rapid fatigue, chronic myofascial pain, and progressive joint irritation during repetitive tasks.
+**Core mechanical problem:** Ligamentous laxity prevents passive joint stabilization. The neuromuscular system compensates with continuous antagonist co-contraction, producing rapid fatigue, chronic myofascial pain, and progressive joint irritation.
 
-**Key biomechanical change with Svalboard:** Passive structural stabilization (provided by the device's contoured hand support and minimal-excursion key activation) replaces active muscular stabilization (co-contraction). This eliminates the primary fatigue and pain driver for hypermobile patients during typing.
+**Key biomechanical change with Svalboard:** Passive structural stabilization (contoured support, minimal-excursion keys) replaces active muscular co-contraction. Eliminates the primary fatigue and pain driver during typing.
 
 **Specific mechanisms:**
 
-- Full palmar support in contoured cup eliminates hover and grip demand
-- 1-2 mm key travel keeps joints in safe mid-range, avoiding hyperextension
-- Intrinsic muscle activation replaces extrinsic multi-joint muscle recruitment
-- Neutral wrist posture is maintained passively by device geometry
-- Shear and translational forces across lax connective tissues are minimized
+- Full palmar support eliminates hover and grip demand
+- 1-2 mm key travel keeps joints in safe mid-range
+- Intrinsic muscle activation replaces extrinsic multi-joint recruitment
+- Neutral wrist posture maintained passively by device geometry
+- Shear forces across lax connective tissues minimized
 
 **Relevant diagnoses (ICD-10):**
 
@@ -169,8 +169,8 @@ The central intervention for hypermobile hands is replacing active muscular stab
 - M79.3 -- Panniculitis, unspecified (associated connective tissue inflammation)
 - G90.1 -- Familial dysautonomia (commonly comorbid, relevant to fatigue)
 
-**Clinical expectation:** Patients with hypermobility conditions who have failed conventional ergonomic interventions (split keyboards, tenting, wrist rests) may achieve sustainable typing tolerance with Svalboard because the intervention addresses the root mechanical problem -- insufficient passive stabilization -- rather than repositioning the hand within the same unstable mechanical paradigm.
+**Clinical expectation:** Patients who have failed conventional ergonomic interventions may achieve sustainable typing tolerance because Svalboard addresses the root problem -- insufficient passive stabilization.
 
-**Patient selection notes:** Svalboard is appropriate across the spectrum of hypermobility severity. Patients with severe MCP/PIP instability or recurrent subluxation during typing are likely to experience the most dramatic benefit, as these patients have the highest co-contraction burden on conventional keyboards. Patients with milder hypermobility who experience disproportionate hand fatigue during typing are also strong candidates.
+**Patient selection notes:** Appropriate across hypermobility severity. Patients with severe MCP/PIP instability or recurrent subluxation carry the highest co-contraction burden and will see the most benefit. Milder hypermobility with disproportionate hand fatigue is also a strong indication.
 
 </div>

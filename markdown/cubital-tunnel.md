@@ -1,48 +1,48 @@
 ---
 title: Cubital Tunnel Syndrome
 hero_title: Reduce Ulnar Nerve Strain by Unloading the Entire Arm
-hero_subtitle: Cubital tunnel is not just a wrist problem — it's a proximal load problem. Svalboard addresses it at the elbow and shoulder chain level.
+hero_subtitle: Cubital tunnel is a proximal load problem. Svalboard addresses it at the elbow and shoulder chain level.
 ---
 
 <div class="section problem" markdown="1">
 
 ## The Clinical Problem
 
-Cubital tunnel syndrome is the second most common peripheral nerve compression neuropathy of the upper extremity. The ulnar nerve passes through the cubital tunnel at the posteromedial elbow, where it is uniquely vulnerable to two distinct mechanisms of injury: **compression** and **traction**.
+Cubital tunnel syndrome is the second most common compressive neuropathy of the upper extremity. The ulnar nerve passes through the cubital tunnel at the posteromedial elbow, vulnerable to both **compression** and **traction**.
 
 ### Anatomy of the Cubital Tunnel
 
-The cubital tunnel is a fibro-osseous channel at the medial elbow formed by:
+The cubital tunnel is a fibro-osseous channel at the medial elbow:
 
-- **Floor:** The medial collateral ligament and the elbow joint capsule
-- **Walls:** The medial epicondyle of the humerus (anteriorly) and the olecranon process of the ulna (posteriorly)
-- **Roof:** The arcuate ligament (Osborne's band), a fascial band that bridges the two heads of the flexor carpi ulnaris (FCU)
+- **Floor:** Medial collateral ligament and elbow joint capsule
+- **Walls:** Medial epicondyle (anterior) and olecranon (posterior)
+- **Roof:** Arcuate ligament (Osborne's band), bridging the two FCU heads
 
-The ulnar nerve enters the tunnel from the posterior compartment of the arm, passing behind the medial epicondyle through the condylar groove, then beneath Osborne's band into the FCU muscle belly. This path exposes the nerve to compression at multiple points and to traction forces during elbow flexion.
+The nerve passes behind the medial epicondyle through the condylar groove, then beneath Osborne's band into the FCU. This path exposes it to compression at multiple points and traction during flexion.
 
 **During elbow flexion:**
 
-- The distance between the medial epicondyle and olecranon increases, stretching Osborne's band and flattening the tunnel
-- Intraneural pressure rises up to 6-fold at 90 degrees of flexion compared to extension
-- The nerve elongates 4.7mm on average, producing longitudinal traction
-- The medial head of the triceps can sublux over the medial epicondyle, adding dynamic compression
+- Epicondyle-olecranon distance increases, stretching Osborne's band and flattening the tunnel
+- Intraneural pressure rises up to 6-fold at 90 degrees vs. extension
+- The nerve elongates 4.7mm on average under longitudinal traction
+- The medial triceps head can sublux over the epicondyle, adding dynamic compression
 
 ### Ulnar Nerve Innervation
 
-The ulnar nerve innervates the majority of the intrinsic hand muscles responsible for fine motor control and grip coordination:
+The ulnar nerve innervates most intrinsic hand muscles for fine motor control and grip:
 
-- **Interossei** (all dorsal and palmar) -- finger abduction, adduction, and MCP flexion with IP extension
+- **Interossei** (all dorsal and palmar) -- finger abduction, adduction, MCP flexion with IP extension
 - **Lumbricals** (ring and small finger) -- MCP flexion with IP extension
 - **Adductor pollicis** -- thumb adduction for pinch and grip
-- **Hypothenar muscles** (abductor digiti minimi, flexor digiti minimi, opponens digiti minimi)
-- **Flexor carpi ulnaris** and medial half of **flexor digitorum profundus** in the forearm
+- **Hypothenar muscles** (AbDM, FDM, ODM)
+- **Flexor carpi ulnaris** and medial half of **flexor digitorum profundus**
 
-Loss of ulnar nerve function produces measurable weakness in pinch strength, grip coordination, and fine motor dexterity -- all functions required for sustained keyboard use.
+Ulnar nerve dysfunction weakens pinch strength, grip coordination, and fine motor dexterity -- all required for sustained keyboard use.
 
 <div class="diagram-container">
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/e/e2/Gray818.png" alt="Ulnar nerve anatomy from brachial plexus through arm and hand" style="max-width:100%; height:auto; border-radius:8px;">
-<p class="diagram-caption">The ulnar nerve courses from the brachial plexus through the arm, passes behind the medial epicondyle at the cubital tunnel, and continues into the hand where it innervates the intrinsic muscles. <em>Source: Gray's Anatomy (1918), public domain</em></p>
+<p class="diagram-caption">The ulnar nerve courses from the brachial plexus through the arm, passes behind the medial epicondyle at the cubital tunnel, and innervates the intrinsic hand muscles. <em>Source: Gray's Anatomy (1918), public domain</em></p>
 </div>
 
 </div>
@@ -51,36 +51,36 @@ Loss of ulnar nerve function produces measurable weakness in pinch strength, gri
 
 ## Mechanical Issue in Conventional Typing
 
-Conventional keyboard use sustains exactly the postures and loading patterns that provoke cubital tunnel syndrome. The problem is not limited to the elbow -- it involves the entire upper extremity chain.
+Conventional keyboards sustain the exact postures that provoke cubital tunnel syndrome across the entire upper extremity chain.
 
 ### Sustained Elbow Flexion
 
-Standard desk ergonomics position the elbows at 90 degrees or more of flexion. Most keyboard users exceed this angle, particularly when the keyboard is too high, too far forward, or when the chair height is incorrect. At 90 degrees of elbow flexion:
+Standard desk ergonomics hold elbows at 90+ degrees of flexion. At 90 degrees:
 
-- Cubital tunnel volume decreases by approximately 55%
-- Intraneural pressure in the ulnar nerve increases 6-fold over extension values
-- The nerve elongates and is placed under longitudinal traction
-- Osborne's band tightens, converting from a lax fascial structure to a compressive roof
+- Cubital tunnel volume decreases ~55%
+- Intraneural pressure increases 6-fold over extension
+- The nerve elongates under longitudinal traction
+- Osborne's band tightens into a compressive roof
 
-This posture is sustained for hours. The nerve does not get intermittent relief.
+This posture is sustained for hours with no relief.
 
 ### Forearm Pronation and Unsupported Arms
 
-Conventional keyboards require full forearm pronation to position the fingers over the keys. This rotational posture:
+Full forearm pronation on conventional keyboards:
 
-- Increases tension on the ulnar nerve as it wraps around the medial epicondyle
-- Engages the pronator teres and pronator quadratus continuously
-- Increases overall forearm flexor compartment tone, adding bulk-related compression near the cubital tunnel exit
+- Increases ulnar nerve tension around the medial epicondyle
+- Engages pronator teres and quadratus continuously
+- Raises forearm flexor compartment tone near the cubital tunnel exit
 
-With the arms unsupported -- hovering over the keyboard or resting only at the wrist -- the entire upper limb must be stabilized by proximal muscles. This adds load at every level.
+Unsupported arms require proximal muscles to stabilize the entire limb, adding load at every level.
 
 ### Proximal Compensation Patterns
 
-When the hand and forearm are unsupported, the body compensates:
+Unsupported hands and forearms drive compensatory loading:
 
-- **Shoulder elevation:** Upper trapezius and levator scapulae engage to hold the arm in position, increasing neural tension along the entire brachial plexus
-- **Wrist extension stabilization:** Forearm extensors lock the wrist in extension, increasing compartment pressure and indirectly compressing the ulnar nerve at the cubital tunnel
-- **Grip-hover cycling:** The hand repeatedly grips (engages ulnar-innervated intrinsics) then hovers (engages proximal stabilizers), creating cumulative fatigue across the entire nerve distribution
+- **Shoulder elevation:** Trapezius and levator scapulae engage, increasing brachial plexus tension
+- **Wrist extension:** Forearm extensors lock the wrist, raising compartment pressure
+- **Grip-hover cycling:** Alternating intrinsic grip and proximal stabilization creates cumulative fatigue across the nerve distribution
 
 <div class="comparison" markdown="1">
 
@@ -88,15 +88,15 @@ When the hand and forearm are unsupported, the body compensates:
 
 ### Conventional Keyboard
 
-- Elbows flexed to 90-120 degrees for hours
-- Forearms fully pronated against a flat surface
-- Arms unsupported -- shoulder and trapezius stabilize the limb
-- Wrist extensors engaged to hold the hand above the keyboard
-- Ulnar-innervated intrinsics repeatedly loaded for pinch and key targeting
-- Intraneural pressure elevated throughout the work session
-- No mechanism for intermittent ulnar nerve unloading
+- Elbows flexed 90-120 degrees for hours
+- Forearms fully pronated
+- Arms unsupported -- shoulder and trapezius stabilize
+- Wrist extensors engaged continuously
+- Ulnar-innervated intrinsics repeatedly loaded
+- Intraneural pressure elevated throughout
+- No ulnar nerve unloading
 
-**Result:** Sustained compression + traction on the ulnar nerve at the cubital tunnel, compounded by proximal chain tension from shoulder to fingertip
+**Result:** Sustained compression + traction, compounded by proximal chain tension
 
 </div>
 
@@ -104,15 +104,15 @@ When the hand and forearm are unsupported, the body compensates:
 
 ### Svalboard
 
-- Elbows rest at a more open angle with palm fully supported
-- Forearms in neutral rotation -- no forced pronation
+- Elbows at more open angle, palm fully supported
+- Forearms in neutral rotation
 - Arms fully supported -- shoulder and trapezius disengaged
-- Wrist in neutral -- no sustained extensor engagement
-- Ultra-low keystroke force reduces demand on ulnar-innervated intrinsics
-- Intraneural pressure at baseline resting levels
-- Continuous postural unloading throughout work
+- Wrist neutral -- no extensor engagement
+- Ultra-low force reduces intrinsic demand
+- Intraneural pressure at baseline
+- Continuous postural unloading
 
-**Result:** Ulnar nerve at rest -- minimal compression, minimal traction, minimal proximal chain contribution to neural tension
+**Result:** Ulnar nerve at rest -- minimal compression, traction, and proximal tension
 
 </div>
 
@@ -124,34 +124,34 @@ When the hand and forearm are unsupported, the body compensates:
 
 ## What Svalboard Changes
 
-Cubital tunnel syndrome is not a single-site problem. The ulnar nerve is a continuous structure that runs from the cervical spine to the fingertips. Tension at any point along this chain increases tension everywhere else. This is the principle of **adverse neural tension** -- and it is why elbow-only interventions often fail.
+The ulnar nerve runs continuously from cervical spine to fingertips. Tension anywhere increases tension everywhere -- **adverse neural tension**. Elbow-only interventions often fail for this reason.
 
-Svalboard intervenes at multiple points along the neural tension chain simultaneously.
+Svalboard intervenes at multiple points along the chain simultaneously.
 
-### Full Palm Support Reduces Elbow Flexion Demand
+### Full Palm Support Reduces Elbow Flexion
 
-The hand cups into the Svalboard and rests at all times. There is no hovering, no reaching, no repositioning. Because the hand does not need to be held above a flat surface, the elbow can rest at a more open angle. Even a modest reduction in elbow flexion -- from 110 degrees to 80 degrees -- produces a significant drop in intraneural pressure.
+Your hand cups into the Svalboard and rests at all times. No hovering, reaching, or repositioning. The elbow can rest at a more open angle. Even a modest reduction -- 110 to 80 degrees -- significantly drops intraneural pressure.
 
-### Neutral Posture Reduces Neural Tension Globally
+### Neutral Posture Reduces Neural Tension
 
-With the forearm in neutral rotation (eliminating pronation), the wrist in neutral (eliminating extension), and the shoulder at rest (eliminating elevation), the ulnar nerve is in its slackest possible configuration. There is no traction along the nerve, no compression at the cubital tunnel, and no adverse tension from proximal chain loading.
+Forearm in neutral rotation, wrist in neutral, shoulder at rest. The ulnar nerve sits in its slackest configuration. No traction, no cubital tunnel compression, no adverse tension from proximal loading.
 
-### Reduced Proximal Stabilization Demands
+### Reduced Proximal Stabilization
 
-On a conventional keyboard, the trapezius, deltoid, and rotator cuff muscles work continuously to stabilize the unsupported arm. This engagement increases brachial plexus tension and adds a traction component to the ulnar nerve that originates above the elbow. Svalboard's full arm support eliminates this proximal contribution entirely.
+On a conventional keyboard, trapezius, deltoid, and rotator cuff work continuously to stabilize unsupported arms. This increases brachial plexus tension and adds traction above the elbow. Full arm support eliminates this entirely.
 
-### Lower Force Reduces Intrinsic Muscle Fatigue
+### Lower Force Reduces Intrinsic Fatigue
 
-The ulnar nerve innervates most of the intrinsic hand muscles. When these muscles fatigue under sustained typing load, their ability to stabilize the MCP joints and coordinate fine movements degrades. This triggers compensatory recruitment of extrinsic muscles, which increases forearm compartment pressure and secondarily loads the cubital tunnel. Svalboard's ultra-low activation force keeps intrinsic demand well below the fatigue threshold.
+When ulnar-innervated intrinsics fatigue, MCP stabilization and fine coordination degrade. Extrinsic muscles compensate, raising forearm compartment pressure and loading the cubital tunnel. Ultra-low activation force keeps intrinsic demand well below fatigue threshold.
 
 ### Cumulative Neural Tension Reduction
 
-The combined effect is a reduction in neural tension at every point along the ulnar nerve pathway:
+Net effect -- reduced tension at every point:
 
-- **Cervical spine:** Reduced trapezius engagement decreases upper trunk brachial plexus tension
+- **Cervical spine:** Less trapezius engagement, lower brachial plexus tension
 - **Shoulder:** Arm supported, deltoid and rotator cuff unloaded
-- **Elbow:** More open flexion angle, reduced intraneural pressure
-- **Forearm:** Neutral rotation, reduced compartment pressure
+- **Elbow:** More open angle, lower intraneural pressure
+- **Forearm:** Neutral rotation, lower compartment pressure
 - **Wrist/Hand:** Neutral posture, minimal intrinsic demand
 
 
@@ -162,39 +162,39 @@ The combined effect is a reduction in neural tension at every point along the ul
 
 ## Clinical Impact
 
-The combined postural and force reduction that Svalboard provides addresses all four mechanistic contributors to cubital tunnel syndrome simultaneously. Rather than isolating one variable (elbow angle, nerve glide, splinting), it reduces the total mechanical burden on the ulnar nerve across its entire path.
+Svalboard addresses all four mechanistic contributors to cubital tunnel syndrome simultaneously, reducing total mechanical burden on the ulnar nerve across its entire path.
 
 <div class="stats-row" markdown="1">
 
 <div class="stat-card" markdown="1">
 <span class="stat-arrow down"></span>
 <strong>Ulnar Nerve Irritation</strong>
-<p>Reduced intraneural pressure through more open elbow angle, neutral forearm rotation, and elimination of sustained flexion posture</p>
+<p>Lower intraneural pressure via open elbow angle, neutral rotation, and elimination of sustained flexion</p>
 </div>
 
 <div class="stat-card" markdown="1">
 <span class="stat-arrow down"></span>
 <strong>Shoulder/Trapezius Compensation</strong>
-<p>Full arm support eliminates the need for proximal stabilization, removing a major contributor to adverse neural tension along the brachial plexus</p>
+<p>Full arm support eliminates proximal stabilization, removing a major source of adverse neural tension</p>
 </div>
 
 <div class="stat-card" markdown="1">
 <span class="stat-arrow down"></span>
 <strong>Cumulative Neural Tension</strong>
-<p>Slack introduced at every point along the nerve chain -- cervical, shoulder, elbow, forearm, wrist -- produces a multiplicative reduction in total nerve strain</p>
+<p>Slack at every point -- cervical, shoulder, elbow, forearm, wrist -- produces multiplicative reduction in nerve strain</p>
 </div>
 
 <div class="stat-card" markdown="1">
 <span class="stat-arrow down"></span>
 <strong>Elbow Flexion Demand</strong>
-<p>Palm-supported resting posture allows a more open elbow angle, reducing cubital tunnel compression and longitudinal nerve traction</p>
+<p>Palm-supported posture allows a more open elbow angle, reducing compression and longitudinal traction</p>
 </div>
 
 </div>
 
 <div class="callout" markdown="1">
 
-**Clinical Summary:** Svalboard reduces ulnar nerve strain not by repositioning the elbow, but by unloading the entire upper extremity chain. Full palm support, neutral forearm rotation, ultra-low keystroke force, and elimination of proximal compensation patterns collectively reduce intraneural pressure, longitudinal traction, and adverse neural tension across the full length of the ulnar nerve. For patients with cubital tunnel syndrome who must continue typing, this represents a structural intervention at every level of the kinetic chain that contributes to their pathology.
+**Clinical Summary:** Svalboard reduces ulnar nerve strain by unloading the entire upper extremity chain. Full palm support, neutral rotation, ultra-low force, and elimination of proximal compensation collectively reduce intraneural pressure, traction, and adverse neural tension across the full nerve length. For patients who must continue typing, this is a structural intervention at every level of the kinetic chain.
 
 </div>
 
@@ -210,7 +210,7 @@ The combined postural and force reduction that Svalboard provides addresses all 
 
 **Primary:** Ulnar nerve at the cubital tunnel (posteromedial elbow)
 
-**Secondary:** Ulnar nerve along its full course -- cervical roots (C8-T1), medial cord of brachial plexus, posterior compartment of arm, cubital tunnel, FCU arcade, Guyon's canal
+**Secondary:** Full ulnar nerve course -- C8-T1 roots, medial cord, posterior arm compartment, cubital tunnel, FCU arcade, Guyon's canal
 
 ### Key Biomechanical Changes
 
@@ -219,45 +219,43 @@ The combined postural and force reduction that Svalboard provides addresses all 
 | Elbow flexion angle | 90-120° sustained | More open resting angle |
 | Intraneural pressure | Elevated (up to 6x baseline) | Near baseline |
 | Neural tension (longitudinal) | High -- sustained traction | Low -- nerve in slack |
-| Proximal stabilization demand | High -- trapezius, deltoid, rotator cuff continuously engaged | Minimal -- arm fully supported |
+| Proximal stabilization demand | High -- trapezius, deltoid, rotator cuff engaged | Minimal -- arm fully supported |
 | Forearm rotation | Full pronation | Neutral |
 | Wrist posture | 20-30° extension | Neutral |
-| Keystroke force demand | 45-60g per key | Fraction of conventional |
+| Keystroke force | 45-60g per key | Fraction of conventional |
 
 ### Muscles Affected
 
 **Decreased demand:**
 
-- **Trapezius / Levator scapulae** -- No longer required for arm suspension; reduces cervical contribution to adverse neural tension
-- **Deltoid / Rotator cuff** -- Arm rests on device; shoulder stabilization demand eliminated
-- **Forearm flexors (FCU, FDP medial half)** -- Ultra-low force reduces demand on ulnar-innervated forearm muscles
-- **Forearm extensors (ECU, ECRL/B)** -- No sustained wrist extension required
-- **Pronator teres / Pronator quadratus** -- Neutral rotation eliminates continuous pronation engagement
+- **Trapezius / Levator scapulae** -- No arm suspension; reduces cervical adverse neural tension
+- **Deltoid / Rotator cuff** -- Arm rests on device; shoulder stabilization eliminated
+- **Forearm flexors (FCU, FDP medial)** -- Ultra-low force reduces ulnar-innervated muscle demand
+- **Forearm extensors (ECU, ECRL/B)** -- No sustained wrist extension
+- **Pronator teres / quadratus** -- Neutral rotation eliminates continuous pronation
 
 **Reduced fatigue in ulnar-innervated intrinsics:**
 
-- **Interossei** -- Minimal force required for key activation; reduced MCP stabilization demand
-- **Lumbricals (ring, small)** -- Not loaded by heavy keystrokes
-- **Adductor pollicis** -- No pinch or lateral grip required
-- **Hypothenar group** -- Hand rests in supported cup; no active positioning needed
+- **Interossei** -- Minimal activation force; reduced MCP stabilization demand
+- **Lumbricals (ring, small)** -- No heavy keystroke loading
+- **Adductor pollicis** -- No pinch or lateral grip
+- **Hypothenar group** -- Hand rests supported; no active positioning
 
 ### When to Consider Svalboard
 
-- Patient has cubital tunnel syndrome and must continue keyboard work
-- Conservative measures (splinting, nerve gliding, activity modification) provide incomplete relief
-- Symptoms worsen with sustained typing despite ergonomic keyboard use
-- Patient demonstrates proximal compensation patterns (shoulder elevation, forearm tension) during typing
-- EMG/NCS confirms ulnar neuropathy at the elbow and the patient is not a surgical candidate or is post-surgical and returning to work
-- Patient has bilateral symptoms suggesting systemic postural/loading contribution
+- Cubital tunnel syndrome with ongoing keyboard work requirements
+- Incomplete relief from splinting, nerve gliding, or activity modification
+- Symptoms worsen with sustained typing despite ergonomic keyboards
+- Proximal compensation patterns visible during typing
+- EMG/NCS-confirmed ulnar neuropathy; not a surgical candidate or post-surgical return to work
+- Bilateral symptoms suggesting systemic postural contribution
 
 ### Complementary Interventions
 
-Svalboard works alongside standard cubital tunnel management:
-
-- **Night splinting** -- Prevents elbow flexion during sleep; Svalboard prevents it during work
-- **Nerve gliding exercises** -- Svalboard reduces the mechanical irritation that makes nerve gliding painful
-- **Postural retraining** -- Svalboard structurally enforces the posture that therapy teaches
-- **Activity modification** -- Svalboard IS the modification; the patient does not need to stop typing
-- **Post-surgical return to work** -- Svalboard provides a low-demand typing environment during recovery
+- **Night splinting** -- Prevents sleep flexion; Svalboard prevents work flexion
+- **Nerve gliding** -- Svalboard reduces irritation that makes gliding painful
+- **Postural retraining** -- Svalboard structurally enforces therapeutic posture
+- **Activity modification** -- Svalboard is the modification; typing continues
+- **Post-surgical return** -- Low-demand typing during recovery
 
 </div>

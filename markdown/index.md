@@ -8,23 +8,23 @@ hero_subtitle: Svalboard is an ultra-low-force input system designed to reduce t
 
 ## Biomechanical Rationale
 
-Svalboard is not a conventional ergonomic keyboard. It is a structural intervention that changes the mechanical profile of typing at every level of the kinetic chain.
+Svalboard changes the mechanical profile of typing at every level of the kinetic chain.
 
-**What Svalboard changes:**
+**What changes:**
 
-- **Minimizes digit excursion** -- keys activate with approximately 1-2 mm of travel, drastically reducing the distance tendons must slide through their sheaths
-- **Reduces extrinsic flexor/extensor activation** -- FDP, FDS, EDC, and EIP are largely unloaded; keystroke force drops below the threshold that demands their recruitment
-- **Enables full palmar support** -- the hand rests in a neutral, supported posture at all times, eliminating sustained grip and hover
-- **Redistributes effort to intrinsic muscles** -- lumbricals and interossei handle the minimal force required, keeping mechanical work local to the hand and avoiding long tendon excursions through constrained spaces
-- **Reduces sustained wrist extension** -- the neutral resting posture eliminates the 20-30 degrees of extension typical of flat and tented keyboards
-- **Reduces ulnar and radial deviation** -- each hand operates independently in its own coordinate frame with no lateral wrist displacement
+- **Minimal digit excursion** -- ~1-2 mm travel reduces tendon glide through sheaths
+- **Extrinsic flexors/extensors unloaded** -- FDP, FDS, EDC, EIP drop below recruitment threshold
+- **Full palmar support** -- neutral posture eliminates sustained grip and hover
+- **Intrinsic muscle recruitment** -- lumbricals and interossei keep work local, avoiding long excursions through constrained spaces
+- **No sustained wrist extension** -- neutral replaces the 20-30 degrees typical of flat/tented keyboards
+- **No ulnar/radial deviation** -- each hand operates independently
 
-**Clinical results of these changes:**
+**Clinical results:**
 
-- Lower tendon friction through the carpal tunnel and cubital tunnel
-- Reduced compressive forces across the wrist, elbow, and shoulder
-- Reduced antagonist co-contraction (less braking force required when excursion is minimal)
-- Decreased proximal compensation -- less forearm, shoulder, and cervical involvement to stabilize the hand
+- Lower tendon friction through carpal and cubital tunnels
+- Reduced compressive forces across wrist, elbow, shoulder
+- Reduced antagonist co-contraction
+- Decreased proximal compensation
 
 </div>
 
@@ -71,29 +71,25 @@ Svalboard is not a conventional ergonomic keyboard. It is a structural intervent
 
 ## Why This Works When Others Don't
 
-Most ergonomic keyboards reposition the problem. They tilt, tent, or split the keyboard to change wrist angle, but the fundamental mechanical demand remains the same: long-excursion keypresses driven by extrinsic flexors, with the hand unsupported between strokes.
+Most ergonomic keyboards tilt, tent, or split to change wrist angle. The fundamental demand stays: long-excursion keypresses from extrinsic flexors, hand unsupported between strokes.
 
-Svalboard does not reposition the problem. It reduces the mechanical work itself.
+Svalboard reduces the mechanical work itself. Activation force is a fraction of any switch. Travel is ~1-2 mm. The hand never leaves its supported rest. No hover, no reaching, no grip, no ballistic movement.
 
-The force required to activate a key is a fraction of what any mechanical or membrane switch demands. The travel distance is approximately 1-2 mm. The hand never leaves its supported resting position. There is no hover, no reaching, no sustained grip, and no ballistic finger movement.
-
-This means the tendons, nerves, and joints that are inflamed, compressed, or degenerating in your patient are simply not loaded the way they are on any other input device. The intervention is not postural -- it is mechanical.
+Your patient's inflamed, compressed, or degenerating structures are simply not loaded. The intervention is mechanical, not postural.
 
 ## The Breakaway Force Profile
 
-The clinical significance of Svalboard's key mechanism extends beyond low force -- it is the **shape of the force curve** that matters.
+The clinical significance goes beyond low force -- the **shape of the force curve** matters.
 
-Svalboard uses a magnetically preloaded key mechanism. Each key is held in its resting position by a pair of magnets. The force required to move the key rises until it reaches a **breakaway threshold** (nominally 20 gf), at which point the magnetic detent releases and the restoring force drops off steeply, following an approximate inverse-square relationship with displacement.
+Each key is held by a magnet pair. Force rises to a **breakaway threshold** (nominally 20 gf), then the detent releases and restoring force drops steeply (~1/r²).
 
-This produces a force profile that is **100% front-loaded**: all tactile feedback occurs at the instant of breakaway, and the remainder of the 1-2 mm stroke requires negligible force.
+The result: **100% front-loaded**. All feedback at breakaway; the rest of the stroke requires negligible force.
 
 <div class="section mechanism" markdown="1">
 
 ### Both Peak Force and Total Work Matter
 
-Peak actuation force and total mechanical work per keystroke are both clinically relevant -- for different reasons. Peak force determines the instantaneous load on tendons and nerves at the moment of actuation. Total work -- the integral of force over the full travel distance -- determines cumulative fatigue, metabolic cost, and sustained tissue loading over a typing session.
-
-Svalboard's breakaway profile reduces **both**. But the total-work reduction is especially dramatic because of the force curve shape:
+Peak force sets instantaneous tendon/nerve load. Total work (force integrated over travel) sets cumulative fatigue and sustained tissue loading. Svalboard reduces **both**:
 
 | Input Device | Peak Force | Travel | Force Profile | Relative Work |
 |---|---|---|---|---|
@@ -101,19 +97,15 @@ Svalboard's breakaway profile reduces **both**. But the total-work reduction is 
 | Custom 15 gf linear switch | 15 gf | ~3 mm | Constant throughout | ~25% |
 | Svalboard (20 gf breakaway, customizable to 8-10 gf) | 20 gf | ~1-2 mm | Front-loaded, drops as ~1/r² | **~10%** |
 
-A conventional 45 gf linear switch maintains that force across 4 mm of travel. The area under the force-distance curve is substantial. Even a custom ultra-light 15 gf linear switch still maintains its force across the full stroke.
+A 45 gf linear switch holds force across 4 mm. Even a 15 gf switch holds force across the full stroke. Svalboard's 20 gf peak lasts only at detent release -- within a fraction of a millimeter, restoring force drops dramatically. **Total work per keystroke is ~90% lower.**
 
-Svalboard's breakaway profile means the 20 gf peak is sustained only at the instant of detent release. By the time the key has traveled even a fraction of a millimeter past breakaway, the restoring force has dropped dramatically. **The total work per keystroke is approximately 90% lower than a conventional switch.**
-
-This distinction is critical for conditions where cumulative mechanical load drives pathology. Over the course of a typing session, the reduction in total tendon loading, joint compression, and metabolic cost is not incremental -- it is an order-of-magnitude shift.
+For conditions driven by cumulative load, this is an order-of-magnitude shift.
 
 </div>
 
 ### Available Force Options
 
-The standard Svalboard activates at approximately **20 gf**. Activation force is customizable and can be tuned as low as **8-10 gf** for patients with significant weakness or extreme pain sensitivity.
-
-Force levels are set mechanically during manufacturing -- no electronics changes are required, and the breakaway profile shape is preserved at every force level.
+Standard activation: ~**20 gf**, tunable to **8-10 gf** for significant weakness or pain sensitivity. Set mechanically during manufacturing; breakaway profile preserved at every level.
 
 ## Muscle Utilization Shift
 
@@ -125,13 +117,13 @@ Force levels are set mechanically during manufacturing -- no electronics changes
 
 **Primary movers:** FDP, FDS (extrinsic flexors)
 
-- High force per keystroke (45-60g switch + ballistic overhead)
+- 45-60g per keystroke + ballistic overhead
 - Long tendon excursion through carpal tunnel
-- Sustained EDC/EIP co-contraction to lift fingers between strokes
-- Forearm pronation locked in place
-- Wrist extensors engaged to hold hand above keyboard
+- Sustained EDC/EIP co-contraction between strokes
+- Locked forearm pronation
+- Wrist extensors hold hand above keyboard
 
-**Result:** High cumulative mechanical load on tendons that pass through constrained anatomical spaces
+**Result:** High cumulative load on tendons through constrained spaces
 
 </div>
 
@@ -141,13 +133,13 @@ Force levels are set mechanically during manufacturing -- no electronics changes
 
 **Primary movers:** Lumbricals, interossei (intrinsic muscles)
 
-- Ultra-low force per keystroke (fraction of conventional)
-- Short excursion -- intrinsic muscles act within the hand, not through the carpal tunnel
-- No co-contraction needed -- hand rests on the device at all times
-- Forearm in neutral rotation
-- Wrist in neutral extension -- fully supported
+- Ultra-low force per keystroke
+- Short excursion within the hand, not through the carpal tunnel
+- No co-contraction -- hand rests on device
+- Neutral forearm rotation
+- Neutral wrist, fully supported
 
-**Result:** Minimal tendon sliding, minimal compressive load, minimal neural tension
+**Result:** Minimal tendon sliding, compressive load, and neural tension
 
 </div>
 
@@ -155,54 +147,52 @@ Force levels are set mechanically during manufacturing -- no electronics changes
 
 ## Chain-Level Effect
 
-Every level of the upper extremity kinetic chain benefits simultaneously:
+Every level of the kinetic chain benefits:
 
-**Hand** -- Intrinsic muscles replace extrinsic flexors; digit excursion drops to very low levels
+**Hand** -- Intrinsic muscles replace extrinsic flexors; minimal digit excursion
 
-**Wrist** -- Neutral posture eliminates sustained extension and deviation; tendon friction through the carpal tunnel is minimized
+**Wrist** -- Neutral posture eliminates extension and deviation; carpal tunnel friction minimized
 
-**Elbow** -- Reduced forearm muscle activity decreases compressive and traction forces at the medial and lateral epicondyles; ulnar nerve tension drops with reduced elbow flexion demands
+**Elbow** -- Reduced forearm activity decreases epicondylar forces; ulnar nerve tension drops
 
-**Shoulder** -- With the hand fully supported and forearm at rest, the shoulder no longer compensates to stabilize a hovering limb; trapezius and rotator cuff load decreases
+**Shoulder** -- Hand supported, forearm at rest; trapezius and rotator cuff load decreases
 
 <div class="stats-row" markdown="1">
 
 <div class="stat-card" markdown="1">
 <span class="stat-arrow down"></span>
 <strong>Tendon Load</strong>
-<p>Minimal excursion (1-2 mm) eliminates the primary driver of tendon friction and microtrauma</p>
+<p>1-2 mm excursion eliminates the primary driver of tendon friction and microtrauma</p>
 </div>
 
 <div class="stat-card" markdown="1">
 <span class="stat-arrow down"></span>
 <strong>Joint Compression</strong>
-<p>Reduced muscle force means reduced compressive load across the wrist, elbow, and shoulder</p>
+<p>Less muscle force means less compressive load across wrist, elbow, and shoulder</p>
 </div>
 
 <div class="stat-card" markdown="1">
 <span class="stat-arrow down"></span>
 <strong>Neural Tension</strong>
-<p>Neutral posture and reduced tissue volume change decrease pressure on median and ulnar nerves</p>
+<p>Neutral posture and reduced tissue volume change lower pressure on median and ulnar nerves</p>
 </div>
 
 <div class="stat-card" markdown="1">
 <span class="stat-arrow down"></span>
 <strong>Energy Cost</strong>
-<p>Lower force and shorter excursion reduce the metabolic cost of sustained typing</p>
+<p>Lower force and shorter excursion reduce metabolic cost of sustained typing</p>
 </div>
 
 <div class="stat-card" markdown="1">
 <span class="stat-arrow up"></span>
 <strong>Typing Tolerance</strong>
-<p>Patients type longer with less pain, less fatigue, and less post-activity flare</p>
+<p>Patients type longer with less pain, fatigue, and post-activity flare</p>
 </div>
 
 </div>
 
 ## Used By
 
-Svalboard is already in use by individuals across a range of clinical and professional contexts:
-
-- **Patients with progressive neuromuscular disease** -- including muscular dystrophy and ALS -- who need to preserve function as strength declines
-- **Individuals with chronic RSI** -- carpal tunnel, cubital tunnel, lateral epicondylitis, de Quervain's -- who have failed conventional ergonomic interventions
-- **High-demand professionals** -- software developers, radiologists, writers, and data analysts -- who type 8+ hours daily and need a sustainable long-term input solution
+- **Progressive neuromuscular disease** -- muscular dystrophy, ALS -- preserving function as strength declines
+- **Chronic RSI** -- carpal tunnel, cubital tunnel, lateral epicondylitis, de Quervain's -- after failed conventional ergonomic interventions
+- **High-demand professionals** -- software developers, radiologists, writers, data analysts -- typing 8+ hours daily
