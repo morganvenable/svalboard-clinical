@@ -4,6 +4,66 @@ hero_title: Reduce Ulnar Nerve Strain by Unloading the Entire Arm
 hero_subtitle: Cubital tunnel is a proximal load problem. Svalboard addresses it at the elbow and shoulder chain level.
 ---
 
+<div class="section provider" id="provider" markdown="1">
+
+## Provider Overview
+
+<span class="badge">For Clinical Providers</span>
+
+### Structures Affected
+
+**Primary:** Ulnar nerve at the cubital tunnel (posteromedial elbow)
+
+**Secondary:** Full ulnar nerve course - C8-T1 roots, medial cord, posterior arm compartment, cubital tunnel, FCU arcade, Guyon's canal
+
+### Key Biomechanical Changes
+
+| Parameter | Conventional Keyboard | Svalboard |
+|---|---|---|
+| Elbow flexion angle | 90-120° sustained | More open resting angle |
+| Intraneural pressure | Elevated (up to 6x baseline) | Near baseline |
+| Neural tension (longitudinal) | High - sustained traction | Low - nerve in slack |
+| Proximal stabilization demand | High - trapezius, deltoid, rotator cuff engaged | Low - arm fully supported |
+| Forearm rotation | Full pronation | Neutral |
+| Wrist posture | 20-30° extension | Neutral |
+| Keystroke force | 45-60g per key | Fraction of conventional |
+
+### Muscles Affected
+
+**Decreased demand:**
+
+- **Trapezius / Levator scapulae** - No arm suspension; reduces cervical adverse neural tension
+- **Deltoid / Rotator cuff** - Arm rests on device; shoulder stabilization removed
+- **Forearm flexors (FCU, FDP medial)** - Low force reduces ulnar-innervated muscle demand
+- **Forearm extensors (ECU, ECRL/B)** - No sustained wrist extension
+- **Pronator teres / quadratus** - Neutral rotation avoids continuous pronation
+
+**Reduced fatigue in ulnar-innervated intrinsics:**
+
+- **Interossei** - Low activation force; reduced MCP stabilization demand
+- **Lumbricals (ring, small)** - No heavy keystroke loading
+- **Adductor pollicis** - No pinch or lateral grip
+- **Hypothenar group** - Hand rests supported; no active positioning
+
+### When to Consider Svalboard
+
+- Cubital tunnel syndrome with ongoing keyboard work requirements
+- Incomplete relief from splinting, nerve gliding, or activity modification
+- Symptoms worsen with sustained typing despite ergonomic keyboards
+- Proximal compensation patterns visible during typing
+- EMG/NCS-confirmed ulnar neuropathy; not a surgical candidate or post-surgical return to work
+- Bilateral symptoms suggesting systemic postural contribution
+
+### Complementary Interventions
+
+- **Night splinting** - Prevents sleep flexion; Svalboard prevents work flexion
+- **Nerve gliding** - Svalboard reduces irritation that makes gliding painful
+- **Postural retraining** - Svalboard structurally enforces therapeutic posture
+- **Activity modification** - Svalboard is the modification; typing continues
+- **Post-surgical return** - Low-demand typing during recovery
+
+</div>
+
 <div class="section problem" markdown="1">
 
 ## The Clinical Problem
@@ -196,62 +256,3 @@ Svalboard addresses all four mechanistic contributors to cubital tunnel syndrome
 
 </div>
 
-<div class="section provider" id="provider" markdown="1">
-
-## Provider Overview
-
-<span class="badge">For Clinical Providers</span>
-
-### Structures Affected
-
-**Primary:** Ulnar nerve at the cubital tunnel (posteromedial elbow)
-
-**Secondary:** Full ulnar nerve course - C8-T1 roots, medial cord, posterior arm compartment, cubital tunnel, FCU arcade, Guyon's canal
-
-### Key Biomechanical Changes
-
-| Parameter | Conventional Keyboard | Svalboard |
-|---|---|---|
-| Elbow flexion angle | 90-120° sustained | More open resting angle |
-| Intraneural pressure | Elevated (up to 6x baseline) | Near baseline |
-| Neural tension (longitudinal) | High - sustained traction | Low - nerve in slack |
-| Proximal stabilization demand | High - trapezius, deltoid, rotator cuff engaged | Low - arm fully supported |
-| Forearm rotation | Full pronation | Neutral |
-| Wrist posture | 20-30° extension | Neutral |
-| Keystroke force | 45-60g per key | Fraction of conventional |
-
-### Muscles Affected
-
-**Decreased demand:**
-
-- **Trapezius / Levator scapulae** - No arm suspension; reduces cervical adverse neural tension
-- **Deltoid / Rotator cuff** - Arm rests on device; shoulder stabilization removed
-- **Forearm flexors (FCU, FDP medial)** - Low force reduces ulnar-innervated muscle demand
-- **Forearm extensors (ECU, ECRL/B)** - No sustained wrist extension
-- **Pronator teres / quadratus** - Neutral rotation avoids continuous pronation
-
-**Reduced fatigue in ulnar-innervated intrinsics:**
-
-- **Interossei** - Low activation force; reduced MCP stabilization demand
-- **Lumbricals (ring, small)** - No heavy keystroke loading
-- **Adductor pollicis** - No pinch or lateral grip
-- **Hypothenar group** - Hand rests supported; no active positioning
-
-### When to Consider Svalboard
-
-- Cubital tunnel syndrome with ongoing keyboard work requirements
-- Incomplete relief from splinting, nerve gliding, or activity modification
-- Symptoms worsen with sustained typing despite ergonomic keyboards
-- Proximal compensation patterns visible during typing
-- EMG/NCS-confirmed ulnar neuropathy; not a surgical candidate or post-surgical return to work
-- Bilateral symptoms suggesting systemic postural contribution
-
-### Complementary Interventions
-
-- **Night splinting** - Prevents sleep flexion; Svalboard prevents work flexion
-- **Nerve gliding** - Svalboard reduces irritation that makes gliding painful
-- **Postural retraining** - Svalboard structurally enforces therapeutic posture
-- **Activity modification** - Svalboard is the modification; typing continues
-- **Post-surgical return** - Low-demand typing during recovery
-
-</div>

@@ -4,6 +4,36 @@ hero_title: Remove the Flexion Cycle That Triggers Catching
 hero_subtitle: Svalboard replaces the flexion-extension cycle that aggravates trigger finger with lateral micro-movements that avoid the A1 pulley.
 ---
 
+<div class="section provider" markdown="1" id="provider">
+
+<span class="provider-badge">For Healthcare Providers</span>
+
+## Provider Overview
+
+**Condition:** Stenosing tenosynovitis (trigger finger)  -  ICD-10: M65.3
+
+**Structures involved:**
+
+- Flexor digitorum profundus (FDP) and superficialis (FDS) tendons
+- A1 pulley (annular pulley at the MCP joint)
+- Flexor tendon sheath
+
+**Key biomechanical change:** Removes the repetitive full flexion-extension cycle. Input uses 1-2 mm lateral tilts that keep the finger out of its catching range.
+
+**Clinical use cases:**
+
+- **Active episodes**  -  continued typing without provoking catching/locking
+- **Post-injection**  -  reduced mechanical provocation supports anti-inflammatory effect
+- **Conservative management**  -  concrete activity modification for the highest-repetition task
+- **Post-surgical**  -  reduced tendon loading after A1 pulley release
+- **Recurrent trigger finger**  -  removing the mechanical driver may reduce recurrence
+
+**Customization note:** For acute episodes, a **custom pitch-adjustable tower** can be built for the affected finger. Used successfully for a month-long episode without provoking catching.
+
+**Complementary interventions:** Compatible with night splints, corticosteroid injections, and hand therapy. Addresses the mechanical provocation of typing without replacing clinical treatment.
+
+</div>
+
 <div class="section problem" markdown="1">
 
 ## The Clinical Problem
@@ -168,32 +198,3 @@ Removing repetitive mechanical irritation lets the inflammatory cycle resolve
 
 </div>
 
-<div class="section provider" markdown="1" id="provider">
-
-<span class="provider-badge">For Healthcare Providers</span>
-
-## Provider Overview
-
-**Condition:** Stenosing tenosynovitis (trigger finger)  -  ICD-10: M65.3
-
-**Structures involved:**
-
-- Flexor digitorum profundus (FDP) and superficialis (FDS) tendons
-- A1 pulley (annular pulley at the MCP joint)
-- Flexor tendon sheath
-
-**Key biomechanical change:** Removes the repetitive full flexion-extension cycle. Input uses 1-2 mm lateral tilts that keep the finger out of its catching range.
-
-**Clinical use cases:**
-
-- **Active episodes**  -  continued typing without provoking catching/locking
-- **Post-injection**  -  reduced mechanical provocation supports anti-inflammatory effect
-- **Conservative management**  -  concrete activity modification for the highest-repetition task
-- **Post-surgical**  -  reduced tendon loading after A1 pulley release
-- **Recurrent trigger finger**  -  removing the mechanical driver may reduce recurrence
-
-**Customization note:** For acute episodes, a **custom pitch-adjustable tower** can be built for the affected finger. Used successfully for a month-long episode without provoking catching.
-
-**Complementary interventions:** Compatible with night splints, corticosteroid injections, and hand therapy. Addresses the mechanical provocation of typing without replacing clinical treatment.
-
-</div>

@@ -4,6 +4,42 @@ hero_title: Maintain Function Within Restricted Range of Motion
 hero_subtitle: Svalboard does not treat the contracture  -  but enables functional adaptation within restricted biomechanics, allowing productive typing to continue.
 ---
 
+<div class="section provider" id="provider" markdown="1">
+
+<span class="provider-badge">For Healthcare Providers</span>
+
+## Provider Overview
+
+### Focus: Adaptation, Not Treatment
+
+Svalboard addresses the functional consequence of Dupuytren's  -  inability to type  -  without modifying the disease. If the digit cannot extend, eliminate the need for extension.
+
+### Key Biomechanical Change
+
+**Functional typing within restricted ROM.** Key clusters activate with 1-2 mm displacement from resting position. A digit with fixed MCP/PIP flexion contracture retains sufficient ROM for the lateral and anterior micro-movements Svalboard requires.
+
+### Clinical Use Cases
+
+- **Progressive Dupuytren's (Tubiana I-III)**  -  continued keyboard function without waiting for intervention thresholds, without biomechanical stress on diseased fascia
+
+- **Post-fasciectomy or aponeurotomy**  -  earlier return to typing with reduced loading on healing tissue
+
+- **Post-collagenase injection**  -  typing without gripping or forceful extension during recovery
+
+- **Patients deferring intervention**  -  removes the main functional limitation without procedural intervention
+
+- **Bilateral disease**  -  split design with independent key clusters accommodates contracture in both hands
+
+### What to Expect
+
+Patients typically adapt within 1-4 weeks. The 1-2 mm activation distance means even substantially contracted fingers retain sufficient ROM for all key activations. Patients report the affected digit is more functional on Svalboard than on any conventional input device.
+
+### Complementary to Standard Care
+
+Svalboard integrates into existing treatment plans. It does not replace splinting, delay surgical referral, or interfere with rehabilitation. It removes typing from the clinical equation, letting treatment decisions focus on the contracture itself.
+
+</div>
+
 <div class="section problem" markdown="1">
 
 ## The Clinical Problem
@@ -261,38 +297,3 @@ Svalboard does not slow progression, reverse fibrosis, or restore ROM. It enable
 
 </div>
 
-<div class="section provider" id="provider" markdown="1">
-
-<span class="provider-badge">For Healthcare Providers</span>
-
-## Provider Overview
-
-### Focus: Adaptation, Not Treatment
-
-Svalboard addresses the functional consequence of Dupuytren's  -  inability to type  -  without modifying the disease. If the digit cannot extend, eliminate the need for extension.
-
-### Key Biomechanical Change
-
-**Functional typing within restricted ROM.** Key clusters activate with 1-2 mm displacement from resting position. A digit with fixed MCP/PIP flexion contracture retains sufficient ROM for the lateral and anterior micro-movements Svalboard requires.
-
-### Clinical Use Cases
-
-- **Progressive Dupuytren's (Tubiana I-III)**  -  continued keyboard function without waiting for intervention thresholds, without biomechanical stress on diseased fascia
-
-- **Post-fasciectomy or aponeurotomy**  -  earlier return to typing with reduced loading on healing tissue
-
-- **Post-collagenase injection**  -  typing without gripping or forceful extension during recovery
-
-- **Patients deferring intervention**  -  removes the main functional limitation without procedural intervention
-
-- **Bilateral disease**  -  split design with independent key clusters accommodates contracture in both hands
-
-### What to Expect
-
-Patients typically adapt within 1-4 weeks. The 1-2 mm activation distance means even substantially contracted fingers retain sufficient ROM for all key activations. Patients report the affected digit is more functional on Svalboard than on any conventional input device.
-
-### Complementary to Standard Care
-
-Svalboard integrates into existing treatment plans. It does not replace splinting, delay surgical referral, or interfere with rehabilitation. It removes typing from the clinical equation, letting treatment decisions focus on the contracture itself.
-
-</div>

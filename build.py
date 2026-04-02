@@ -86,8 +86,8 @@ TEMPLATE = """<!DOCTYPE html>
 # Default hero buttons for clinical pages
 DEFAULT_BUTTONS = (
     '<div class="cta-group">\n'
-    '      <a href="#mechanism" class="btn btn-primary">See the Biomechanics</a>\n'
-    '      <a href="#provider" class="btn btn-outline">Provider Overview</a>\n'
+    '      <a href="#provider" class="btn btn-primary">Provider Overview</a>\n'
+    '      <a href="#mechanism" class="btn btn-outline">See the Biomechanics</a>\n'
     '    </div>'
 )
 

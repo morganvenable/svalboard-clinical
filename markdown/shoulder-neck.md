@@ -4,6 +4,43 @@ hero_title: Stop Reaching for the Mouse
 hero_subtitle: Svalboard puts pointing devices under your palms, removing the repeated shoulder abduction that drives impingement, trapezius overload, and chronic neck-shoulder pain.
 ---
 
+<div class="section provider" id="provider" markdown="1">
+
+<span class="provider-badge">For Healthcare Providers</span>
+
+## Provider Overview
+
+**Conditions addressed:**
+
+- Shoulder impingement syndrome (ICD-10: M75.1)
+- Rotator cuff tendinopathy (M75.1)
+- Upper trapezius myalgia / tension neck syndrome (M79.1)
+- Thoracic outlet syndrome (G54.0)
+- Chronic cervicalgia associated with computer use (M54.2)
+
+**Structures involved:**
+
+- Supraspinatus, infraspinatus, teres minor (rotator cuff)
+- Subacromial bursa
+- Upper trapezius, levator scapulae
+- Brachial plexus (thoracic outlet)
+- Cervical paraspinals
+
+**Key biomechanical change:** Svalboard removes keyboard-to-mouse reaching by placing a pointing device underneath the hand. The arm stays supported in neutral. Shoulder abduction, scapular protraction, and upper trapezius stabilization firing drop to near zero during computer use.
+
+**Clinical use cases:**
+
+- **Active shoulder impingement** - remove the repetitive subacromial loading from mouse reaching while patient continues working
+- **Rotator cuff tendinopathy or post-repair** - avoid the abduction arc that loads healing tissue
+- **Chronic upper trapezius trigger points** - remove the sustained low-level contraction from arm hovering and mouse reaching
+- **Thoracic outlet syndrome** - neutral supported posture avoids the forward shoulder position that narrows the costoclavicular space
+- **Post-surgical shoulder rehabilitation** - return to computer work without loading the shoulder through reaching arcs
+- **Cervical disc disease or radiculopathy** - reduce sustained cervical load from upper trapezius and levator scapulae tension during arm hovering
+
+**Complementary interventions:** Compatible with physical therapy for rotator cuff and scapular stabilization, trigger point dry needling, cervical traction, and workplace ergonomic assessments. Svalboard addresses the input device component - postural training and strengthening address the rest.
+
+</div>
+
 <div class="section problem" markdown="1">
 
 ## The Clinical Problem
@@ -163,39 +200,3 @@ Arm support unloads the upper trapezius and levator scapulae, reducing the susta
 
 </div>
 
-<div class="section provider" id="provider" markdown="1">
-
-<span class="provider-badge">For Healthcare Providers</span>
-
-## Provider Overview
-
-**Conditions addressed:**
-
-- Shoulder impingement syndrome (ICD-10: M75.1)
-- Rotator cuff tendinopathy (M75.1)
-- Upper trapezius myalgia / tension neck syndrome (M79.1)
-- Thoracic outlet syndrome (G54.0)
-- Chronic cervicalgia associated with computer use (M54.2)
-
-**Structures involved:**
-
-- Supraspinatus, infraspinatus, teres minor (rotator cuff)
-- Subacromial bursa
-- Upper trapezius, levator scapulae
-- Brachial plexus (thoracic outlet)
-- Cervical paraspinals
-
-**Key biomechanical change:** Svalboard removes keyboard-to-mouse reaching by placing a pointing device underneath the hand. The arm stays supported in neutral. Shoulder abduction, scapular protraction, and upper trapezius stabilization firing drop to near zero during computer use.
-
-**Clinical use cases:**
-
-- **Active shoulder impingement** - remove the repetitive subacromial loading from mouse reaching while patient continues working
-- **Rotator cuff tendinopathy or post-repair** - avoid the abduction arc that loads healing tissue
-- **Chronic upper trapezius trigger points** - remove the sustained low-level contraction from arm hovering and mouse reaching
-- **Thoracic outlet syndrome** - neutral supported posture avoids the forward shoulder position that narrows the costoclavicular space
-- **Post-surgical shoulder rehabilitation** - return to computer work without loading the shoulder through reaching arcs
-- **Cervical disc disease or radiculopathy** - reduce sustained cervical load from upper trapezius and levator scapulae tension during arm hovering
-
-**Complementary interventions:** Compatible with physical therapy for rotator cuff and scapular stabilization, trigger point dry needling, cervical traction, and workplace ergonomic assessments. Svalboard addresses the input device component - postural training and strengthening address the rest.
-
-</div>

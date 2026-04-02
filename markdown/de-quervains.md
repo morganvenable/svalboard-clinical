@@ -4,6 +4,44 @@ hero_title: Reduce Thumb Tendon Friction at the Source
 hero_subtitle: Svalboard reduces tendon excursion and stabilization demands on the thumb - the two factors that sustain De Quervain's irritation.
 ---
 
+<div class="section provider" id="provider" markdown="1">
+
+## Provider Overview
+
+<span class="provider-badge">For Clinical Providers</span>
+
+**Condition:** De Quervain's Tenosynovitis (ICD-10: M65.4)
+
+**Structures involved:**
+
+- **APL (Abductor Pollicis Longus)** - primary thumb abductor, high-frequency loading during spacebar and trackpad use
+- **EPB (Extensor Pollicis Brevis)** - thumb extensor, co-contracts with APL during grip and keystroke stabilization
+- **First dorsal compartment** - fibro-osseous tunnel at the radial styloid, site of friction and stenosis
+- **Extensor retinaculum** - thickens with repetitive friction, narrowing the compartment
+
+**Key mechanical change with Svalboard:**
+
+The thumb is offloaded as a primary input and stabilization digit. APL and EPB excursion drops to near zero. Tendon tension is low due to low activation force and full palmar support.
+
+**Clinical use cases:**
+
+- **Active De Quervain's** - reduce the mechanical irritant while the patient works; avoid exacerbation during conservative management
+- **Post-corticosteroid injection** - maintain reduced load during the therapeutic window
+- **Chronic thumb tendinopathy** - recurrent or refractory compartment pain after failed splinting, NSAIDs, and ergonomic modifications
+- **Post-surgical rehabilitation** - graded return to typing after compartment release with near-zero thumb load
+- **Prevention in high-risk populations** - new parents, high-volume typists, patients with anatomic variants (separate APL/EPB sub-compartments)
+
+**Complementary interventions:**
+
+Svalboard does not replace clinical management. Most effective combined with:
+
+- Thumb spica splinting during non-typing hours
+- Corticosteroid injection into the first dorsal compartment (if indicated)
+- Eccentric tendon loading exercises during recovery
+- Activity modification for non-typing thumb demands (phone use, infant care)
+
+</div>
+
 <div class="section problem" markdown="1">
 
 ## The Clinical Problem
@@ -144,40 +182,3 @@ Svalboard removes the mechanical demands that drive De Quervain's pathology:
 
 </div>
 
-<div class="section provider" id="provider" markdown="1">
-
-## Provider Overview
-
-<span class="provider-badge">For Clinical Providers</span>
-
-**Condition:** De Quervain's Tenosynovitis (ICD-10: M65.4)
-
-**Structures involved:**
-
-- **APL (Abductor Pollicis Longus)** - primary thumb abductor, high-frequency loading during spacebar and trackpad use
-- **EPB (Extensor Pollicis Brevis)** - thumb extensor, co-contracts with APL during grip and keystroke stabilization
-- **First dorsal compartment** - fibro-osseous tunnel at the radial styloid, site of friction and stenosis
-- **Extensor retinaculum** - thickens with repetitive friction, narrowing the compartment
-
-**Key mechanical change with Svalboard:**
-
-The thumb is offloaded as a primary input and stabilization digit. APL and EPB excursion drops to near zero. Tendon tension is low due to low activation force and full palmar support.
-
-**Clinical use cases:**
-
-- **Active De Quervain's** - reduce the mechanical irritant while the patient works; avoid exacerbation during conservative management
-- **Post-corticosteroid injection** - maintain reduced load during the therapeutic window
-- **Chronic thumb tendinopathy** - recurrent or refractory compartment pain after failed splinting, NSAIDs, and ergonomic modifications
-- **Post-surgical rehabilitation** - graded return to typing after compartment release with near-zero thumb load
-- **Prevention in high-risk populations** - new parents, high-volume typists, patients with anatomic variants (separate APL/EPB sub-compartments)
-
-**Complementary interventions:**
-
-Svalboard does not replace clinical management. Most effective combined with:
-
-- Thumb spica splinting during non-typing hours
-- Corticosteroid injection into the first dorsal compartment (if indicated)
-- Eccentric tendon loading exercises during recovery
-- Activity modification for non-typing thumb demands (phone use, infant care)
-
-</div>

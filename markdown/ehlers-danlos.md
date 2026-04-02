@@ -4,6 +4,43 @@ hero_title: Replace Muscular Stabilization with Structural Support
 hero_subtitle: For hypermobility conditions, Svalboard replaces active stabilization (muscle-driven) with passive stabilization (device-supported).
 ---
 
+<div id="provider" class="section provider" markdown="1">
+
+<span class="badge provider-badge">Provider Overview</span>
+
+## Clinical Summary for Referring Providers
+
+**Condition family:** Ehlers-Danlos Syndrome (all subtypes), Hypermobility Spectrum Disorders, Marfan Syndrome, and other heritable connective tissue disorders affecting joint stability.
+
+**Structures involved:** MCP, PIP, and DIP joints; wrist carpal complex; collateral ligaments; volar plates; joint capsules; flexor/extensor tendons; intrinsic and extrinsic hand muscles.
+
+**Core mechanical problem:** Ligamentous laxity prevents passive joint stabilization. The neuromuscular system compensates with continuous antagonist co-contraction, producing rapid fatigue, chronic myofascial pain, and progressive joint irritation.
+
+**Key biomechanical change with Svalboard:** Passive structural stabilization (contoured support, short-excursion keys) replaces active muscular co-contraction, removing the main fatigue and pain driver during typing.
+
+**Specific mechanisms:**
+
+- Full palmar support removes hover and grip demand
+- 1-2 mm key travel keeps joints in safe mid-range
+- Intrinsic muscle activation replaces extrinsic multi-joint recruitment
+- Neutral wrist posture maintained passively by device geometry
+- Shear forces across lax connective tissues reduced
+
+**Relevant diagnoses (ICD-10):**
+
+- Q79.6 - Ehlers-Danlos syndromes (hEDS, classical, vascular, other subtypes)
+- M35.7 - Hypermobility syndrome
+- Q87.40 - Marfan syndrome, unspecified
+- M24.2 - Disorder of ligament (ligamentous laxity)
+- M79.3 - Panniculitis, unspecified (associated connective tissue inflammation)
+- G90.1 - Familial dysautonomia (commonly comorbid, relevant to fatigue)
+
+**Clinical expectation:** Patients who have failed conventional ergonomic interventions may achieve sustainable typing tolerance because Svalboard addresses the root problem - insufficient passive stabilization.
+
+**Patient selection notes:** Appropriate across hypermobility severity. Patients with severe MCP/PIP instability or recurrent subluxation carry the highest co-contraction burden and will see the most benefit. Milder hypermobility with disproportionate hand fatigue is also a strong indication.
+
+</div>
+
 <div class="section problem" markdown="1">
 
 ## The Clinical Problem
@@ -138,39 +175,3 @@ Passive structures (ligaments, capsules, volar plates) cannot do their job. The 
 
 </div>
 
-<div id="provider" class="section provider" markdown="1">
-
-<span class="badge provider-badge">Provider Overview</span>
-
-## Clinical Summary for Referring Providers
-
-**Condition family:** Ehlers-Danlos Syndrome (all subtypes), Hypermobility Spectrum Disorders, Marfan Syndrome, and other heritable connective tissue disorders affecting joint stability.
-
-**Structures involved:** MCP, PIP, and DIP joints; wrist carpal complex; collateral ligaments; volar plates; joint capsules; flexor/extensor tendons; intrinsic and extrinsic hand muscles.
-
-**Core mechanical problem:** Ligamentous laxity prevents passive joint stabilization. The neuromuscular system compensates with continuous antagonist co-contraction, producing rapid fatigue, chronic myofascial pain, and progressive joint irritation.
-
-**Key biomechanical change with Svalboard:** Passive structural stabilization (contoured support, short-excursion keys) replaces active muscular co-contraction, removing the main fatigue and pain driver during typing.
-
-**Specific mechanisms:**
-
-- Full palmar support removes hover and grip demand
-- 1-2 mm key travel keeps joints in safe mid-range
-- Intrinsic muscle activation replaces extrinsic multi-joint recruitment
-- Neutral wrist posture maintained passively by device geometry
-- Shear forces across lax connective tissues reduced
-
-**Relevant diagnoses (ICD-10):**
-
-- Q79.6 - Ehlers-Danlos syndromes (hEDS, classical, vascular, other subtypes)
-- M35.7 - Hypermobility syndrome
-- Q87.40 - Marfan syndrome, unspecified
-- M24.2 - Disorder of ligament (ligamentous laxity)
-- M79.3 - Panniculitis, unspecified (associated connective tissue inflammation)
-- G90.1 - Familial dysautonomia (commonly comorbid, relevant to fatigue)
-
-**Clinical expectation:** Patients who have failed conventional ergonomic interventions may achieve sustainable typing tolerance because Svalboard addresses the root problem - insufficient passive stabilization.
-
-**Patient selection notes:** Appropriate across hypermobility severity. Patients with severe MCP/PIP instability or recurrent subluxation carry the highest co-contraction burden and will see the most benefit. Milder hypermobility with disproportionate hand fatigue is also a strong indication.
-
-</div>

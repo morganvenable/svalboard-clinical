@@ -4,6 +4,115 @@ hero_title: Reduce Pressure Inside the Carpal Tunnel - Without Stopping Work
 hero_subtitle: Svalboard reduces tendon excursion and wrist extension - the two main drivers of median nerve compression.
 ---
 
+<div id="provider" class="section provider" markdown="1">
+
+## Clinical Provider Reference
+
+<span class="provider-badge">For Healthcare Providers</span>
+
+Reference for OTs, hand surgeons, orthopedists, physiatrists, and other practitioners evaluating Svalboard for CTS management.
+
+### Primary Structures Affected
+
+| Structure | Conventional Keyboard Loading | Svalboard Loading |
+|---|---|---|
+| **Median nerve** | Compressed at 30-65 mmHg; irritation from adjacent tendon swelling | Near-resting pressure (2-10 mmHg); reduced tendon volume |
+| **FDP tendons (x4)** | High-amplitude, high-frequency excursion | Short excursion; force shifted to intrinsics |
+| **FDS tendons (x4)** | PIP flexion per keystroke; adds tunnel volume | Low activation; tilt bypasses PIP flexion |
+| **FPL tendon** | Active for thumb keys (spacebar, modifiers) | Reduced; thumb via low-excursion tilt |
+| **Transverse carpal ligament** | Tensioned by wrist extension; compresses nerve | Relaxed in neutral; not tensioned |
+
+### Key Biomechanical Changes
+
+<table class="muscle-shift">
+<thead>
+<tr>
+<th>Parameter</th>
+<th>Conventional Keyboard</th>
+<th>Svalboard</th>
+<th>Clinical Significance</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Wrist posture</strong></td>
+<td>20-30 deg extension</td>
+<td>0 deg (neutral)</td>
+<td>Primary determinant of intracarpal pressure</td>
+</tr>
+<tr>
+<td><strong>Tendon excursion</strong></td>
+<td>Full FDP/FDS range per keystroke</td>
+<td>Small (2-4 mm tilt travel)</td>
+<td>Reduces cumulative friction and synovial irritation</td>
+</tr>
+<tr>
+<td><strong>Actuation force</strong></td>
+<td>45-60 cN</td>
+<td>~20 cN (tunable to 8-10 cN)</td>
+<td>Proportionally reduces tendon tension in tunnel</td>
+</tr>
+<tr>
+<td><strong>Primary movers</strong></td>
+<td>FDP, FDS (extrinsic, cross wrist)</td>
+<td>Lumbricals, interossei (intrinsic, distal to tunnel)</td>
+<td>Decouples finger input from carpal tunnel loading</td>
+</tr>
+<tr>
+<td><strong>Co-contraction</strong></td>
+<td>Continuous wrist extensor firing</td>
+<td>None (hand supported)</td>
+<td>Removes compressive load from stabilizer muscles</td>
+</tr>
+<tr>
+<td><strong>Forearm posture</strong></td>
+<td>Pronated</td>
+<td>Neutral rotation</td>
+<td>Reduces pronator teres compression of median nerve</td>
+</tr>
+<tr>
+<td><strong>Ulnar deviation</strong></td>
+<td>Common (reaching for lateral keys)</td>
+<td>Eliminated</td>
+<td>Reduces carpal bone displacement and tunnel deformation</td>
+</tr>
+</tbody>
+</table>
+
+### Muscle Shift: From Extrinsic to Intrinsic
+
+**From:** FDP/FDS dominance (tendons transit the carpal tunnel)
+
+**To:** Lumbricals and interossei (originate distal to the tunnel)
+
+Neither intrinsic group sends contractile force through the tunnel. When they perform key activation, extrinsic flexors remain quiescent and tendon volume decreases.
+
+### Clinical Use Cases
+
+**Early / Mild CTS**
+- Intermittent paresthesia; mild electrodiagnostic slowing, no axonal loss
+- Conservative management: splinting, activity modification, possible injection
+- **Svalboard role:** Reduces mechanical provocation during work; extends conservative window; concrete modification without work cessation
+
+**Post-Surgical Return to Work**
+- After carpal tunnel release, returning to keyboard work at 4-8 weeks
+- **Svalboard role:** Reduces tendon loading in return-to-work progression; lowers recurrence risk; neutral posture protects healing site; supports graduated increase
+
+**Chronic RSI with Median Nerve Symptoms**
+- Longstanding RSI with CTS component, possible comorbidities
+- Multiple failed conservative interventions
+- **Svalboard role:** Addresses biomechanical root cause; reduces upper extremity loading; compatible with concurrent treatments
+
+### Prescribing Considerations
+
+- Learning curve: 2-4 weeks to basic proficiency, 2-4 months to approach prior typing speed from a standard keyboard
+- Reduced speed during learning itself lowers cumulative loading
+- No contraindications for CTS; neutral posture and low force are inherently conservative
+- Compatible with night splints, anti-inflammatory protocols, and therapy programs
+- Counsel patients: input device change, not a medical device; does not replace clinical treatment
+
+</div>
+
 <div class="section problem" markdown="1">
 
 ## The Clinical Problem
@@ -303,113 +412,3 @@ These are user reports, not controlled evidence. They are consistent with biomec
 
 </div>
 
----
-
-<div id="provider" class="section provider" markdown="1">
-
-## Clinical Provider Reference
-
-<span class="provider-badge">For Healthcare Providers</span>
-
-Reference for OTs, hand surgeons, orthopedists, physiatrists, and other practitioners evaluating Svalboard for CTS management.
-
-### Primary Structures Affected
-
-| Structure | Conventional Keyboard Loading | Svalboard Loading |
-|---|---|---|
-| **Median nerve** | Compressed at 30-65 mmHg; irritation from adjacent tendon swelling | Near-resting pressure (2-10 mmHg); reduced tendon volume |
-| **FDP tendons (x4)** | High-amplitude, high-frequency excursion | Short excursion; force shifted to intrinsics |
-| **FDS tendons (x4)** | PIP flexion per keystroke; adds tunnel volume | Low activation; tilt bypasses PIP flexion |
-| **FPL tendon** | Active for thumb keys (spacebar, modifiers) | Reduced; thumb via low-excursion tilt |
-| **Transverse carpal ligament** | Tensioned by wrist extension; compresses nerve | Relaxed in neutral; not tensioned |
-
-### Key Biomechanical Changes
-
-<table class="muscle-shift">
-<thead>
-<tr>
-<th>Parameter</th>
-<th>Conventional Keyboard</th>
-<th>Svalboard</th>
-<th>Clinical Significance</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td><strong>Wrist posture</strong></td>
-<td>20-30 deg extension</td>
-<td>0 deg (neutral)</td>
-<td>Primary determinant of intracarpal pressure</td>
-</tr>
-<tr>
-<td><strong>Tendon excursion</strong></td>
-<td>Full FDP/FDS range per keystroke</td>
-<td>Small (2-4 mm tilt travel)</td>
-<td>Reduces cumulative friction and synovial irritation</td>
-</tr>
-<tr>
-<td><strong>Actuation force</strong></td>
-<td>45-60 cN</td>
-<td>~20 cN (tunable to 8-10 cN)</td>
-<td>Proportionally reduces tendon tension in tunnel</td>
-</tr>
-<tr>
-<td><strong>Primary movers</strong></td>
-<td>FDP, FDS (extrinsic, cross wrist)</td>
-<td>Lumbricals, interossei (intrinsic, distal to tunnel)</td>
-<td>Decouples finger input from carpal tunnel loading</td>
-</tr>
-<tr>
-<td><strong>Co-contraction</strong></td>
-<td>Continuous wrist extensor firing</td>
-<td>None (hand supported)</td>
-<td>Removes compressive load from stabilizer muscles</td>
-</tr>
-<tr>
-<td><strong>Forearm posture</strong></td>
-<td>Pronated</td>
-<td>Neutral rotation</td>
-<td>Reduces pronator teres compression of median nerve</td>
-</tr>
-<tr>
-<td><strong>Ulnar deviation</strong></td>
-<td>Common (reaching for lateral keys)</td>
-<td>Eliminated</td>
-<td>Reduces carpal bone displacement and tunnel deformation</td>
-</tr>
-</tbody>
-</table>
-
-### Muscle Shift: From Extrinsic to Intrinsic
-
-**From:** FDP/FDS dominance (tendons transit the carpal tunnel)
-
-**To:** Lumbricals and interossei (originate distal to the tunnel)
-
-Neither intrinsic group sends contractile force through the tunnel. When they perform key activation, extrinsic flexors remain quiescent and tendon volume decreases.
-
-### Clinical Use Cases
-
-**Early / Mild CTS**
-- Intermittent paresthesia; mild electrodiagnostic slowing, no axonal loss
-- Conservative management: splinting, activity modification, possible injection
-- **Svalboard role:** Reduces mechanical provocation during work; extends conservative window; concrete modification without work cessation
-
-**Post-Surgical Return to Work**
-- After carpal tunnel release, returning to keyboard work at 4-8 weeks
-- **Svalboard role:** Reduces tendon loading in return-to-work progression; lowers recurrence risk; neutral posture protects healing site; supports graduated increase
-
-**Chronic RSI with Median Nerve Symptoms**
-- Longstanding RSI with CTS component, possible comorbidities
-- Multiple failed conservative interventions
-- **Svalboard role:** Addresses biomechanical root cause; reduces upper extremity loading; compatible with concurrent treatments
-
-### Prescribing Considerations
-
-- Learning curve: 2-4 weeks to basic proficiency, 4-8 weeks to approach prior speed
-- Reduced speed during learning itself lowers cumulative loading
-- No contraindications for CTS; neutral posture and low force are inherently conservative
-- Compatible with night splints, anti-inflammatory protocols, and therapy programs
-- Counsel patients: input device change, not a medical device; does not replace clinical treatment
-
-</div>

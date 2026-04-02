@@ -4,6 +4,43 @@ hero_title: Extend Functional Capacity by Reducing Energy Cost Per Keystroke
 hero_subtitle: Svalboard reduces typing energy cost far enough that functional capacity persists even as overall muscle strength declines.
 ---
 
+<div class="section provider" id="provider" markdown="1">
+
+## Provider Overview
+
+<span class="provider-badge">For Clinical Practitioners</span>
+
+**Primary benefit:** Energy minimization - reducing metabolic and mechanical typing cost to extend functional computer access as strength declines.
+
+**Mechanisms of action:**
+
+- **Reduced mechanical work** - low force and 1-2 mm travel reduce work (force x distance) per keystroke
+- **Removed proximal stabilization** - full hand support removes shoulder, trunk, and forearm holding demands
+- **Reduced motor unit recruitment** - lower thresholds preserve the limited motor unit pool
+
+**Clinical use cases:**
+
+- **Duchenne MD** - ambulatory or early non-ambulatory phases; extends computer access well beyond conventional keyboard limits
+- **Becker MD** - slower progression, same trajectory; early adoption supports continued professional/educational use
+- **Limb-girdle MD** - proximal weakness makes unsupported arms costly; full palm support removes this demand
+- **Facioscapulohumeral MD** - shoulder girdle weakness impairs arm positioning; Svalboard removes unsupported posture demands
+- **Myotonic dystrophy** - distal weakness and myotonia affect grip/release; low force and short travel reduce both
+- **Other progressive neuromuscular conditions** - any declining-strength condition benefits from the same energy minimization principle
+
+**When to consider Svalboard:**
+
+- Increasing fatigue during computer use
+- Typing sessions shortening due to muscle exhaustion
+- Compensatory postures during typing from proximal weakness
+- Transitioning to non-ambulatory status; need to preserve upper extremity function
+- Standard ergonomic interventions have not reduced typing fatigue
+
+**Assessment approach:**
+
+Observe current typing energy expenditure: compensatory postures, fatigue onset time, visible muscle effort. Compare with Svalboard's minimal demands. The greater the gap between available strength and conventional keyboard requirements, the greater the benefit.
+
+</div>
+
 <div class="section problem" markdown="1">
 
 ## The Clinical Problem
@@ -256,39 +293,3 @@ See the [Supporting Evidence](/index.html#supporting-evidence) section for full 
 
 </div>
 
-<div class="section provider" id="provider" markdown="1">
-
-## Provider Overview
-
-<span class="provider-badge">For Clinical Practitioners</span>
-
-**Primary benefit:** Energy minimization - reducing metabolic and mechanical typing cost to extend functional computer access as strength declines.
-
-**Mechanisms of action:**
-
-- **Reduced mechanical work** - low force and 1-2 mm travel reduce work (force x distance) per keystroke
-- **Removed proximal stabilization** - full hand support removes shoulder, trunk, and forearm holding demands
-- **Reduced motor unit recruitment** - lower thresholds preserve the limited motor unit pool
-
-**Clinical use cases:**
-
-- **Duchenne MD** - ambulatory or early non-ambulatory phases; extends computer access well beyond conventional keyboard limits
-- **Becker MD** - slower progression, same trajectory; early adoption supports continued professional/educational use
-- **Limb-girdle MD** - proximal weakness makes unsupported arms costly; full palm support removes this demand
-- **Facioscapulohumeral MD** - shoulder girdle weakness impairs arm positioning; Svalboard removes unsupported posture demands
-- **Myotonic dystrophy** - distal weakness and myotonia affect grip/release; low force and short travel reduce both
-- **Other progressive neuromuscular conditions** - any declining-strength condition benefits from the same energy minimization principle
-
-**When to consider Svalboard:**
-
-- Increasing fatigue during computer use
-- Typing sessions shortening due to muscle exhaustion
-- Compensatory postures during typing from proximal weakness
-- Transitioning to non-ambulatory status; need to preserve upper extremity function
-- Standard ergonomic interventions have not reduced typing fatigue
-
-**Assessment approach:**
-
-Observe current typing energy expenditure: compensatory postures, fatigue onset time, visible muscle effort. Compare with Svalboard's minimal demands. The greater the gap between available strength and conventional keyboard requirements, the greater the benefit.
-
-</div>
