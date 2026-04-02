@@ -8,7 +8,9 @@ hero_subtitle: Cubital tunnel is a proximal load problem. Svalboard addresses it
 
 ## Provider Overview
 
-<span class="badge">For Clinical Providers</span>
+<span class="provider-badge">For Clinical Providers</span>
+
+**Condition:** Cubital tunnel syndrome (ICD-10: G56.20 unspecified, G56.21 right, G56.22 left)
 
 ### Structures Affected
 

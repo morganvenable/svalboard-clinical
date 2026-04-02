@@ -10,6 +10,8 @@ hero_subtitle: Svalboard does not treat the contracture  -  but enables function
 
 ## Provider Overview
 
+**Condition:** Dupuytren's contracture / palmar fascial fibromatosis (ICD-10: M72.0)
+
 ### Focus: Adaptation, Not Treatment
 
 Svalboard addresses the functional consequence of Dupuytren's  -  inability to type  -  without modifying the disease. If the digit cannot extend, eliminate the need for extension.

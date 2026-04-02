@@ -10,6 +10,8 @@ hero_subtitle: Svalboard reduces typing energy cost far enough that functional c
 
 <span class="provider-badge">For Clinical Practitioners</span>
 
+**Condition:** Muscular dystrophy (ICD-10: G71.0) - includes Duchenne/Becker (G71.01), facioscapulohumeral (G71.04), limb-girdle (G71.03), other (G71.09)
+
 **Primary benefit:** Energy minimization - reducing metabolic and mechanical typing cost to extend functional computer access as strength declines.
 
 **Mechanisms of action:**

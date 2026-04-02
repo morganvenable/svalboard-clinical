@@ -37,7 +37,9 @@
       "Bash(python3:*)",
       "Bash(ls \"/c/Users/morga/OneDrive/Documents/GitHub/Svalboard Clinical Docs/assets/\"*trigger*)",
       "Bash(ls \"/c/Users/morga/OneDrive/Documents/GitHub/Svalboard Clinical Docs/assets/\"*IMG*)",
-      "Bash(python3 -c \":*)"
+      "Bash(python3 -c \":*)",
+      "Bash(do echo:*)",
+      "Read(//c/Users/morga/OneDrive/Documents/GitHub/Svalboard Clinical Docs/**)"
     ]
   }
 }
