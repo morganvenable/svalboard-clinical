@@ -246,6 +246,14 @@ For a patient whose muscle output declines year over year, reducing typing energ
 
 As strength declines, a traditional keyboard becomes unusable when output drops below its high functional threshold. Svalboard's lower threshold extends typing ability for a longer period.
 
+### Precedent: DataHand Fatigue Study
+
+The Fernandez study (Stanford GSB / USPS) found that operators using the DataHand - Svalboard's predecessor, sharing the same core design principles - showed a **10% fatigue-related performance advantage** by end of day. Traditional operators slowed after 2-3 hours; DataHand operators did not decline. In 6+ hour sessions, the throughput advantage grew to 12.3%.
+
+For healthy workers, this is a productivity finding. For patients with muscular dystrophy, where fatigue is the functional ceiling, the implication is larger: a device that measurably extends productive typing duration in healthy users should provide amplified benefit when the available energy budget is already constrained by disease.
+
+See the [Supporting Evidence](/index.html#supporting-evidence) section for full study details and caveats.
+
 </div>
 
 <div class="section provider" id="provider" markdown="1">

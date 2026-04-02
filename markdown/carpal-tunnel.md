@@ -238,6 +238,8 @@ Without extensor co-contraction, compressive load across the wrist drops, loweri
 
 For patients managed conservatively - splinting, activity modification, injection - Svalboard addresses the **ongoing mechanical provocation** these interventions do not. A night splint holds the wrist neutral during sleep. Svalboard extends that principle into 8 hours of typing without requiring work cessation.
 
+**Precedent:** The Harrington Arthritis Research Center studied the DataHand (Svalboard's predecessor, same core design) and found a **71% reduction in pain** after ~3 months of use (7.7 to 2.2 on a 0-10 scale) in keyboard users with existing pain conditions. The University of Arizona found 94% of users reported reduced wrist stress. See [Supporting Evidence](/index.html#supporting-evidence) for details and caveats.
+
 </div>
 
 ---

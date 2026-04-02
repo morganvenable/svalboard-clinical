@@ -194,6 +194,21 @@ Every level of the kinetic chain benefits:
 
 </div>
 
+## Supporting Evidence
+
+Svalboard is the successor to the DataHand, a finger-well keyboard produced from the early 1990s through the mid-2000s. The two devices share core design principles: directional finger activation, supported palms, low force, short travel, and integrated pointing. Several independent studies on the DataHand provide a historical evidence base for this class of input device.
+
+| Study | Institution | Key Finding |
+|---|---|---|
+| Kaiser & Koeneman (1994) | Harrington Arthritis Research Center | **71% pain reduction** after ~3 months of use (from 7.7 to 2.2 on 0-10 scale). Peer-reviewed, presented at RESNA. |
+| Fernandez (Stanford) | Stanford GSB / USPS | **10% fatigue-related performance advantage** by end of day. Traditional operators slowed after 2-3 hours; DataHand operators did not. Throughput advantage grew to 12.3% in 6+ hour sessions. |
+| Stralser & Russell (1998) | University of Arizona | **94%** reported reduced wrist stress. **90%+** reported reduced fatigue. **~60%** reported they could not work without the device. |
+| Sara Lee Corporation | LOMA Systems Forum | Year-long study of 15 operators with keyboard-related pain. HR manager stated DataHand would "completely eliminate keyboard-related cumulative trauma disorder." |
+
+**Important context:** These studies were conducted on the DataHand, not the Svalboard. Sample sizes were small, and most were industry-funded (though independently conducted). The Harrington study is the strongest - peer-reviewed and presented at RESNA. No randomized controlled trials exist for either device.
+
+Svalboard preserves the ergonomic mechanisms these studies evaluated (reduced travel, low force, supported hands, multi-directional activation) while improving on force profiles and per-finger adjustability. The DataHand evidence supports the paradigm but does not substitute for Svalboard-specific clinical data.
+
 ## Used By
 
 - **Progressive neuromuscular disease** - muscular dystrophy, ALS - preserving function as strength declines
