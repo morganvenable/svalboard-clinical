@@ -6,9 +6,9 @@ hero_subtitle: For hypermobility conditions, Svalboard replaces active stabiliza
 
 <div id="provider" class="section provider" markdown="1">
 
-<span class="badge provider-badge">Provider Overview</span>
+<span class="provider-badge">For Healthcare Providers</span>
 
-## Clinical Summary for Referring Providers
+## Provider Overview
 
 **Condition family:** Ehlers-Danlos Syndrome (all subtypes), Hypermobility Spectrum Disorders, Marfan Syndrome, and other heritable connective tissue disorders affecting joint stability.
 
