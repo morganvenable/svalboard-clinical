@@ -38,6 +38,7 @@ NAV_LINKS = [
     ("dupuytrens.html", "Dupuytren's"),
     ("trigger-finger.html", "Trigger Finger"),
     ("shoulder-neck.html", "Shoulder & Neck"),
+    ("hsa-draft.html", "HSA Draft"),
 ]
 
 def build_nav(current_file):
