@@ -6,8 +6,6 @@ hero_subtitle: Svalboard reduces tendon excursion and stabilization demands on t
 
 <div class="section provider" id="provider" markdown="1">
 
-<span class="provider-badge">For Healthcare Providers</span>
-
 ## Provider Overview
 
 **Condition:** De Quervain's Tenosynovitis (ICD-10: M65.4)

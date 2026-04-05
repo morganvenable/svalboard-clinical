@@ -6,8 +6,6 @@ hero_subtitle: Svalboard replaces the flexion-extension cycle that aggravates tr
 
 <div class="section provider" markdown="1" id="provider">
 
-<span class="provider-badge">For Healthcare Providers</span>
-
 ## Provider Overview
 
 **Condition:** Stenosing tenosynovitis (trigger finger)  -  ICD-10: M65.3

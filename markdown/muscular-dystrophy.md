@@ -6,8 +6,6 @@ hero_subtitle: Svalboard reduces typing energy cost far enough that functional c
 
 <div class="section provider" id="provider" markdown="1">
 
-<span class="provider-badge">For Healthcare Providers</span>
-
 ## Provider Overview
 
 **Condition:** Muscular dystrophy (ICD-10: G71.0) - includes Duchenne/Becker (G71.01), facioscapulohumeral (G71.04), limb-girdle (G71.03), other (G71.09)

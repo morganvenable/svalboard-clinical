@@ -6,8 +6,6 @@ hero_subtitle: Svalboard reduces tendon excursion and wrist extension - the two 
 
 <div id="provider" class="section provider" markdown="1">
 
-<span class="provider-badge">For Healthcare Providers</span>
-
 ## Provider Overview
 
 **Condition:** Carpal tunnel syndrome (ICD-10: G56.00 unspecified, G56.01 right, G56.02 left)

@@ -6,8 +6,6 @@ hero_subtitle: Svalboard puts pointing devices under your palms, removing the re
 
 <div class="section provider" id="provider" markdown="1">
 
-<span class="provider-badge">For Healthcare Providers</span>
-
 ## Provider Overview
 
 **Conditions addressed:**

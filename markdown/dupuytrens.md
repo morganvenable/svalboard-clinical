@@ -6,8 +6,6 @@ hero_subtitle: Svalboard does not treat the contracture  -  but enables function
 
 <div class="section provider" id="provider" markdown="1">
 
-<span class="provider-badge">For Healthcare Providers</span>
-
 ## Provider Overview
 
 **Condition:** Dupuytren's contracture / palmar fascial fibromatosis (ICD-10: M72.0)
