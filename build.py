@@ -69,7 +69,6 @@ TEMPLATE = """<!DOCTYPE html>
   <div class="hero" style="{hero_style}">
     <h1>{hero_title}</h1>
     <p class="subtitle">{hero_subtitle}</p>
-    {hero_buttons}
   </div>
 
   <div class="content">
@@ -145,8 +144,6 @@ def build_file(md_path):
 
     out_name = stem + ".html"
     nav = build_nav(out_name)
-    hero_buttons = build_hero_buttons(meta)
-
     html = TEMPLATE.format(
         title=title,
         css=CSS_REL,
@@ -154,7 +151,6 @@ def build_file(md_path):
         hero_style=hero_style,
         hero_title=hero_title,
         hero_subtitle=hero_subtitle,
-        hero_buttons=hero_buttons,
         body=body_html,
     )
 
