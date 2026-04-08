@@ -40,7 +40,9 @@
       "Bash(python3 -c \":*)",
       "Bash(do echo:*)",
       "Read(//c/Users/morga/OneDrive/Documents/GitHub/Svalboard Clinical Docs/**)",
-      "Bash(grep -rn \"provider-badge\\\\|badge\" markdown/*.md docs/*.html)"
+      "Bash(grep -rn \"provider-badge\\\\|badge\" markdown/*.md docs/*.html)",
+      "Bash(dig clinical.svalboard.com CNAME +short)",
+      "Bash(nslookup clinical.svalboard.com)"
     ]
   }
 }

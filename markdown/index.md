@@ -4,6 +4,25 @@ hero_title: Reduce Mechanical Load. Restore Function.
 hero_subtitle: A low-force input system that reduces tendon strain, stabilizes the upper extremity, and shifts effort to more efficient muscle groups.
 ---
 
+<div style="display:grid; grid-template-columns:1fr 1fr 1fr; gap:16px; margin-bottom:2.5rem;">
+
+<div style="background:#fff; border:1px solid #e0e0e0; border-radius:12px; overflow:hidden; text-align:center;">
+<img src="https://svalboard.com/cdn/shop/files/side_view_left_white_-_1280x964_6a639396-7093-4741-8e31-7eaaf2d8ebdf.png?v=1749228745&width=800" alt="Svalboard side view showing adjustable finger clusters" style="width:100%; height:auto;">
+<p style="padding:0.75rem 1rem; font-size:13px; color:#555; margin:0;"><strong>Adjustable fitment</strong> - each finger cluster positions independently to match hand anatomy</p>
+</div>
+
+<div style="background:#fff; border:1px solid #e0e0e0; border-radius:12px; overflow:hidden; text-align:center;">
+<img src="https://svalboard.com/cdn/shop/files/cross-section-04.gif?v=1747256338&width=800" alt="Animated cross-section of Svalboard key cluster showing magnetic breakaway mechanism" style="width:100%; height:auto;">
+<p style="padding:0.75rem 1rem; font-size:13px; color:#555; margin:0;"><strong>Magnetic breakaway keys</strong> - 20 gf activation with inverse-square force dropoff</p>
+</div>
+
+<div style="background:#fff; border:1px solid #e0e0e0; border-radius:12px; overflow:hidden; text-align:center;">
+<img src="https://svalboard.com/cdn/shop/files/PXL_20241019_002936999.jpg?v=1746914498&width=800" alt="Hands resting in Svalboard palm cradles during use" style="width:100%; height:auto;">
+<p style="padding:0.75rem 1rem; font-size:13px; color:#555; margin:0;"><strong>Full palm support</strong> - hands rest in neutral posture; no hovering, gripping, or reaching</p>
+</div>
+
+</div>
+
 <div class="section" markdown="1">
 
 ## Biomechanical Rationale
